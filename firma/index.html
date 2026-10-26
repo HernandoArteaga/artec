@@ -1,0 +1,336 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="referrer" content="no-referrer">
+<title>Firma del informe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Semi+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* El informe, las imágenes y los datos personales van cifrados (AES-GCM, clave derivada con PBKDF2); esta página solo los descifra en el navegador con la clave. */
+:root {
+  --paper: #f5f6f3;
+  --surface: #ffffff;
+  --ink: #16202a;
+  --muted: #5a6570;
+  --rule: #d6dbd4;
+  --accent: #b5450e;
+  --accent-ink: #ffffff;
+  --sheet: #ffffff;
+  --sig: #1c3a8a;
+  --ok: #2e6a39;
+  --warn: #965800;
+  --display: "Barlow Semi Condensed", "Arial Narrow", system-ui, sans-serif;
+  --body: "Barlow", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #101519; --surface: #172026; --ink: #e5eae6; --muted: #9ba6af; --rule: #2a333a;
+    --accent: #ee8a4d; --accent-ink: #1b0d04; --sheet: #ffffff; --sig: #1c3a8a; --ok: #82c58f; --warn: #e3a74c;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #101519; --surface: #172026; --ink: #e5eae6; --muted: #9ba6af; --rule: #2a333a;
+  --accent: #ee8a4d; --accent-ink: #1b0d04; --sheet: #ffffff; --sig: #1c3a8a; --ok: #82c58f; --warn: #e3a74c;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5; }
+.wrap, .lock {
+  margin: 0 auto; display: grid;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 680px; gap: 24px; padding-top: 28px; padding-bottom: 56px; }
+.lock { max-width: 460px; min-height: 100vh; min-height: 100dvh; align-content: center; gap: 10px; padding-top: 32px; padding-bottom: 48px; }
+.eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px; }
+h1 { font-family: var(--display); font-weight: 700; font-size: 34px; line-height: 1.1; margin: 0 0 10px; text-wrap: balance; }
+h2 { font-family: var(--display); font-weight: 600; font-size: 22px; line-height: 1.2; margin: 0; text-wrap: balance; }
+p { margin: 0; }
+.lead { color: var(--ink); max-width: 62ch; }
+.lock form { display: grid; gap: 10px; margin-top: 14px; }
+.lock label { font-weight: 600; }
+.lock input { width: 100%; font: 500 18px/1.2 var(--mono); padding: 12px 14px; border-radius: 8px; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); }
+.lock input:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.err { min-height: 1.5em; font-size: 15px; color: var(--warn); }
+.steps { margin: 14px 0 0; padding: 0; list-style: none; display: grid; gap: 6px; counter-reset: s; }
+.steps li { counter-increment: s; display: grid; grid-template-columns: 26px 1fr; gap: 8px; align-items: baseline; color: var(--muted); }
+.steps li::before { content: counter(s); font-family: var(--mono); font-size: 13px; color: var(--accent); font-weight: 500; }
+.steps a { color: var(--accent); }
+.panel { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 18px; display: grid; gap: 14px; min-width: 0; }
+.panel-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 4px 12px; }
+.tag { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.preview { position: relative; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; }
+.preview img.sheet { display: block; width: 100%; height: auto; aspect-ratio: 633 / 555; }
+.slot { position: absolute; left: 11.23%; top: 24.8%; width: 66.67%; height: 40%; }
+.slot.empty { border: 2px dashed var(--accent); border-radius: 4px; display: grid; place-items: center; }
+.slot.empty span { font-family: var(--mono); font-size: 12px; color: var(--accent); background: var(--sheet); padding: 2px 6px; }
+.slot img { width: 100%; height: 100%; object-fit: contain; object-position: left bottom; }
+.pad-box { position: relative; background: var(--sheet); border: 1px solid var(--rule); border-radius: 8px; }
+#pad { display: block; width: 100%; height: 210px; touch-action: none; cursor: crosshair; border-radius: 8px; }
+.baseline { position: absolute; left: 7%; right: 7%; bottom: 46px; border-top: 1px solid #9aa3ab; pointer-events: none; }
+.hint { position: absolute; left: 7%; bottom: 22px; font-family: var(--mono); font-size: 11px; color: #6b7480; pointer-events: none; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; }
+button, a.btn { font: 600 16px/1 var(--body); border-radius: 8px; padding: 13px 18px; cursor: pointer; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); text-decoration: none; text-align: center; }
+button.primary, a.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); flex: 1 1 220px; }
+button:disabled { opacity: 0.45; cursor: not-allowed; }
+button:focus-visible, a:focus-visible, #pad:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.status { min-height: 1.5em; font-size: 15px; color: var(--muted); }
+.status.ok { color: var(--ok); }
+.status.warn { color: var(--warn); }
+.pages { display: grid; gap: 18px; }
+.page { margin: 0; display: grid; gap: 6px; }
+.page img { display: block; width: 100%; height: auto; background: var(--sheet); border: 1px solid var(--rule); border-radius: 4px; aspect-ratio: 745 / 1053; }
+.page figcaption { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.note { font-size: 14px; color: var(--muted); }
+</style>
+</head>
+<body>
+<div id="lock" class="lock">
+  <p class="eyebrow">Firma de documento</p>
+  <h1>Firma del informe</h1>
+  <p class="lead">Escribe la clave que te envió Hernando para abrir el informe.</p>
+  <form id="unlock" autocomplete="off">
+    <label for="pw">Clave</label>
+    <input id="pw" name="pw" type="text" autocapitalize="none" autocorrect="off" spellcheck="false" autocomplete="off" required>
+    <button id="go" class="primary" type="submit">Abrir</button>
+    <p id="err" class="err" role="alert"></p>
+  </form>
+</div>
+<main id="app" class="wrap" hidden></main>
+
+<script src="https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
+<script>
+(() => {
+  const SALT = 'lsXdPykQ/DKtVz9I44bUFg==';                               // base64
+  const ITER = 600000;                                 // PBKDF2-SHA256
+  const SIG_PAGE = 19;                                   // página 20 (base 0)
+  const BOX = { x: 92, y: 580, w: 190, h: 100 };         // puntos PDF, origen abajo a la izquierda: sobre la línea de firma
+  const te = new TextEncoder();
+  let KEY = null, pdfPromise = null;
+
+  // ---------- descifrado ----------
+  const fromB64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+  async function deriveKey(pw) {
+    const norm = pw.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const base = await crypto.subtle.importKey('raw', te.encode(norm), 'PBKDF2', false, ['deriveKey']);
+    return crypto.subtle.deriveKey({ name: 'PBKDF2', hash: 'SHA-256', salt: fromB64(SALT), iterations: ITER },
+      base, { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+  }
+  async function openFile(name, key = KEY) {
+    const r = await fetch('d/' + name + '.bin');
+    if (!r.ok) throw new Error('No se pudo descargar ' + name);
+    const buf = new Uint8Array(await r.arrayBuffer());
+    return crypto.subtle.decrypt({ name: 'AES-GCM', iv: buf.subarray(0, 12), additionalData: te.encode(name) }, key, buf.subarray(12));
+  }
+  const imgURL = buf => URL.createObjectURL(new Blob([buf], { type: 'image/jpeg' }));
+
+  // ---------- clave ----------
+  const form = document.getElementById('unlock'), pwIn = document.getElementById('pw');
+  const err = document.getElementById('err'), go = document.getElementById('go');
+  if (!window.crypto || !crypto.subtle) {
+    err.textContent = 'Este navegador no puede abrir el informe. Ábrelo en Chrome o Safari.';
+    go.disabled = true;
+  }
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    if (!pwIn.value.trim()) return;
+    go.disabled = true; go.textContent = 'Abriendo…'; err.textContent = '';
+    try {
+      const key = await deriveKey(pwIn.value);
+      let meta;
+      try { meta = JSON.parse(new TextDecoder().decode(await openFile('m', key))); }
+      catch (x) {
+        if (x && x.name === 'OperationError') { err.textContent = 'Clave incorrecta. Revisa el mensaje de Hernando.'; return; }
+        throw x;
+      }
+      KEY = key;
+      start(meta);
+    } catch (x) {
+      err.textContent = 'No se pudo abrir el informe. Revisa la conexión e intenta de nuevo.';
+    } finally {
+      go.disabled = false; go.textContent = 'Abrir';
+    }
+  });
+
+  function start(meta) {
+    pdfPromise = openFile('doc').catch(() => null);        // el PDF se descarga en segundo plano
+    document.getElementById('lock').hidden = true;
+    const app = document.getElementById('app');
+    app.innerHTML = meta.html;
+    app.hidden = false;
+    if (meta.title) document.title = meta.title;
+    window.scrollTo(0, 0);
+    openFile('f20').then(b => { document.getElementById('sheet').src = imgURL(b); }).catch(() => {});
+    initPages(meta.pages);
+    initPad(meta.out);
+  }
+
+  // ---------- páginas del informe (se descifran al acercarse a la pantalla) ----------
+  function initPages(n) {
+    const host = document.getElementById('pages');
+    const io = 'IntersectionObserver' in window
+      ? new IntersectionObserver(es => es.forEach(en => { if (en.isIntersecting) { io.unobserve(en.target); loadImg(en.target, 2); } }), { rootMargin: '1200px 0px' })
+      : null;
+    for (let i = 1; i <= n; i++) {
+      const fig = document.createElement('figure'); fig.className = 'page';
+      const img = document.createElement('img');
+      img.alt = 'Página ' + i + ' del informe'; img.width = 745; img.height = 1053;
+      img.dataset.id = 'p' + String(i).padStart(2, '0');
+      const cap = document.createElement('figcaption'); cap.textContent = 'Página ' + i + ' de ' + n;
+      fig.append(img, cap); host.append(fig);
+      io ? io.observe(img) : loadImg(img, 2);
+    }
+  }
+  function loadImg(img, tries) {
+    openFile(img.dataset.id).then(b => { img.src = imgURL(b); })
+      .catch(() => { if (tries > 0) setTimeout(() => loadImg(img, tries - 1), 1500); });
+  }
+
+  // ---------- firma ----------
+  function initPad(outName) {
+    const pad = document.getElementById('pad');
+    const ctx = pad.getContext('2d');
+    const strokes = [];
+    let current = null;
+
+    function fit() {
+      const r = pad.getBoundingClientRect();
+      const dpr = Math.max(1, window.devicePixelRatio || 1);
+      pad.width = Math.round(r.width * dpr); pad.height = Math.round(r.height * dpr);
+      redraw();
+    }
+    function lineWidthFor(wCss) { return Math.max(1.8, wCss * 0.0045); }
+    function drawStrokes(c, w, h, lw, ox = 0, oy = 0) {
+      c.lineCap = 'round'; c.lineJoin = 'round';
+      c.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue('--sig').trim() || '#1c3a8a';
+      c.lineWidth = lw;
+      for (const s of strokes) {
+        if (!s.length) continue;
+        c.beginPath();
+        const p0 = s[0]; c.moveTo(p0.x * w - ox, p0.y * h - oy);
+        if (s.length === 1) c.lineTo(p0.x * w - ox + 0.01, p0.y * h - oy);
+        for (let i = 1; i < s.length; i++) {
+          const a = s[i - 1], b = s[i];
+          c.quadraticCurveTo(a.x * w - ox, a.y * h - oy, (a.x + b.x) / 2 * w - ox, (a.y + b.y) / 2 * h - oy);
+        }
+        const last = s[s.length - 1]; c.lineTo(last.x * w - ox, last.y * h - oy);
+        c.stroke();
+      }
+    }
+    function redraw() {
+      ctx.setTransform(1, 0, 0, 1, 0, 0);
+      ctx.clearRect(0, 0, pad.width, pad.height);
+      const r = pad.getBoundingClientRect();
+      const dpr = pad.width / Math.max(1, r.width);
+      drawStrokes(ctx, pad.width, pad.height, lineWidthFor(r.width) * dpr);
+    }
+    function pos(e) {
+      const r = pad.getBoundingClientRect();
+      return { x: Math.min(1, Math.max(0, (e.clientX - r.left) / r.width)), y: Math.min(1, Math.max(0, (e.clientY - r.top) / r.height)) };
+    }
+    pad.addEventListener('pointerdown', e => { e.preventDefault(); pad.setPointerCapture(e.pointerId); current = [pos(e)]; strokes.push(current); redraw(); });
+    pad.addEventListener('pointermove', e => { if (!current) return; e.preventDefault(); current.push(pos(e)); redraw(); });
+    const end = () => { if (!current) return; current = null; onChange(); };
+    pad.addEventListener('pointerup', end); pad.addEventListener('pointercancel', end); pad.addEventListener('lostpointercapture', end);
+    window.addEventListener('resize', fit);
+
+    // firma recortada a su contorno, en PNG transparente
+    function signatureCanvas() {
+      const r = pad.getBoundingClientRect();
+      const ratio = r.height / r.width;
+      let minX = 1, minY = 1, maxX = 0, maxY = 0;
+      for (const s of strokes) for (const p of s) { minX = Math.min(minX, p.x); maxX = Math.max(maxX, p.x); minY = Math.min(minY, p.y); maxY = Math.max(maxY, p.y); }
+      const W = 1200, H = Math.round(W * ratio);
+      const lw = lineWidthFor(W), m = lw * 2;
+      const x0 = Math.max(0, minX * W - m), y0 = Math.max(0, minY * H - m);
+      const x1 = Math.min(W, maxX * W + m), y1 = Math.min(H, maxY * H + m);
+      const c = document.createElement('canvas');
+      c.width = Math.max(1, Math.round(x1 - x0)); c.height = Math.max(1, Math.round(y1 - y0));
+      drawStrokes(c.getContext('2d'), W, H, lw, x0, y0);
+      return c;
+    }
+    const hasInk = () => strokes.some(s => s.length > 0);
+
+    const slot = document.getElementById('slot');
+    const saveBtn = document.getElementById('save');
+    const status = document.getElementById('status');
+    const out = document.getElementById('out'), dl = document.getElementById('dl'), shareBtn = document.getElementById('share');
+    let lastURL = null, lastFile = null;
+    function setStatus(text, kind) { status.textContent = text; status.className = 'status' + (kind ? ' ' + kind : ''); }
+    function clearOut() {
+      out.hidden = true; shareBtn.hidden = true; lastFile = null;
+      if (lastURL) { URL.revokeObjectURL(lastURL); lastURL = null; }
+      dl.removeAttribute('href');
+    }
+    function onChange() {
+      clearOut();
+      if (hasInk()) {
+        slot.className = 'slot'; slot.innerHTML = '';
+        const img = document.createElement('img'); img.alt = 'Tu firma en la página 20'; img.src = signatureCanvas().toDataURL('image/png');
+        slot.append(img);
+        saveBtn.disabled = false;
+        setStatus('Revisa cómo queda abajo y toca «Preparar PDF firmado».');
+      } else {
+        slot.className = 'slot empty'; slot.innerHTML = '<span>Tu firma va aquí</span>';
+        saveBtn.disabled = true;
+        setStatus('Firma en el recuadro para continuar.');
+      }
+    }
+    document.getElementById('clear').addEventListener('click', () => { strokes.length = 0; current = null; redraw(); onChange(); });
+
+    async function buildSignedPdf() {
+      if (!window.PDFLib) throw { code: 'lib' };
+      let src = await pdfPromise;
+      if (!src) { pdfPromise = openFile('doc'); src = await pdfPromise; }
+      const doc = await PDFLib.PDFDocument.load(src.slice(0));
+      const blob = await new Promise(r => signatureCanvas().toBlob(r, 'image/png'));
+      const png = await doc.embedPng(new Uint8Array(await blob.arrayBuffer()));
+      const page = doc.getPage(SIG_PAGE);
+      const s = Math.min(BOX.w / png.width, BOX.h / png.height);
+      page.drawImage(png, { x: BOX.x, y: BOX.y, width: png.width * s, height: png.height * s });
+      doc.setModificationDate(new Date());
+      return await doc.save();
+    }
+
+    saveBtn.addEventListener('click', async () => {
+      if (!hasInk()) return;
+      saveBtn.disabled = true; clearOut();
+      setStatus('Preparando el PDF firmado…');
+      try {
+        const bytes = await buildSignedPdf();
+        const blob = new Blob([bytes], { type: 'application/pdf' });
+        lastURL = URL.createObjectURL(blob);
+        dl.href = lastURL; dl.download = outName;
+        try { lastFile = new File([blob], outName, { type: 'application/pdf' }); } catch (x) { lastFile = null; }
+        shareBtn.hidden = !(lastFile && navigator.canShare && navigator.canShare({ files: [lastFile] }));
+        out.hidden = false;
+        setStatus(shareBtn.hidden
+          ? 'Listo. Descarga el PDF firmado y envíaselo a Hernando por WhatsApp o correo.'
+          : 'Listo. Descarga el PDF firmado o compártelo directamente con Hernando por WhatsApp o correo.', 'ok');
+      } catch (x) {
+        setStatus(x && x.code === 'lib'
+          ? 'No cargó el programa que arma el PDF. Revisa la conexión y recarga la página.'
+          : 'No se pudo preparar el PDF. Recarga la página e intenta de nuevo.', 'warn');
+      } finally {
+        saveBtn.disabled = !hasInk();
+      }
+    });
+    shareBtn.addEventListener('click', async () => {
+      if (!lastFile) return;
+      try { await navigator.share({ files: [lastFile], title: outName }); } catch (x) { /* el usuario cerró el menú */ }
+    });
+
+    fit();
+  }
+})();
+</script>
+</body>
+</html>
