@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Rastreador SECOP II</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: barra de filtros a la izquierda (arriba en móvil), resultados como lista de expedientes a la derecha; pestañas Buscar / Seguimiento */
+:root{
+  --bg:#f3f5f4; --surface:#ffffff; --ink:#15211f; --muted:#5b6b68; --line:#d9e0de;
+  --accent:#0b6a72; --accent-ink:#ffffff; --accent-soft:#e1eff0;
+  --ochre:#a8640a; --ochre-soft:#fbf0de;
+  --ok:#2f7a3d; --ok-soft:#e3f2e5; --bad:#a23b2c; --bad-soft:#f8e4e0;
+  --f-display:"IBM Plex Sans Condensed","Arial Narrow",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1716; --surface:#16211f; --ink:#e4ecea; --muted:#93a5a1; --line:#28363a;
+  --accent:#4fb3bb; --accent-ink:#06201f; --accent-soft:#18363a;
+  --ochre:#e0a04a; --ochre-soft:#3a2b14;
+  --ok:#6cc07a; --ok-soft:#173222; --bad:#e58474; --bad-soft:#3d1f1a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1716; --surface:#16211f; --ink:#e4ecea; --muted:#93a5a1; --line:#28363a;
+  --accent:#4fb3bb; --accent-ink:#06201f; --accent-soft:#18363a;
+  --ochre:#e0a04a; --ochre-soft:#3a2b14;
+  --ok:#6cc07a; --ok-soft:#173222; --bad:#e58474; --bad-soft:#3d1f1a; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body)}
+a{color:var(--accent)}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+header.top{background:var(--surface);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+.top-in{max-width:1280px;margin:0 auto;padding:12px max(16px,env(safe-area-inset-right,0px)) 0 max(16px,env(safe-area-inset-left,0px));display:flex;flex-wrap:wrap;align-items:flex-end;gap:8px 24px}
+.brand{display:flex;align-items:baseline;gap:10px;padding-bottom:10px}
+.brand h1{font:700 22px/1 var(--f-display);letter-spacing:.01em;margin:0}
+.brand h1 b{color:var(--accent)}
+.brand small{font:500 11px var(--f-mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+nav.tabs{display:flex;gap:4px;margin-left:auto}
+nav.tabs button{background:none;border:0;border-bottom:3px solid transparent;padding:8px 12px 9px;font:600 15px var(--f-display);color:var(--muted);cursor:pointer}
+nav.tabs button[aria-selected="true"]{color:var(--ink);border-color:var(--accent)}
+.count-pill{display:inline-block;min-width:20px;padding:0 6px;margin-left:6px;border-radius:10px;background:var(--accent-soft);color:var(--accent);font:500 12px/20px var(--f-mono);text-align:center}
+
+main{max-width:1280px;margin:0 auto;padding:20px max(16px,env(safe-area-inset-right,0px)) 40px max(16px,env(safe-area-inset-left,0px))}
+.layout{display:grid;grid-template-columns:300px minmax(0,1fr);gap:24px;align-items:start}
+@media (max-width:880px){.layout{grid-template-columns:minmax(0,1fr)}}
+
+aside.filters{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:12px;position:sticky;top:80px}
+@media (max-width:880px){aside.filters{position:static}}
+.filters h2,.panel h2{font:600 13px var(--f-display);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0}
+label.f{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--muted)}
+label.f input,label.f select{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:7px 9px;font-size:14px;color:var(--ink);width:100%;min-width:0}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.chk{display:flex;gap:8px;align-items:center;font-size:14px}
+.hint{font-size:12px;color:var(--muted);margin:0}
+.btns{display:flex;gap:8px;flex-wrap:wrap}
+.btn{border:1px solid var(--line);background:var(--surface);border-radius:4px;padding:8px 12px;cursor:pointer;font-weight:500;font-size:14px}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+.btn.sm{padding:4px 9px;font-size:13px}
+.btn:disabled{opacity:.5;cursor:default}
+
+.presets{display:flex;flex-wrap:wrap;gap:6px}
+.preset{display:inline-flex;align-items:center;gap:4px;border:1px solid var(--line);background:var(--bg);border-radius:14px;padding:3px 4px 3px 10px;font-size:13px;cursor:pointer}
+.preset:hover{border-color:var(--accent)}
+.preset .x{border:0;background:none;color:var(--muted);cursor:pointer;padding:0 4px;font-size:14px;line-height:1}
+.preset .new{background:var(--ochre);color:var(--surface);border-radius:8px;font:500 11px/16px var(--f-mono);padding:0 5px}
+
+.summary{display:flex;flex-wrap:wrap;gap:8px 24px;align-items:baseline;margin-bottom:12px}
+.summary .big{font:700 28px/1 var(--f-display);font-variant-numeric:tabular-nums}
+.summary .lbl{font-size:13px;color:var(--muted)}
+.summary .tools{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
+
+.status{padding:14px 16px;border-radius:6px;background:var(--surface);border:1px solid var(--line);font-size:14px;margin-bottom:12px}
+.status.err{background:var(--bad-soft);border-color:var(--bad);color:var(--ink)}
+.status code{font-family:var(--f-mono);font-size:12px;word-break:break-all}
+
+.list{display:flex;flex-direction:column;gap:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:14px 16px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 16px}
+.card.isnew{border-left:4px solid var(--ochre)}
+.card .meta{font:500 12px var(--f-mono);color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px}
+.card h3{font:600 17px/1.3 var(--f-display);margin:2px 0 0;grid-column:1;text-wrap:balance}
+.card .ent{font-size:14px;grid-column:1}
+.card .desc{font-size:13.5px;color:var(--muted);grid-column:1/-1;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card .desc.open{display:block}
+.card .side{grid-column:2;grid-row:1/4;text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.money{font:600 18px var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tags{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.tag{font-size:12px;padding:2px 8px;border-radius:3px;background:var(--bg);border:1px solid var(--line);color:var(--muted)}
+.tag.st-open{background:var(--ok-soft);border-color:transparent;color:var(--ok);font-weight:600}
+.tag.st-closed{background:var(--bg);color:var(--muted)}
+.tag.due{background:var(--ochre-soft);border-color:transparent;color:var(--ochre);font-weight:600}
+.tag.due.late{background:var(--bad-soft);color:var(--bad)}
+.card .acts{grid-column:1/-1;display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+.star{border:1px solid var(--line);background:var(--surface);border-radius:4px;padding:4px 9px;cursor:pointer;font-size:13px}
+.star.on{background:var(--ochre-soft);border-color:var(--ochre);color:var(--ochre);font-weight:600}
+@media (max-width:560px){.card{grid-template-columns:minmax(0,1fr)}.card .side{grid-column:1;grid-row:auto;align-items:flex-start;text-align:left}}
+
+.pager{display:flex;justify-content:center;align-items:center;gap:12px;margin-top:16px;font-size:14px;color:var(--muted)}
+
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:16px}
+.wl-table{width:100%;border-collapse:collapse;font-size:14px}
+.wl-wrap{overflow-x:auto}
+.wl-table th{text-align:left;font:600 12px var(--f-display);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);border-bottom:1px solid var(--line);padding:8px}
+.wl-table td{border-bottom:1px solid var(--line);padding:10px 8px;vertical-align:top}
+.wl-table td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right}
+.wl-table select,.wl-table input{background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:4px 6px;font-size:13px;min-width:0}
+.wl-table input{width:100%;min-width:140px}
+.empty{color:var(--muted);font-size:14px;padding:24px 8px;text-align:center}
+.foot{font-size:12px;color:var(--muted);margin-top:28px;max-width:70ch}
+.theme-t{background:none;border:1px solid var(--line);border-radius:4px;padding:4px 8px;cursor:pointer;font-size:12px;color:var(--muted);margin-bottom:10px}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <div class="brand"><h1>Rastreador <b>SECOP II</b></h1><small>datos.gov.co · p6dx-8zbt</small></div>
+    <nav class="tabs" role="tablist">
+      <button id="tab-buscar" role="tab" aria-selected="true" data-view="buscar">Buscar</button>
+      <button id="tab-seg" role="tab" aria-selected="false" data-view="seg">Seguimiento<span class="count-pill" id="wlCount">0</span></button>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section id="view-buscar" class="layout">
+  <aside class="filters" aria-label="Filtros">
+    <h2>Búsquedas guardadas</h2>
+    <div class="presets" id="presets"></div>
+    <h2 style="margin-top:6px">Filtros</h2>
+    <form id="f" class="filters-form" style="display:flex;flex-direction:column;gap:12px">
+      <label class="f">Palabras clave
+        <input id="q" placeholder="ej. hidrológico, presa, interventoría">
+      </label>
+      <p class="hint">Separa con coma para buscar cualquiera de los términos. Busca en nombre y descripción.</p>
+      <label class="f">Entidad contiene
+        <input id="entidad" placeholder="ej. CVC, Gobernación">
+      </label>
+      <div class="row2">
+        <label class="f">Departamento
+          <select id="depto"><option value="">Todos</option></select>
+        </label>
+        <label class="f">Ciudad
+          <input id="ciudad" placeholder="ej. Cali">
+        </label>
+      </div>
+      <label class="f">Modalidad
+        <select id="modalidad"><option value="">Todas</option></select>
+      </label>
+      <label class="f">Estado
+        <select id="estado"><option value="">Todos</option></select>
+      </label>
+      <label class="f">Código UNSPSC (prefijo)
+        <input id="unspsc" placeholder="ej. 8110 (ingeniería)" inputmode="numeric">
+      </label>
+      <div class="row2">
+        <label class="f">Precio mín. (COP)
+          <input id="pmin" inputmode="numeric" placeholder="0">
+        </label>
+        <label class="f">Precio máx. (COP)
+          <input id="pmax" inputmode="numeric" placeholder="sin tope">
+        </label>
+      </div>
+      <label class="f">Publicado desde
+        <input id="desde" type="date">
+      </label>
+      <label class="chk"><input type="checkbox" id="abiertos" checked> Solo con recepción de ofertas vigente</label>
+      <div class="btns">
+        <button class="btn primary" type="submit">Buscar</button>
+        <button class="btn" type="button" id="guardar">Guardar búsqueda</button>
+        <button class="btn" type="button" id="limpiar">Limpiar</button>
+      </div>
+    </form>
+    <button class="theme-t" id="themeT" type="button">Tema: sistema</button>
+  </aside>
+
+  <div style="min-width:0">
+    <div class="summary">
+      <div><div class="big" id="sTotal">—</div><div class="lbl">procesos encontrados</div></div>
+      <div><div class="big" id="sValor">—</div><div class="lbl">precio base en esta página</div></div>
+      <div class="tools">
+        <select id="orden" class="btn sm" aria-label="Ordenar">
+          <option value="fecha_de_publicacion_del DESC">Más recientes</option>
+          <option value="fecha_de_recepcion_de ASC">Cierre más próximo</option>
+          <option value="precio_base DESC">Mayor precio</option>
+          <option value="precio_base ASC">Menor precio</option>
+        </select>
+        <button class="btn sm" id="csv" type="button">Exportar CSV</button>
+      </div>
+    </div>
+    <div id="status" class="status">Cargando catálogos del SECOP II…</div>
+    <div class="list" id="list"></div>
+    <div class="pager" id="pager" hidden>
+      <button class="btn sm" id="prev" type="button">← Anterior</button>
+      <span id="pgInfo"></span>
+      <button class="btn sm" id="next" type="button">Siguiente →</button>
+    </div>
+    <p class="foot">Fuente: Agencia Nacional de Contratación Pública – Colombia Compra Eficiente, conjunto de datos abiertos «SECOP II – Procesos de Contratación» en datos.gov.co. Los datos se actualizan a diario; confirma siempre fechas y requisitos en el enlace oficial del proceso antes de presentar oferta. Tus búsquedas y procesos en seguimiento se guardan solo en este navegador.</p>
+  </div>
+</section>
+
+<section id="view-seg" hidden>
+  <div class="panel">
+    <div class="summary" style="margin-bottom:8px">
+      <h2>Procesos en seguimiento</h2>
+      <div class="tools">
+        <button class="btn sm" id="refrescarWl" type="button">Actualizar estados</button>
+        <button class="btn sm" id="csvWl" type="button">Exportar CSV</button>
+      </div>
+    </div>
+    <div class="wl-wrap">
+      <table class="wl-table">
+        <thead><tr><th>Proceso</th><th>Entidad</th><th style="text-align:right">Precio base</th><th>Cierre ofertas</th><th>Estado SECOP</th><th>Mi decisión</th><th>Notas</th><th></th></tr></thead>
+        <tbody id="wlBody"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="wlEmpty">Aún no sigues ningún proceso. En «Buscar», pulsa «☆ Seguir» en los que te interesen.</div>
+  </div>
+</section>
+</main>
+
+<script>
+(()=>{
+const API="https://www.datos.gov.co/resource/p6dx-8zbt.json";
+const PAGE=25;
+const $=id=>document.getElementById(id);
+const store={
+  get(k,d){try{const v=localStorage.getItem("secop:"+k);return v?JSON.parse(v):d}catch(e){return d}},
+  set(k,v){try{localStorage.setItem("secop:"+k,JSON.stringify(v))}catch(e){}}
+};
+
+// Campos conocidos del conjunto; se validan contra un registro real al iniciar
+const F={
+  entidad:"entidad", depto:"departamento_entidad", ciudad:"ciudad_entidad",
+  id:"id_del_proceso", ref:"referencia_del_proceso", nombre:"nombre_del_procedimiento",
+  desc:"descripci_n_del_procedimiento", fpub:"fecha_de_publicacion_del",
+  frec:"fecha_de_recepcion_de", precio:"precio_base", modalidad:"modalidad_de_contratacion",
+  estado:"estado_resumen", estadoProc:"estado_del_procedimiento", apertura:"estado_de_apertura_del_proceso",
+  unspsc:"codigo_principal_de_categoria", url:"urlproceso", tipo:"tipo_de_contrato",
+  duracion:"duracion", udur:"unidad_de_duracion", adjudicado:"adjudicado"
+};
+let fields=null; // Set de campos disponibles
+const has=f=>!fields||fields.has(f);
+
+const DEFAULT_PRESETS=[
+  {name:"Hidrología · Valle (ejemplo)",f:{q:"hidrológico, hidráulico, hidrología, inundación",depto:"Valle del Cauca",abiertos:true}},
+  {name:"Presas y embalses (ejemplo)",f:{q:"presa, embalse, represa, seguridad de presas",abiertos:true}},
+  {name:"Consultoría ingeniería 8110 (ejemplo)",f:{unspsc:"8110",modalidad:"",depto:"Valle del Cauca",abiertos:true}}
+];
+let presets=store.get("presets",null)||DEFAULT_PRESETS;
+let watch=store.get("watch",{});
+let page=0, total=0, rows=[], currentFilters=null;
+
+// ---------- utilidades ----------
+const cop=n=>isFinite(n)&&n!==null?new Intl.NumberFormat("es-CO",{style:"currency",currency:"COP",maximumFractionDigits:0}).format(n):"—";
+const copShort=n=>{if(!isFinite(n))return"—";if(n>=1e12)return"$"+(n/1e12).toFixed(1).replace(".",",")+" B";if(n>=1e9)return"$"+(n/1e9).toFixed(1).replace(".",",")+" mil M";if(n>=1e6)return"$"+(n/1e6).toFixed(0)+" M";return cop(n)};
+const fdate=s=>{if(!s)return"—";const d=new Date(s);return isNaN(d)?"—":d.toLocaleDateString("es-CO",{day:"2-digit",month:"short",year:"numeric"})};
+const days=s=>{if(!s)return null;const d=new Date(s);if(isNaN(d))return null;return Math.ceil((d-new Date())/864e5)};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const sq=s=>String(s).replace(/'/g,"''");
+const num=s=>{const v=String(s||"").replace(/[^\d]/g,"");return v?Number(v):null};
+const urlOf=r=>{const u=r[F.url];if(!u)return null;return typeof u==="string"?u:(u.url||null)};
+const todayIso=()=>new Date().toISOString().slice(0,19);
+
+async function soda(params){
+  const u=new URL(API);
+  for(const[k,v]of Object.entries(params)) if(v!==undefined&&v!=="") u.searchParams.set(k,v);
+  const res=await fetch(u.toString(),{headers:{Accept:"application/json"}});
+  const txt=await res.text();
+  let data; try{data=JSON.parse(txt)}catch(e){data=null}
+  if(!res.ok){const m=data&&(data.message||data.error)||txt.slice(0,300);throw new Error(m)}
+  return data;
+}
+
+// ---------- catálogos ----------
+async function loadCatalogs(){
+  try{
+    const sample=await soda({$limit:1,$order:F.fpub+" DESC"});
+    if(sample&&sample[0]) fields=new Set(Object.keys(sample[0]));
+  }catch(e){}
+  const fill=async(field,sel)=>{
+    if(!has(field))return;
+    try{
+      const d=await soda({$select:field+",count(*) as n",$group:field,$order:"n DESC",$limit:60,$where:F.fpub+" > '"+new Date(Date.now()-365*864e5).toISOString().slice(0,10)+"'"});
+      const cur=sel.value;
+      d.filter(x=>x[field]&&![...sel.options].some(o=>o.value===x[field])).sort((a,b)=>a[field].localeCompare(b[field],"es")).forEach(x=>{
+        const o=document.createElement("option");o.value=x[field];o.textContent=x[field];sel.appendChild(o)});
+      sel.value=cur;
+    }catch(e){}
+  };
+  await Promise.all([fill(F.depto,$("depto")),fill(F.modalidad,$("modalidad")),fill(F.estado,$("estado"))]);
+}
+
+// ---------- filtros ----------
+function readForm(){
+  return{q:$("q").value.trim(),entidad:$("entidad").value.trim(),depto:$("depto").value,ciudad:$("ciudad").value.trim(),
+    modalidad:$("modalidad").value,estado:$("estado").value,unspsc:$("unspsc").value.trim(),
+    pmin:$("pmin").value.trim(),pmax:$("pmax").value.trim(),desde:$("desde").value,abiertos:$("abiertos").checked};
+}
+function writeForm(f){
+  $("q").value=f.q||"";$("entidad").value=f.entidad||"";$("ciudad").value=f.ciudad||"";$("unspsc").value=f.unspsc||"";
+  $("pmin").value=f.pmin||"";$("pmax").value=f.pmax||"";$("desde").value=f.desde||"";$("abiertos").checked=!!f.abiertos;
+  const setSel=(id,v)=>{const s=$(id);if(v&&![...s.options].some(o=>o.value===v)){const o=document.createElement("option");o.value=v;o.textContent=v;s.appendChild(o)}s.value=v||""};
+  setSel("depto",f.depto);setSel("modalidad",f.modalidad);setSel("estado",f.estado);
+}
+function buildWhere(f){
+  const w=[];
+  if(f.q){
+    const terms=f.q.split(",").map(t=>t.trim()).filter(Boolean);
+    const ors=terms.map(t=>{const T=sq(t.toUpperCase());
+      const parts=[];if(has(F.nombre))parts.push(`upper(${F.nombre}) like '%${T}%'`);if(has(F.desc))parts.push(`upper(${F.desc}) like '%${T}%'`);
+      return parts.join(" OR ")});
+    if(ors.length)w.push("("+ors.join(" OR ")+")");
+  }
+  if(f.entidad&&has(F.entidad))w.push(`upper(${F.entidad}) like '%${sq(f.entidad.toUpperCase())}%'`);
+  if(f.depto&&has(F.depto))w.push(`${F.depto}='${sq(f.depto)}'`);
+  if(f.ciudad&&has(F.ciudad))w.push(`upper(${F.ciudad}) like '%${sq(f.ciudad.toUpperCase())}%'`);
+  if(f.modalidad&&has(F.modalidad))w.push(`${F.modalidad}='${sq(f.modalidad)}'`);
+  if(f.estado&&has(F.estado))w.push(`${F.estado}='${sq(f.estado)}'`);
+  if(f.unspsc&&has(F.unspsc)){const c=f.unspsc.replace(/[^\d]/g,"");if(c)w.push(`${F.unspsc} like '%${c}%'`)}
+  const pmin=num(f.pmin),pmax=num(f.pmax);
+  if(pmin!==null&&has(F.precio))w.push(`${F.precio} >= ${pmin}`);
+  if(pmax!==null&&has(F.precio))w.push(`${F.precio} <= ${pmax}`);
+  if(f.desde&&has(F.fpub))w.push(`${F.fpub} >= '${f.desde}T00:00:00'`);
+  if(f.abiertos&&has(F.frec))w.push(`${F.frec} >= '${todayIso()}'`);
+  return w.join(" AND ");
+}
+
+// ---------- búsqueda ----------
+async function search(f,pg=0){
+  currentFilters=f;page=pg;
+  const st=$("status");st.className="status";st.hidden=false;st.textContent="Consultando SECOP II…";
+  $("list").innerHTML="";
+  const where=buildWhere(f);
+  try{
+    const [cnt,data]=await Promise.all([
+      soda({$select:"count(*) as n",$where:where}),
+      soda({$where:where,$order:$("orden").value,$limit:PAGE,$offset:pg*PAGE})
+    ]);
+    total=Number(cnt[0]?.n||0);rows=data||[];
+    $("sTotal").textContent=total.toLocaleString("es-CO");
+    $("sValor").textContent=copShort(rows.reduce((a,r)=>a+(Number(r[F.precio])||0),0));
+    st.hidden=rows.length>0;
+    if(!rows.length)st.textContent="No hay procesos con estos filtros. Prueba quitar «Solo con recepción vigente» o ampliar las palabras clave.";
+    render();
+    markSeen(f);
+  }catch(e){
+    st.className="status err";
+    st.innerHTML="No se pudo consultar datos.gov.co. Revisa tu conexión a internet; si abriste este archivo dentro de una vista previa que bloquea conexiones externas, ábrelo directamente en Chrome, Edge o Firefox.<br><code>"+esc(e.message)+"</code>";
+    $("sTotal").textContent="—";$("sValor").textContent="—";$("pager").hidden=true;
+  }
+}
+
+function seenKey(f){return JSON.stringify(f)}
+function markSeen(f){
+  const seen=store.get("seen",{});const k=seenKey(f);
+  const prev=seen[k];
+  newSince=prev||null;
+  seen[k]=new Date().toISOString();store.set("seen",seen);
+  renderPresets();
+  render();
+}
+let newSince=null;
+
+function dueTag(r){
+  const d=days(r[F.frec]);if(d===null)return"";
+  if(d<0)return`<span class="tag due late">Cerró ${fdate(r[F.frec])}</span>`;
+  if(d===0)return`<span class="tag due late">Cierra hoy</span>`;
+  return`<span class="tag due${d<=3?" late":""}">Cierra en ${d} día${d===1?"":"s"} · ${fdate(r[F.frec])}</span>`;
+}
+function stateTag(r){
+  const s=r[F.estado]||r[F.estadoProc]||"";const open=(r[F.apertura]||"").toLowerCase()==="abierto"||/presentaci|publicad|abierto/i.test(s);
+  return s?`<span class="tag ${open?"st-open":"st-closed"}">${esc(s)}</span>`:"";
+}
+
+function render(){
+  const list=$("list");list.innerHTML="";
+  rows.forEach((r,i)=>{
+    const id=r[F.id]||r[F.ref]||("row"+i);
+    const isNew=newSince&&r[F.fpub]&&new Date(r[F.fpub])>new Date(newSince);
+    const url=urlOf(r);
+    const el=document.createElement("article");el.className="card"+(isNew?" isnew":"");
+    el.innerHTML=`
+      <div class="meta"><span>${esc(r[F.ref]||id)}</span><span>Publicado ${fdate(r[F.fpub])}</span>${isNew?'<span style="color:var(--ochre)">● Nuevo desde tu última consulta</span>':""}</div>
+      <h3>${esc(r[F.nombre]||"(sin nombre)")}</h3>
+      <div class="ent">${esc(r[F.entidad]||"")} · <span style="color:var(--muted)">${esc([r[F.ciudad],r[F.depto]].filter(Boolean).join(", "))}</span></div>
+      <div class="side"><div class="money">${cop(Number(r[F.precio]))}</div><div class="hint">precio base</div></div>
+      <div class="desc">${esc(r[F.desc]||"")}</div>
+      <div class="tags">${stateTag(r)}${dueTag(r)}${r[F.modalidad]?`<span class="tag">${esc(r[F.modalidad])}</span>`:""}${r[F.tipo]?`<span class="tag">${esc(r[F.tipo])}</span>`:""}${r[F.unspsc]?`<span class="tag" style="font-family:var(--f-mono)">${esc(r[F.unspsc])}</span>`:""}${r[F.duracion]?`<span class="tag">${esc(r[F.duracion])} ${esc(r[F.udur]||"")}</span>`:""}</div>
+      <div class="acts">
+        <button class="star${watch[id]?" on":""}" type="button" data-id="${esc(id)}">${watch[id]?"★ Siguiendo":"☆ Seguir"}</button>
+        ${url?`<a class="btn sm" href="${esc(url)}" target="_blank" rel="noopener">Abrir en SECOP II ↗</a>`:""}
+        <button class="btn sm more" type="button">Ver descripción completa</button>
+      </div>`;
+    el.querySelector(".star").onclick=e=>toggleWatch(r,id,e.currentTarget);
+    el.querySelector(".more").onclick=e=>{const d=el.querySelector(".desc");d.classList.toggle("open");e.currentTarget.textContent=d.classList.contains("open")?"Ocultar descripción":"Ver descripción completa"};
+    list.appendChild(el);
+  });
+  const pages=Math.ceil(total/PAGE);
+  $("pager").hidden=pages<=1;
+  $("pgInfo").textContent=`Página ${page+1} de ${pages.toLocaleString("es-CO")}`;
+  $("prev").disabled=page===0;$("next").disabled=page+1>=pages;
+}
+
+// ---------- seguimiento ----------
+function snap(r){return{id:r[F.id]||r[F.ref],ref:r[F.ref],nombre:r[F.nombre],entidad:r[F.entidad],ciudad:r[F.ciudad],depto:r[F.depto],
+  precio:Number(r[F.precio])||null,frec:r[F.frec]||null,estado:r[F.estado]||r[F.estadoProc]||"",url:urlOf(r)}}
+function toggleWatch(r,id,btn){
+  if(watch[id]){delete watch[id]}else{watch[id]={...snap(r),decision:"Evaluar",nota:"",agregado:new Date().toISOString()}}
+  store.set("watch",watch);
+  if(btn){btn.classList.toggle("on",!!watch[id]);btn.textContent=watch[id]?"★ Siguiendo":"☆ Seguir"}
+  renderWatch();
+}
+function renderWatch(){
+  const items=Object.values(watch).sort((a,b)=>(a.frec||"9").localeCompare(b.frec||"9"));
+  $("wlCount").textContent=items.length;
+  $("wlEmpty").hidden=items.length>0;
+  const tb=$("wlBody");tb.innerHTML="";
+  items.forEach(w=>{
+    const d=days(w.frec);
+    const due=d===null?"—":d<0?`<span class="tag due late">Cerró</span>`:`<span class="tag due${d<=3?" late":""}">${d===0?"Hoy":d+" d"}</span>`;
+    const tr=document.createElement("tr");
+    tr.innerHTML=`<td style="min-width:220px"><div style="font-weight:600">${w.url?`<a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.nombre||w.ref)}</a>`:esc(w.nombre||w.ref)}</div><div class="hint" style="font-family:var(--f-mono)">${esc(w.ref||w.id)}</div></td>
+      <td style="min-width:160px">${esc(w.entidad||"")}<div class="hint">${esc([w.ciudad,w.depto].filter(Boolean).join(", "))}</div></td>
+      <td class="num">${cop(w.precio)}</td>
+      <td style="white-space:nowrap">${fdate(w.frec)}<div>${due}</div></td>
+      <td>${esc(w.estado||"—")}</td>
+      <td><select data-k="decision">${["Evaluar","Preparar oferta","Oferta enviada","Descartado","Ganado","Perdido"].map(o=>`<option${o===w.decision?" selected":""}>${o}</option>`).join("")}</select></td>
+      <td><input data-k="nota" value="${esc(w.nota)}" placeholder="ej. revisar pliegos, socio"></td>
+      <td><button class="btn sm" type="button" data-rm>Quitar</button></td>`;
+    tr.querySelectorAll("[data-k]").forEach(inp=>inp.onchange=()=>{watch[w.id][inp.dataset.k]=inp.value;store.set("watch",watch)});
+    tr.querySelector("[data-rm]").onclick=()=>{delete watch[w.id];store.set("watch",watch);renderWatch();if(rows.length)render()};
+    tb.appendChild(tr);
+  });
+}
+async function refreshWatch(){
+  const ids=Object.keys(watch).filter(i=>!i.startsWith("row"));if(!ids.length)return;
+  const btn=$("refrescarWl");btn.disabled=true;btn.textContent="Actualizando…";
+  try{
+    for(let i=0;i<ids.length;i+=40){
+      const chunk=ids.slice(i,i+40).map(x=>`'${sq(x)}'`).join(",");
+      const d=await soda({$where:`${F.id} in (${chunk})`,$limit:100});
+      d.forEach(r=>{const k=r[F.id];if(watch[k])Object.assign(watch[k],snap(r),{decision:watch[k].decision,nota:watch[k].nota,agregado:watch[k].agregado})});
+    }
+    store.set("watch",watch);renderWatch();btn.textContent="Actualizado ✓";
+  }catch(e){btn.textContent="Error al actualizar"}
+  setTimeout(()=>{btn.disabled=false;btn.textContent="Actualizar estados"},2000);
+}
+
+// ---------- búsquedas guardadas ----------
+function renderPresets(){
+  const box=$("presets");box.innerHTML="";
+  const seen=store.get("seen",{});
+  presets.forEach((p,i)=>{
+    const b=document.createElement("span");b.className="preset";b.tabIndex=0;b.setAttribute("role","button");
+    const last=seen[seenKey(p.f)];
+    b.innerHTML=`<span>${esc(p.name)}</span>${last?"":'<span class="new">nueva</span>'}<button class="x" type="button" aria-label="Borrar búsqueda ${esc(p.name)}">×</button>`;
+    b.title=last?"Última consulta: "+new Date(last).toLocaleString("es-CO"):"Nunca consultada";
+    const run=()=>{writeForm(p.f);search(readForm())};
+    b.onclick=e=>{if(e.target.classList.contains("x"))return;run()};
+    b.onkeydown=e=>{if(e.key==="Enter")run()};
+    b.querySelector(".x").onclick=()=>{if(b.dataset.confirm){presets.splice(i,1);store.set("presets",presets);renderPresets()}else{b.dataset.confirm="1";b.querySelector(".x").textContent="¿borrar?";setTimeout(()=>{delete b.dataset.confirm;renderPresets()},3000)}};
+    box.appendChild(b);
+  });
+  if(!presets.length)box.innerHTML='<p class="hint">Configura filtros y pulsa «Guardar búsqueda».</p>';
+}
+$("guardar").onclick=()=>{
+  const f=readForm();
+  const name=[f.q.split(",")[0],f.entidad,f.depto,f.unspsc&&("UNSPSC "+f.unspsc)].filter(Boolean).join(" · ")||"Búsqueda "+(presets.length+1);
+  const g=$("guardar");
+  if(g.dataset.step!=="name"){
+    g.dataset.step="name";
+    const inp=document.createElement("input");inp.id="presetName";inp.value=name.slice(0,40);
+    inp.style.cssText="background:var(--bg);border:1px solid var(--accent);border-radius:4px;padding:7px 9px;width:100%";
+    g.parentElement.after(inp);inp.focus();inp.select();g.textContent="Confirmar nombre";
+    inp.onkeydown=e=>{if(e.key==="Enter"){e.preventDefault();g.click()}};
+    return;
+  }
+  const inp=$("presetName");presets.push({name:(inp.value||name).trim(),f});store.set("presets",presets);
+  inp.remove();delete g.dataset.step;g.textContent="Guardada ✓";setTimeout(()=>g.textContent="Guardar búsqueda",1500);renderPresets();
+};
+
+// ---------- CSV ----------
+function downloadCsv(name,header,data){
+  const csv="﻿"+[header,...data].map(r=>r.map(v=>{const s=String(v??"");return/[",;\n]/.test(s)?'"'+s.replace(/"/g,'""')+'"':s}).join(";")).join("\n");
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([csv],{type:"text/csv;charset=utf-8"}));a.download=name;document.body.appendChild(a);a.click();a.remove();
+}
+$("csv").onclick=()=>downloadCsv("secop-busqueda.csv",["Referencia","Proceso","Entidad","Ciudad","Departamento","Precio base","Modalidad","Estado","Publicado","Cierre ofertas","UNSPSC","Enlace"],
+  rows.map(r=>[r[F.ref],r[F.nombre],r[F.entidad],r[F.ciudad],r[F.depto],r[F.precio],r[F.modalidad],r[F.estado],(r[F.fpub]||"").slice(0,10),(r[F.frec]||"").slice(0,16).replace("T"," "),r[F.unspsc],urlOf(r)]));
+$("csvWl").onclick=()=>downloadCsv("secop-seguimiento.csv",["Referencia","Proceso","Entidad","Precio base","Cierre ofertas","Estado","Decisión","Notas","Enlace"],
+  Object.values(watch).map(w=>[w.ref,w.nombre,w.entidad,w.precio,(w.frec||"").slice(0,16).replace("T"," "),w.estado,w.decision,w.nota,w.url]));
+
+// ---------- eventos ----------
+$("f").onsubmit=e=>{e.preventDefault();search(readForm())};
+$("limpiar").onclick=()=>{writeForm({abiertos:true})};
+$("orden").onchange=()=>currentFilters&&search(currentFilters,0);
+$("prev").onclick=()=>{search(currentFilters,page-1);window.scrollTo({top:0})};
+$("next").onclick=()=>{search(currentFilters,page+1);window.scrollTo({top:0})};
+$("refrescarWl").onclick=refreshWatch;
+document.querySelectorAll("nav.tabs button").forEach(b=>b.onclick=()=>{
+  document.querySelectorAll("nav.tabs button").forEach(x=>x.setAttribute("aria-selected",x===b));
+  $("view-buscar").hidden=b.dataset.view!=="buscar";$("view-seg").hidden=b.dataset.view!=="seg";
+  if(b.dataset.view==="seg")renderWatch();
+});
+const themes=["sistema","claro","oscuro"];let th=store.get("theme","sistema");
+const applyTheme=()=>{const r=document.documentElement;if(th==="claro")r.dataset.theme="light";else if(th==="oscuro")r.dataset.theme="dark";else delete r.dataset.theme;$("themeT").textContent="Tema: "+th};
+$("themeT").onclick=()=>{th=themes[(themes.indexOf(th)+1)%3];store.set("theme",th);applyTheme()};
+applyTheme();
+
+// ---------- inicio ----------
+renderPresets();renderWatch();
+const last=store.get("lastFilters",null);
+writeForm(last||presets[0]?.f||{abiertos:true});
+const origSearch=search;
+search=async(f,pg)=>{store.set("lastFilters",f);return origSearch(f,pg)};
+loadCatalogs().then(()=>{writeForm(readForm());search(readForm())});
+})();
+</script>
+</body>
+</html>
