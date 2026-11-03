@@ -113,6 +113,32 @@ label.f input,label.f select{background:var(--bg);border:1px solid var(--line);b
 .wl-table input{width:100%;min-width:140px}
 .empty{color:var(--muted);font-size:14px;padding:24px 8px;text-align:center}
 .foot{font-size:12px;color:var(--muted);margin-top:28px;max-width:70ch}
+.pt-bar{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;margin-bottom:14px}
+.pt-bar input,.pt-bar select{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:7px 9px;font-size:14px;min-width:0}
+.pt-bar input{flex:1 1 220px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:14px;padding:4px 11px;font-size:13px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+.pt-group h3{font:600 15px var(--f-display);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:18px 0 8px}
+.pt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr));gap:10px}
+.pcard{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.pcard.fav{border-color:var(--accent)}
+.pcard .ph{display:flex;align-items:flex-start;gap:8px}
+.pcard h4{font:600 17px/1.25 var(--f-display);margin:0;flex:1;min-width:0}
+.pcard .grp{font-size:12.5px;color:var(--muted)}
+.pcard .links{display:flex;flex-wrap:wrap;gap:6px}
+.pcard .links a{font-size:13px;text-decoration:none;border:1px solid var(--line);border-radius:4px;padding:4px 9px;background:var(--bg)}
+.pcard .links a.main{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+.pcard .note{font-size:12.5px;color:var(--muted);margin:0}
+.pcard .foot2{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:8px}
+.pcard .foot2 .btn{margin-left:auto}
+.fav-b{border:0;background:none;cursor:pointer;font-size:18px;line-height:1;color:var(--muted);padding:0 2px}
+.fav-b.on{color:var(--ochre)}
+.stale{color:var(--ochre);font-weight:600}
+.addx{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:14px;margin:0 0 14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,200px),1fr));gap:10px;align-items:end}
+.addx .wide{grid-column:1/-1}
+.src{font:500 11px var(--f-mono);text-transform:uppercase;letter-spacing:.05em;padding:1px 6px;border-radius:3px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
+.src.ext{background:var(--ochre-soft);color:var(--ochre)}
 .theme-t{background:none;border:1px solid var(--line);border-radius:4px;padding:4px 8px;cursor:pointer;font-size:12px;color:var(--muted);margin-bottom:10px}
 </style>
 </head>
@@ -122,6 +148,7 @@ label.f input,label.f select{background:var(--bg);border:1px solid var(--line);b
     <div class="brand"><h1>Rastreador <b>SECOP II</b></h1><small>datos.gov.co · p6dx-8zbt</small></div>
     <nav class="tabs" role="tablist">
       <button id="tab-buscar" role="tab" aria-selected="true" data-view="buscar">Buscar</button>
+      <button id="tab-port" role="tab" aria-selected="false" data-view="port">Portales de empresas<span class="count-pill" id="ptCount">0</span></button>
       <button id="tab-seg" role="tab" aria-selected="false" data-view="seg">Seguimiento<span class="count-pill" id="wlCount">0</span></button>
     </nav>
   </div>
@@ -204,18 +231,58 @@ label.f input,label.f select{background:var(--bg);border:1px solid var(--line);b
   </div>
 </section>
 
+<section id="view-port" hidden>
+  <div class="summary">
+    <div><div class="big" id="ptTotal">—</div><div class="lbl">portales de contratación propios</div></div>
+    <div><div class="big" id="ptStale">—</div><div class="lbl">favoritos sin revisar en 7 días</div></div>
+  </div>
+  <p class="hint" style="max-width:75ch;margin:0 0 14px">Estas empresas (EPM y su grupo, transmisoras, generadoras, petroleras, acueductos) contratan con régimen especial y publican sus solicitudes de oferta en portales propios como Te Cuento, no siempre en SECOP II. Ninguno ofrece datos abiertos, así que aquí tienes el acceso directo a cada módulo, la fecha de tu última revisión y un botón para pasar cualquier proceso que encuentres a tu Seguimiento.</p>
+  <div class="pt-bar">
+    <input id="ptQ" type="search" placeholder="Buscar empresa, grupo o región…" aria-label="Buscar portal">
+    <div class="chips" id="ptChips"></div>
+    <label class="chk"><input type="checkbox" id="ptFavs"> Solo favoritos</label>
+  </div>
+  <div id="ptList"></div>
+</section>
+
 <section id="view-seg" hidden>
   <div class="panel">
     <div class="summary" style="margin-bottom:8px">
       <h2>Procesos en seguimiento</h2>
       <div class="tools">
+        <button class="btn sm" id="addExtBtn" type="button">+ Proceso de otro portal</button>
         <button class="btn sm" id="refrescarWl" type="button">Actualizar estados</button>
         <button class="btn sm" id="csvWl" type="button">Exportar CSV</button>
       </div>
     </div>
+    <form class="addx" id="addExt" hidden>
+      <label class="f">Empresa / portal
+        <input id="xEmp" list="xEmpList" required placeholder="ej. EPM">
+        <datalist id="xEmpList"></datalist>
+      </label>
+      <label class="f">N.º de solicitud o referencia
+        <input id="xRef" placeholder="ej. 2026-0001234">
+      </label>
+      <label class="f">Precio / valor estimado (COP)
+        <input id="xVal" inputmode="numeric" placeholder="opcional">
+      </label>
+      <label class="f">Cierre de ofertas
+        <input id="xCierre" type="datetime-local">
+      </label>
+      <label class="f wide">Objeto del proceso
+        <input id="xObj" required placeholder="ej. Estudios hidrológicos e hidráulicos para…">
+      </label>
+      <label class="f wide">Enlace al proceso
+        <input id="xUrl" type="url" placeholder="https://…">
+      </label>
+      <div class="btns wide">
+        <button class="btn primary" type="submit">Agregar a seguimiento</button>
+        <button class="btn" type="button" id="xCancel">Cancelar</button>
+      </div>
+    </form>
     <div class="wl-wrap">
       <table class="wl-table">
-        <thead><tr><th>Proceso</th><th>Entidad</th><th style="text-align:right">Precio base</th><th>Cierre ofertas</th><th>Estado SECOP</th><th>Mi decisión</th><th>Notas</th><th></th></tr></thead>
+        <thead><tr><th>Fuente</th><th>Proceso</th><th>Entidad</th><th style="text-align:right">Precio base</th><th>Cierre ofertas</th><th>Estado SECOP</th><th>Mi decisión</th><th>Notas</th><th></th></tr></thead>
         <tbody id="wlBody"></tbody>
       </table>
     </div>
@@ -425,7 +492,8 @@ function renderWatch(){
     const d=days(w.frec);
     const due=d===null?"—":d<0?`<span class="tag due late">Cerró</span>`:`<span class="tag due${d<=3?" late":""}">${d===0?"Hoy":d+" d"}</span>`;
     const tr=document.createElement("tr");
-    tr.innerHTML=`<td style="min-width:220px"><div style="font-weight:600">${w.url?`<a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.nombre||w.ref)}</a>`:esc(w.nombre||w.ref)}</div><div class="hint" style="font-family:var(--f-mono)">${esc(w.ref||w.id)}</div></td>
+    const ext=w.id&&String(w.id).startsWith("ext-");
+    tr.innerHTML=`<td><span class="src${ext?" ext":""}">${esc(ext?(w.fuente||"Otro portal"):"SECOP II")}</span></td><td style="min-width:220px"><div style="font-weight:600">${w.url?`<a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.nombre||w.ref)}</a>`:esc(w.nombre||w.ref)}</div><div class="hint" style="font-family:var(--f-mono)">${esc(w.ref||w.id)}</div></td>
       <td style="min-width:160px">${esc(w.entidad||"")}<div class="hint">${esc([w.ciudad,w.depto].filter(Boolean).join(", "))}</div></td>
       <td class="num">${cop(w.precio)}</td>
       <td style="white-space:nowrap">${fdate(w.frec)}<div>${due}</div></td>
@@ -439,7 +507,7 @@ function renderWatch(){
   });
 }
 async function refreshWatch(){
-  const ids=Object.keys(watch).filter(i=>!i.startsWith("row"));if(!ids.length)return;
+  const ids=Object.keys(watch).filter(i=>!i.startsWith("row")&&!i.startsWith("ext-"));if(!ids.length)return;
   const btn=$("refrescarWl");btn.disabled=true;btn.textContent="Actualizando…";
   try{
     for(let i=0;i<ids.length;i+=40){
@@ -492,8 +560,76 @@ function downloadCsv(name,header,data){
 }
 $("csv").onclick=()=>downloadCsv("secop-busqueda.csv",["Referencia","Proceso","Entidad","Ciudad","Departamento","Precio base","Modalidad","Estado","Publicado","Cierre ofertas","UNSPSC","Enlace"],
   rows.map(r=>[r[F.ref],r[F.nombre],r[F.entidad],r[F.ciudad],r[F.depto],r[F.precio],r[F.modalidad],r[F.estado],(r[F.fpub]||"").slice(0,10),(r[F.frec]||"").slice(0,16).replace("T"," "),r[F.unspsc],urlOf(r)]));
-$("csvWl").onclick=()=>downloadCsv("secop-seguimiento.csv",["Referencia","Proceso","Entidad","Precio base","Cierre ofertas","Estado","Decisión","Notas","Enlace"],
-  Object.values(watch).map(w=>[w.ref,w.nombre,w.entidad,w.precio,(w.frec||"").slice(0,16).replace("T"," "),w.estado,w.decision,w.nota,w.url]));
+$("csvWl").onclick=()=>downloadCsv("seguimiento-licitaciones.csv",["Fuente","Referencia","Proceso","Entidad","Precio base","Cierre ofertas","Estado","Decisión","Notas","Enlace"],
+  Object.values(watch).map(w=>[String(w.id).startsWith("ext-")?(w.fuente||"Otro portal"):"SECOP II",w.ref,w.nombre,w.entidad,w.precio,(w.frec||"").slice(0,16).replace("T"," "),w.estado,w.decision,w.nota,w.url]));
+
+// ---------- portales de empresas ----------
+const PORTALES=[{"empresa": "EPM", "grupo": "Grupo EPM", "sector": "Energía", "region": "Antioquia / nacional", "plataforma": "Te Cuento + SAP Ariba", "secop2": "", "links": [{"label": "Solicitudes abiertas", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/solicitudes?estado=a"}, {"label": "Planeadas", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/solicitudes?estado=p"}, {"label": "En estudio de ofertas", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/solicitudes?estado=s"}, {"label": "Compras operativas", "url": "https://portalesepm.epm.com.co/TeCuento/default.aspx"}, {"label": "Convocatorias homologación", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/convocatorias"}, {"label": "Listas homologadas", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/proveedoreshomologados"}, {"label": "Contratos aceptados", "url": "https://aplicaciones.epm.com.co/tecuento/#/contratos"}, {"label": "Registrarse como proveedor", "url": "https://www.epm.com.co/proveedoresycontratistas/contratacion/como-ser-proveedor-o-contratista/registrate-como-proveedor/"}], "nota": "Te Cuento concentra también los procesos de Hidroituango. Un solo registro en Ariba sirve para EPM y sus filiales de energía."}, {"empresa": "CHEC", "grupo": "Grupo EPM", "sector": "Energía", "region": "Caldas / Eje Cafetero", "plataforma": "Te Cuento + SAP Ariba", "secop2": "", "links": [{"label": "Procesos de contratación", "url": "https://www.chec.com.co/home/transparencia/contratacion/procesos-de-contratacion"}, {"label": "Te Cuento (abiertas)", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/solicitudes?estado=a"}, {"label": "Matrícula de proveedores", "url": "https://www.chec.com.co/home/transparencia/contratacion/como-ser-proveedor/matricula-de-proveedores.html"}], "nota": ""}, {"empresa": "EDEQ", "grupo": "Grupo EPM", "sector": "Energía", "region": "Quindío", "plataforma": "Te Cuento + SAP Ariba", "secop2": "", "links": [{"label": "Te Cuento EDEQ", "url": "https://www.edeq.com.co/proveedores-y-contratistas/te-cuento"}, {"label": "Cómo ser proveedor", "url": "https://www.edeq.com.co/proveedores-y-contratistas/-como-ser-proveedor"}], "nota": ""}, {"empresa": "CENS", "grupo": "Grupo EPM", "sector": "Energía", "region": "Norte de Santander", "plataforma": "Te Cuento + SAP Ariba", "secop2": "sí", "links": [{"label": "Contratación CENS", "url": "https://www.cens.com.co/transparencia-y-acceso-a-la-informacion-publica/contratacion"}, {"label": "Te Cuento (abiertas)", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/solicitudes?estado=a"}], "nota": ""}, {"empresa": "ESSA", "grupo": "Grupo EPM", "sector": "Energía", "region": "Santander", "plataforma": "Te Cuento + SAP Ariba", "secop2": "", "links": [{"label": "Procesos contractuales", "url": "https://www.essa.com.co/site/proveedores/contratacion/procesos-contractuales"}, {"label": "Te Cuento (abiertas)", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/solicitudes?estado=a"}, {"label": "Cómo ser proveedor", "url": "https://www.essa.com.co/site/proveedores/contratacion/como-ser-proveedor-y-contratista"}], "nota": ""}, {"empresa": "Afinia", "grupo": "Grupo EPM", "sector": "Energía", "region": "Caribe (Bolívar, Córdoba, Sucre, Cesar)", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Proveedores y convocatorias", "url": "https://energiacaribemar.co/proveedores/"}, {"label": "Registro como proveedor", "url": "https://energiacaribemar.co/registro-como-proveedor/"}], "nota": "Publica convocatorias en su propio sitio; no está confirmado si también usa Te Cuento."}, {"empresa": "Aguas Nacionales EPM", "grupo": "Grupo EPM", "sector": "Agua y saneamiento", "region": "Antioquia / Chocó", "plataforma": "Portal propio + Te Cuento", "secop2": "", "links": [{"label": "Proveedores y contratistas", "url": "https://www.grupo-epm.com/site/aguasnacionales/proveedores-y-contratistas/"}, {"label": "Procesos (portal propio)", "url": "https://www.appanepm.com/modules.php?name=epm_tecuento&opt=3&servid=463"}], "nota": "Usa Te Cuento solo para compras menores."}, {"empresa": "Aguas Regionales EPM", "grupo": "Grupo EPM", "sector": "Agua y saneamiento", "region": "Antioquia (Urabá, Occidente)", "plataforma": "Portal propio + Te Cuento", "secop2": "sí", "links": [{"label": "Proveedores y contratistas", "url": "https://www.grupo-epm.com/site/aguasregionales/proveedores-y-contratistas/"}, {"label": "Procesos (portal propio)", "url": "https://www.appaura.com.co/modules.php?name=epm_tecuento&servid=461"}, {"label": "Compras operativas", "url": "https://portalesepm.epm.com.co/TeCuento/default.aspx"}], "nota": ""}, {"empresa": "Emvarias", "grupo": "Grupo EPM", "sector": "Agua y saneamiento", "region": "Medellín", "plataforma": "Te Cuento + SAP Ariba", "secop2": "sí", "links": [{"label": "Te Cuento (abiertas)", "url": "https://aplicaciones.epm.com.co/tecuentosolicitudes/#/solicitudes?estado=a"}, {"label": "Histórico de procesos", "url": "https://www.emvarias.com.co/emvarias/historicoprocesos"}, {"label": "Inscripción de proveedores", "url": "https://www.emvarias.com.co/proveedores-contratistas/home/inscripcion-de-proveedores"}], "nota": ""}, {"empresa": "Celsia", "grupo": "Grupo Argos", "sector": "Energía", "region": "Valle del Cauca, Tolima, nacional", "plataforma": "Invitación privada", "secop2": "no", "links": [{"label": "Proveedores Celsia", "url": "https://www.celsia.com/es/quienes-somos/proveedores/"}, {"label": "Plataformas de apoyo", "url": "https://www.celsia.com/es/quienes-somos/proveedores/plataformas-de-apoyo/"}, {"label": "Manual de registro (PDF)", "url": "https://www.celsia.com/wp-content/uploads/2021/06/Manual-proveedores-Registro.pdf"}], "nota": "No publica un listado abierto de procesos; contrata por invitación a proveedores registrados."}, {"empresa": "EMCALI", "grupo": "Municipio de Cali", "sector": "Energía", "region": "Cali / Valle del Cauca", "plataforma": "SAP Ariba", "secop2": "", "links": [{"label": "Registro de proveedores", "url": "https://appserv.emcali.com.co/a-e/registro-de-proveedores"}, {"label": "Mis eventos en Ariba", "url": "https://service.ariba.com/Sourcing.aw"}], "nota": "Las invitaciones llegan por correo y se responden en Ariba, en la sección Propuestas. Revisa también EMCALI en la pestaña Buscar (SECOP II)."}, {"empresa": "ACUAVALLE", "grupo": "Departamento del Valle", "sector": "Agua y saneamiento", "region": "Valle del Cauca", "plataforma": "SECOP II + web propia", "secop2": "sí", "links": [{"label": "Procesos de contratación", "url": "https://www.acuavalle.gov.co/informacion-sobre-procesos-de-contratacion-2/"}], "nota": "Sus procesos también salen en la pestaña Buscar (entidad «ACUAVALLE»)."}, {"empresa": "ISA Intercolombia", "grupo": "Grupo ISA", "sector": "Transmisión", "region": "Nacional", "plataforma": "SAP Ariba", "secop2": "no", "links": [{"label": "Contratación ISA Intercolombia", "url": "https://colombia.isaenergia.com/isaintercolombia/contratacion/"}, {"label": "Registro (miproveedor)", "url": "https://app.miproveedor.com/Isa/public"}, {"label": "Plan de abastecimiento 2026 (PDF)", "url": "https://isa.co/wp-content/uploads/2026/10/pai-isa-2026-3.pdf"}], "nota": ""}, {"empresa": "ISAGEN", "grupo": "Brookfield", "sector": "Energía", "region": "Nacional", "plataforma": "Konfirma (por invitación)", "secop2": "no", "links": [{"label": "Guía de registro (PDF)", "url": "https://konfirma.com.co/descargas/isagen3/GUIA-DETRAMITES-ISAGEN-27022020.pdf"}], "nota": "No publica procesos abiertos; el registro nuevo requiere carta de invitación de ISAGEN."}, {"empresa": "Ecopetrol", "grupo": "Grupo Ecopetrol", "sector": "Hidrocarburos", "region": "Nacional", "plataforma": "SAP Ariba", "secop2": "", "links": [{"label": "Portal de proveedores", "url": "https://proveedores.ecopetrol.com.co/es-ES/proceso3/"}, {"label": "Inteligencias de mercado (Ariba Discovery)", "url": "https://service.ariba.com/Discovery.aw"}, {"label": "Requerimientos de información", "url": "https://proveedores.ecopetrol.com.co/Requerimientos_de_informaci%C3%B3n_al_mercado/"}], "nota": ""}, {"empresa": "Grupo Energía Bogotá", "grupo": "Grupo Energía Bogotá", "sector": "Transmisión", "region": "Bogotá / nacional", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Procesos competitivos abiertos", "url": "https://www.grupoenergiabogota.com/conoce-geb/proveedores-y-contratistas/lineamientos-de-contratacion/gestion-contractual/procesos-en-curso/procesos-competitivos?status=open"}, {"label": "Autorregistro", "url": "https://www.grupoenergiabogota.com/conoce-geb/proveedores-y-contratistas/registro-de-proveedores/autorregistro"}], "nota": "Requiere autorregistro para ver los procesos abiertos."}, {"empresa": "TGI", "grupo": "Grupo Energía Bogotá", "sector": "Gas", "region": "Nacional", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Procesos competitivos abiertos", "url": "https://www.tgi.com.co/grupos-de-interes/informacion-proveedores/procesos-competitivos-abiertos/"}], "nota": ""}, {"empresa": "Enel Colombia", "grupo": "Enel", "sector": "Energía", "region": "Bogotá-Cundinamarca / nacional", "plataforma": "WeBUY (Enel)", "secop2": "no", "links": [{"label": "Oportunidades vigentes", "url": "https://webuy.enel.com/esop/guest/go/public/opportunity/current"}, {"label": "Registro de proveedores", "url": "https://www.enel.com.co/en/about-enel/suppliers-registration.html"}], "nota": "El listado de WeBUY es global; filtra por país Colombia."}, {"empresa": "Vanti", "grupo": "Grupo Vanti", "sector": "Gas", "region": "Bogotá, Cundinamarca, Boyacá, Santanderes", "plataforma": "Suplos", "secop2": "no", "links": [{"label": "Portal de proveedores", "url": "https://proveedoresvanti.suplos.com/"}], "nota": "El prerregistro sirve para recibir invitaciones; no hay listado abierto."}, {"empresa": "Gases de Occidente", "grupo": "Promigas", "sector": "Gas", "region": "Valle del Cauca, Cauca", "plataforma": "SAP Ariba (Promigas)", "secop2": "no", "links": [{"label": "Contrataciones Promigas", "url": "https://www.promigas.com/Paginas/Proveedores/contrataciones.aspx"}, {"label": "Registro GdO", "url": "https://pagos.gdo.com.co/Paginas/RegistroProveedores.aspx"}], "nota": "Promigas publica su plan anual de compras; los eventos son por invitación en Ariba."}, {"empresa": "Urrá", "grupo": "Nación", "sector": "Energía", "region": "Córdoba", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Licitaciones", "url": "https://urra.com.co/licitaciones/"}, {"label": "Proveedores", "url": "https://urra.com.co/proveedores/"}], "nota": ""}, {"empresa": "Gecelca", "grupo": "Nación", "sector": "Energía", "region": "Caribe", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Convocatorias", "url": "https://www.gecelca.com.co/es/convocatorias/"}, {"label": "Proveedores", "url": "https://www.gecelca.com.co/es/proveedores/"}], "nota": ""}, {"empresa": "Air-e", "grupo": "Intervenida (Superservicios)", "sector": "Energía", "region": "Atlántico, Magdalena, La Guajira", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Procesos activos", "url": "https://www.air-e.com/proveedores"}], "nota": ""}, {"empresa": "Acueducto de Bogotá (EAAB)", "grupo": "Distrito Capital", "sector": "Agua y saneamiento", "region": "Bogotá", "plataforma": "Portal propio", "secop2": "sí", "links": [{"label": "Portal de contratación y compras", "url": "https://www.acueducto.com.co/portalcontratacioncompras"}], "nota": ""}, {"empresa": "Electrohuila", "grupo": "Departamento del Huila", "sector": "Energía", "region": "Huila", "plataforma": "Portal propio", "secop2": "sí", "links": [{"label": "Contratación", "url": "https://electrohuila.com.co/contratacion/"}, {"label": "Registro de proveedores", "url": "https://electrohuila.com.co/contratacion/register/"}], "nota": ""}, {"empresa": "Cedenar", "grupo": "Departamento de Nariño", "sector": "Energía", "region": "Nariño", "plataforma": "Portal propio (SCL)", "secop2": "", "links": [{"label": "Procesos de contratación", "url": "https://scl.cedenar.com.co/Out/Contratacion/Contratacion.aspx"}], "nota": ""}, {"empresa": "Electrocaquetá", "grupo": "Nación", "sector": "Energía", "region": "Caquetá", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Contratistas y proveedores", "url": "http://www.electrocaqueta.com.co/index.php/contratistas-y-proveedores"}], "nota": ""}, {"empresa": "Electrificadora del Meta (EMSA)", "grupo": "Departamento del Meta", "sector": "Energía", "region": "Meta / Llanos", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Contratación", "url": "https://www.electrificadoradelmeta.com.co/newweb/contratacion"}], "nota": ""}, {"empresa": "Triple A", "grupo": "Distrito de Barranquilla", "sector": "Agua y saneamiento", "region": "Atlántico", "plataforma": "Portal propio", "secop2": "", "links": [{"label": "Compras abiertas", "url": "https://www.aaa.com.co/compras-abiertas/"}, {"label": "Registro / actualización", "url": "https://www.aaa.com.co/registra-actualiza-datos/"}], "nota": ""}, {"empresa": "Aguas de Cartagena", "grupo": "Acuacar", "sector": "Agua y saneamiento", "region": "Bolívar", "plataforma": "Suplos", "secop2": "", "links": [{"label": "Procesos vigentes", "url": "https://webacuacar.suplos.com/"}, {"label": "Inscripción de proveedor", "url": "https://proveedoresacuacar.suplos.com/"}], "nota": ""}, {"empresa": "Termoemcali", "grupo": "ContourGlobal", "sector": "Energía", "region": "Cali / Valle del Cauca", "plataforma": "Sin portal", "secop2": "no", "links": [{"label": "Proveedores (requisitos HSEQ)", "url": "https://termoemcali.com/proveedores/"}], "nota": "No publica procesos; contacto: correspondenciatc@contourglobal.com"}];
+let ptSector="Todos";
+let ptState=store.get("portales",{}); // {id:{fav:bool,visto:iso}}
+const ptId=p=>p.empresa.toLowerCase().normalize("NFD").replace(/[^\w]+/g,"-");
+function renderPortales(){
+  const sectors=["Todos",...new Set(PORTALES.map(p=>p.sector))];
+  const chips=$("ptChips");chips.innerHTML="";
+  sectors.forEach(s=>{const c=document.createElement("button");c.type="button";c.className="chip";c.textContent=s;c.setAttribute("aria-pressed",s===ptSector);c.onclick=()=>{ptSector=s;renderPortales()};chips.appendChild(c)});
+  const q=$("ptQ").value.trim().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");
+  const onlyFav=$("ptFavs").checked;
+  const norm=s=>String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");
+  const list=PORTALES.filter(p=>(ptSector==="Todos"||p.sector===ptSector)&&(!onlyFav||ptState[ptId(p)]?.fav)&&(!q||norm([p.empresa,p.grupo,p.region,p.plataforma,p.sector].join(" ")).includes(q)));
+  const groups={};list.forEach(p=>{(groups[p.grupo||p.empresa]=groups[p.grupo||p.empresa]||[]).push(p)});
+  const order=Object.keys(groups).sort((a,b)=>{const fa=groups[a].some(p=>ptState[ptId(p)]?.fav),fb=groups[b].some(p=>ptState[ptId(p)]?.fav);return fa===fb?groups[b].length-groups[a].length||a.localeCompare(b,"es"):fa?-1:1});
+  const box=$("ptList");box.innerHTML="";
+  if(!list.length){box.innerHTML='<div class="empty">Ningún portal coincide con la búsqueda.</div>'}
+  order.forEach(g=>{
+    const sec=document.createElement("div");sec.className="pt-group";
+    sec.innerHTML=`<h3>${esc(g)}</h3><div class="pt-grid"></div>`;
+    const grid=sec.querySelector(".pt-grid");
+    groups[g].forEach(p=>{
+      const id=ptId(p),st=ptState[id]||{};
+      const d=st.visto?Math.floor((Date.now()-new Date(st.visto))/864e5):null;
+      const c=document.createElement("article");c.className="pcard"+(st.fav?" fav":"");
+      const links=(p.links||[]).map((l,i)=>`<a href="${esc(l.url)}" target="_blank" rel="noopener" class="${i===0?"main":""}" data-open>${esc(l.label)} ↗</a>`).join("");
+      c.innerHTML=`<div class="ph"><h4>${esc(p.empresa)}</h4><button class="fav-b${st.fav?" on":""}" type="button" aria-label="Marcar favorito" title="Favorito">${st.fav?"★":"☆"}</button></div>
+        <div class="grp">${esc([p.sector,p.region].filter(Boolean).join(" · "))}${p.plataforma?` · <span style="font-family:var(--f-mono)">${esc(p.plataforma)}</span>`:""}${p.secop2==="sí"?' · también en SECOP II':""}</div>
+        <div class="links">${links}</div>
+        ${p.nota?`<p class="note">${esc(p.nota)}</p>`:""}
+        <div class="foot2"><span>${d===null?"Sin revisar aún":d===0?"Revisado hoy":`<span class="${d>=7?"stale":""}">Revisado hace ${d} día${d===1?"":"s"}</span>`}</span>
+        <button class="btn sm" type="button" data-visto>Marcar revisado</button>
+        <button class="btn sm" type="button" data-add>+ Proceso</button></div>`;
+      const save=()=>{ptState[id]=st;store.set("portales",ptState);renderPortales()};
+      c.querySelector(".fav-b").onclick=()=>{st.fav=!st.fav;save()};
+      c.querySelector("[data-visto]").onclick=()=>{st.visto=new Date().toISOString();save()};
+      c.querySelectorAll("[data-open]").forEach(a=>a.addEventListener("click",()=>{st.visto=new Date().toISOString();ptState[id]=st;store.set("portales",ptState);setTimeout(renderPortales,300)}));
+      c.querySelector("[data-add]").onclick=()=>openAddExt(p.empresa,(p.links||[])[0]?.url||"");
+      grid.appendChild(c);
+    });
+    box.appendChild(sec);
+  });
+  $("ptTotal").textContent=PORTALES.length;
+  $("ptCount").textContent=PORTALES.length;
+  $("ptStale").textContent=PORTALES.filter(p=>{const s=ptState[ptId(p)];return s?.fav&&(!s.visto||Date.now()-new Date(s.visto)>7*864e5)}).length;
+}
+$("ptQ").oninput=renderPortales;$("ptFavs").onchange=renderPortales;
+
+// procesos de otros portales
+function openAddExt(emp="",url=""){
+  document.querySelectorAll("nav.tabs button").forEach(x=>x.setAttribute("aria-selected",x.dataset.view==="seg"));
+  ["buscar","port","seg"].forEach(v=>$("view-"+v).hidden=v!=="seg");renderWatch();
+  const f=$("addExt");f.hidden=false;f.reset();$("xEmp").value=emp;$("xUrl").value=url;
+  (emp?$("xObj"):$("xEmp")).focus();window.scrollTo({top:0});
+}
+$("xEmpList").innerHTML=PORTALES.map(p=>`<option value="${esc(p.empresa)}"></option>`).join("");
+$("addExtBtn").onclick=()=>openAddExt();
+$("xCancel").onclick=()=>{$("addExt").hidden=true};
+$("addExt").onsubmit=e=>{
+  e.preventDefault();
+  const id="ext-"+Date.now();
+  const cierre=$("xCierre").value;
+  watch[id]={id,fuente:$("xEmp").value.trim(),ref:$("xRef").value.trim(),nombre:$("xObj").value.trim(),entidad:$("xEmp").value.trim(),
+    ciudad:"",depto:"",precio:num($("xVal").value),frec:cierre?cierre+":00":null,estado:"Registrado manualmente",url:$("xUrl").value.trim()||null,
+    decision:"Evaluar",nota:"",agregado:new Date().toISOString()};
+  store.set("watch",watch);$("addExt").hidden=true;renderWatch();
+};
 
 // ---------- eventos ----------
 $("f").onsubmit=e=>{e.preventDefault();search(readForm())};
@@ -504,8 +640,9 @@ $("next").onclick=()=>{search(currentFilters,page+1);window.scrollTo({top:0})};
 $("refrescarWl").onclick=refreshWatch;
 document.querySelectorAll("nav.tabs button").forEach(b=>b.onclick=()=>{
   document.querySelectorAll("nav.tabs button").forEach(x=>x.setAttribute("aria-selected",x===b));
-  $("view-buscar").hidden=b.dataset.view!=="buscar";$("view-seg").hidden=b.dataset.view!=="seg";
+  ["buscar","port","seg"].forEach(v=>$("view-"+v).hidden=b.dataset.view!==v);
   if(b.dataset.view==="seg")renderWatch();
+  if(b.dataset.view==="port")renderPortales();
 });
 const themes=["sistema","claro","oscuro"];let th=store.get("theme","sistema");
 const applyTheme=()=>{const r=document.documentElement;if(th==="claro")r.dataset.theme="light";else if(th==="oscuro")r.dataset.theme="dark";else delete r.dataset.theme;$("themeT").textContent="Tema: "+th};
@@ -513,7 +650,7 @@ $("themeT").onclick=()=>{th=themes[(themes.indexOf(th)+1)%3];store.set("theme",t
 applyTheme();
 
 // ---------- inicio ----------
-renderPresets();renderWatch();
+renderPresets();renderWatch();renderPortales();
 const last=store.get("lastFilters",null);
 writeForm(last||presets[0]?.f||{abiertos:true});
 const origSearch=search;
