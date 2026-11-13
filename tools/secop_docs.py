@@ -27,9 +27,9 @@ for did, name, cols in ids:
     if docs: break
 if not docs:
     try:
-        w = "upper(entidad) like '%GOBERNACION DEL QUINDIO%' AND fecha_carga >= '2026-10-01' AND (upper(nombre_archivo) like '%PIJAO%' OR upper(nombre_archivo) like '%PLIEGO%' OR upper(nombre_archivo) like '%CM%007%' OR upper(nombre_archivo) like '%ESTUDIO%PREVIO%' OR upper(nombre_archivo) like '%ANEXO%' OR upper(nombre_archivo) like '%INTERVENTOR%' OR upper(descripci_n) like '%PIJAO%')"
-        d = json.loads(get("https://www.datos.gov.co/resource/dmgg-8hin.json?" + urllib.parse.urlencode({"$where": w, "$limit": 1000, "$order": "fecha_carga DESC"}))[0])
-        log.append({"quindio_recientes": [{k: x.get(k) for k in ("proceso","n_mero_de_contrato","nombre_archivo","descripci_n","fecha_carga","entidad")} for x in d]})
+        w = "entidad = 'GOBERNACION DEL QUINDIO ARMENIA' AND fecha_carga >= '2026-10-15'"
+        d = json.loads(get("https://www.datos.gov.co/resource/dmgg-8hin.json?" + urllib.parse.urlencode({"$where": w, "$limit": 5000, "$order": "fecha_carga DESC"}), 600)[0])
+        log.append({"quindio_recientes": [x for x in [{k: x.get(k) for k in ("proceso","n_mero_de_contrato","nombre_archivo","descripci_n","fecha_carga","entidad")} for x in d] if any(t in str(x).upper() for t in ("PLIEGO","PIJAO","CM-007","CM 007","ESTUDIO","ANEXO","INTERVENT","CONVOCATORIA"))]})
         docs = [x for x in d if any(t in (str(x.get("nombre_archivo",""))+str(x.get("descripci_n",""))+str(x.get("proceso",""))).upper() for t in ("CM-007","CM 007","CM007","PIJAO","11319405","11173956"))]
     except Exception as e:
         log.append({"error_quindio": str(e)})
