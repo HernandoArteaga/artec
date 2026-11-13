@@ -1,6 +1,6 @@
 """Descarga los documentos públicos de un proceso SECOP II y extrae su texto."""
 import json, urllib.request, urllib.parse, sys, os, subprocess, re
-PROC = os.environ.get("PROCESO", "CO1.REQ.11319405")
+PROC = os.environ.get("PROCESO", "CO1.BDOS.11068623")
 NTC = os.environ.get("NOTICE", "CO1.NTC.11173956")
 out_dir = f"secop/data/docs/{PROC}"; os.makedirs(out_dir, exist_ok=True)
 log = []
@@ -16,16 +16,16 @@ for did, name, cols in ids:
     if not cols or not any("proceso" in c for c in cols): continue
     pcol = [c for c in cols if "proceso" in c]
     for c in pcol:
-        for val in (PROC, NTC):
+        for val in (PROC,):
             try:
-                d = json.loads(get(f"https://www.datos.gov.co/resource/{did}.json?" + urllib.parse.urlencode({c: val, "$limit": 200}))[0])
+                d = json.loads(get(f"https://www.datos.gov.co/resource/{did}.json?" + urllib.parse.urlencode({c: val, "$limit": 200}), 600)[0])
             except Exception as e:
                 continue
             if d:
                 log.append({"dataset": did, "name": name, "col": c, "val": val, "n": len(d), "sample": d[0]})
                 docs += d
     if docs: break
-if not docs:
+if False:
     try:
         w = "entidad = 'GOBERNACION DEL QUINDIO ARMENIA' AND fecha_carga >= '2026-10-15'"
         d = json.loads(get("https://www.datos.gov.co/resource/dmgg-8hin.json?" + urllib.parse.urlencode({"$where": w, "$limit": 5000, "$order": "fecha_carga DESC"}), 600)[0])
