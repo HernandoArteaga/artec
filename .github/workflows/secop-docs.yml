@@ -1,0 +1,21 @@
+name: Documentos de un proceso SECOP II
+on:
+  push:
+    branches: [secop-consulta]
+    paths: [tools/secop_docs.py, .github/workflows/secop-docs.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get install -y poppler-utils >/dev/null
+      - run: python3 tools/secop_docs.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add secop/data/docs
+          git commit -m "Documentos proceso SECOP II" || echo "sin cambios"
+          git push
