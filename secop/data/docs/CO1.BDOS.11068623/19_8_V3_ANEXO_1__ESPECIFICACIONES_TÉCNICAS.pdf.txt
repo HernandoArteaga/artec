@@ -1,0 +1,1413 @@
+                                ANEXO TÉCNICO No. 01
+
+        ESPECIFICACIONES TÉCNICAS Y ALCANCE DE LA INTERVENTORÍA
+
+OBJETO: “REALIZAR LA INTERVENTORÍA ADMINISTRATIVA, TÉCNICA, FINANCIERA Y
+JURÍDICA DEL CONTRATO DE CONSULTORÍA CUYO OBJETO ES: REALIZAR LOS
+ESTUDIOS BÁSICOS DE GESTIÓN DEL RIESGO DE DESASTRES POR FENÓMENOS DE
+MOVIMIENTOS DE REMOCIÓN EN MASA, INUNDACIONES Y AVENIDAS TORRENCIALES
+EN EL MUNICIPIO DE PIJAO, DEPARTAMENTO DEL QUINDÍO PARA DAR CUMPLIMIENTO
+A LA NORMATIVIDAD VIGENTE SOBRE LA MATERIA”.
+
+Alcance técnico de la contratación requerida - alternativa No. 1 (solución seleccionada
+“DESARROLLO DE INSTRUMENTOS Y HERRAMIENTAS PARA LA PLANEACIÓN Y
+GESTIÓN DEL ORDENAMIENTO TERRITORIAL DEL MUNICIPIO DE PIJAO”).
+
+La alternativa de solución “REALIZAR LA INTERVENTORÍA ADMINISTRATIVA, TÉCNICA,
+FINANCIERA Y JURÍDICA DEL CONTRATO DE CONSULTORÍA CUYO OBJETO ES:
+REALIZAR LOS ESTUDIOS BÁSICOS DE GESTIÓN DEL RIESGO DE DESASTRES POR
+FENÓMENOS DE MOVIMIENTOS DE REMOCIÓN EN MASA, INUNDACIONES Y AVENIDAS
+TORRENCIALES EN EL MUNICIPIO DE PIJAO, DEPARTAMENTO DEL QUINDÍO PARA
+DAR CUMPLIMIENTO A LA NORMATIVIDAD VIGENTE SOBRE LA MATERIA”, Lo anterior
+no se limitará a una supervisión documental o administrativa. Su alcance es de
+COMPROBACIÓN TÉCNICA, ADMINISTRATVA, JURIDICA Y FINANCIERA
+CONFORME A LOS LINEAMIENTOS TÉCNICOS CONTRACTUALES, obligándose a
+actuar como un organismo de seguimiento de verificación técnica de los productos
+entregados que valide la idoneidad, precisión y cumplimiento normativo (Decreto
+1077/2015) de los productos entregados por el Consultor. El Interventor asume la
+responsabilidad de "Filtro de Calidad", garantizando que los estudios sean aptos para ser
+incorporados como Determinantes en el EOT de Pijao y cumplan con el fallo de la Acción
+Popular vigente.
+
+1. ALCANCE GENERAL Y MARCO NORMATIVO DETALLADO
+
+El presente Anexo Técnico define los lineamientos, especificaciones, obligaciones y
+productos entregables que rigen la ejecución de la Interventoría especializada para la
+supervisión de la consultoría que realiza los Estudios Básicos de Gestión del Riesgo en el
+Municipio de Pijao. La Interventoría tiene como responsabilidad principal EJERCER EL
+SEGUIMIENTO INTEGRAL Y EL CONTROL DE CALIDAD SOBRE LA EJECUCIÓN DE
+LOS ESTUDIOS BÁSICOS DE GESTIÓN DEL RIESGO, GARANTIZANDO QUE LOS
+PRODUCTOS ENTREGADOS POR EL CONSULTOR CONSTITUYAN UN INSUMO
+TÉCNICO IDÓNEO PARA SER INCORPORADO DENTRO DE LA ACTUALIZACIÓN DEL
+ESQUEMA DE ORDENAMIENTO TERRITORIAL (EOT) DEL MUNICIPIO DE PIJAO del
+proyecto BPIN 2022003630014.
+
+El alcance del servicio de INTERVENTORIA corresponde al ejercicio de una
+SUPERVISIÓN integral y especializada de primera parte, en la cual el INTERVENTOR
+actúa como representante técnico de la Gobernación del Quindío para realizar el
+seguimiento, control, vigilancia y recibo a satisfacción de los productos entregados por el
+CONSULTOR EJECUTOR, asegurando que estos cumplan rigurosamente con los
+estándares de calidad, la normativa técnica vigente (Decreto 1077 de 2015) y las
+especificaciones del contrato principal, certificando que los estudios cumplan con la
+rigurosidad necesaria para restringir o condicionar la urbanización y proteger la vida, dando
+cumplimiento a la orden judicial de la Acción Popular No. 63001-233-000-2018-0036-00.
+
+En este sentido, y para materializar dicho alcance, se establecen como funciones propias y
+transversales de la interventoría las siguientes:
+    • La aprobación técnica del cronograma detallado de actividades.
+    • Verificar y aprobar la localización de los puntos de exploración de campo.
+    • Validar y verificar presencialmente los metros (mts) de perforación ejecutados.
+    • Verificar la topología y calidad de la cartografía, asegurando el cumplimiento de las
+       escalas obligatorias urbanas (1:2.000) y rurales (1:25.000).
+    • Revisión y aprobación del Documento Técnico de Soporte (DTS).
+    • Realizar el seguimiento estricto a las especificaciones y el alcance de los productos
+       entregables contratados con la consultoría.
+
+La Interventoría no se limitará a la revisión documental; su alcance operativo abarca la
+validación in situ de las actividades de exploración y la comprobación científica de los
+modelos matemáticos de amenaza, constituyéndose en el filtro de calidad obligatorio previo
+a cualquier desembolso de recursos del Sistema General de Regalías (SGR).
+
+La Interventoría deberá certificar que la zonificación y delimitación de las Áreas con
+Condición de Amenaza y las Áreas con Condición de Riesgo se realicen bajo las escalas
+de trabajo obligatorias e innegociables de 1:2.000 para suelo urbano y de expansión y
+1:25.000 para suelo rural, asegurando la armonización con la información cartográfica
+departamental.
+
+1.1 MARCO NORMATIVO Y REGULATORIO VINCULANTE
+
+La presente contratación de Interventoría Integral no constituye un mero apoyo a la gestión,
+sino que se configura jurídicamente como el ejercicio especializado del deber de vigilancia
+y control que le asiste a la Gobernación del Quindío sobre la ejecución de recursos públicos,
+conforme al artículo 83 de la Ley 1474 de 2011 (Estatuto Anticorrupción) y el artículo 32 de
+la Ley 80 de 1993.
+
+Dada la alta complejidad técnica y la trascendencia normativa de los productos entregables
+por la Consultoría, la ejecución de la Interventoría se fundamenta en un bloque de
+constitucionalidad y legalidad estricto. El INTERVENTOR deberá conocer, aplicar y exigir
+el cumplimiento de las siguientes normas, las cuales constituyen el marco rector de sus
+obligaciones y responsabilidades:
+
+   •   Ley 80 de 1993:
+          o Artículo 32, Numeral 2: Define la Interventoría como un contrato de
+              seguimiento técnico especializado, obligatorio cuando la entidad no posee
+              personal de planta con la experticia requerida.
+
+           o   Artículo 53: Establece la responsabilidad civil, fiscal y penal de los
+               interventores por hechos u omisiones en su labor de vigilancia.
+
+   •   Ley 1474 de 2011:
+          o Norma rectora que otorga a los interventores la calidad de particulares que
+             ejercen funciones públicas transitorias. Obliga al Interventor a responder
+              solidariamente por el detrimento patrimonial que se genere si autoriza pagos
+              o recibe a satisfacción obras/estudios que no cumplan con las
+              especificaciones técnicas.
+
+   •   Ley 2056 de 2020 y Decreto 1821 de 2020:
+          o Regulan la ejecución de proyectos financiados con SGR. El Interventor
+             asume la obligación de reportar información veraz para las plataformas de
+             seguimiento (GESPROY/SPI), certificando que el avance financiero (pagos)
+             corresponde fielmente al avance físico real del proyecto.
+
+El Interventor deberá utilizar estas normas como lista de chequeo taxativa para la
+aprobación de los entregables del Consultor. El incumplimiento de cualquiera de ellas es
+causal de rechazo del producto:
+
+   •   Ley 400 de 1997:
+          o El Interventor debe verificar que la cantidad de perforaciones, la profundidad
+             de los sondeos y los ensayos de laboratorio cumplan con los mínimos
+             exigidos en este reglamento.
+
+   •   Decreto 1077 de 2015:
+          o Norma específica para la incorporación de la Gestión del Riesgo en el
+              Ordenamiento Territorial. El Interventor certificará que la zonificación de
+              amenazas (Alta, Media, Baja) cumplen los requisitos de los Artículos
+              2.2.2.1.3.1.1 y subsiguientes, garantizando la viabilidad jurídica del estudio
+              ante la Autoridad Ambiental (CRQ).
+
+   •   Ley 1523 de 2012:
+          o Artículos 38 y 42: Exige que los estudios técnicos garanticen el
+             "conocimiento del riesgo" para la planificación segura. El Interventor validará
+             que los resultados sean aplicables a la realidad del municipio y no
+             meramente teóricos.
+
+   •   Guías Metodológicas del Servicio Geológico Colombiano (SGC):
+          o Guía para la Evaluación de Amenaza por Movimientos en Masa (Escala
+             1:25.000 y 1:2.000).
+          o Guía Metodológica para zonificación de Avenidas Torrenciales.
+          o El Interventor utilizará estos documentos como parámetro técnico para
+             auditar la metodología del Consultor.
+
+   •   Fallo de Acción Popular No. 63001-233-000-2018-0036-00:
+           o El Interventor tiene la obligación específica de verificar que los productos
+              entregados den cumplimiento integral al Numeral 2 de la parte resolutiva de
+              este fallo, emitiendo un concepto técnico que sirva de prueba de
+              cumplimiento ante el Juzgado Administrativo.
+CONTEXTO TÉCNICO DEL RIESGO Y JUSTIFICACIÓN LEGAL
+La necesidad de estos estudios no es meramente administrativa; responde a una situación de
+riesgo catastrófico documentada e identificada en acciones legales:
+Acción Popular (AP): El 15 de noviembre de 2018, se interpuso la Acción Popular #63001-
+2333-000-2018-00036-00. Esta acción, ratificada en un fallo, es un eje central del problema y
+ordena la ejecución de proyectos para profundizar en el conocimiento del riesgo.
+
+Alto Riesgo Geológico: La AP expone que Pijao se encuentra en una zona de alto riesgo
+debido a sus características geológicas, topografía agreste y acción antrópica, lo que resulta en
+un deterioro progresivo de los suelos y una alta posibilidad de deslizamientos e inundaciones
+sobre el casco urbano.
+
+Riesgo de Avalancha: Aunque existe vulnerabilidad a inundaciones por la cercanía al Río Lejos
+y la Quebrada Las Pizarras, el riesgo más catastrófico identificado es el de "Avalanchas",
+generadas por el movimiento de remoción en masa de las cárcavas del mencionado río.
+
+1.2 LA EXPERIENCIA ESPECIALIZADA COMO RESPALDO TÉCNICO Y LEGAL
+
+El DEPARTAMENTO DEL QUINDÍO fundamenta la presente contratación en la necesidad
+de integrar un aliado estratégico que aporte los conocimientos científicos y técnicos
+altamente especializados en Geotecnia, Hidrología, Ingeniería Sísmica y Gestión del
+Riesgo que demanda la complejidad de este proyecto.
+
+En consecuencia, el CONTRATISTA (INTERVENTOR) reconoce que ha sido seleccionado
+en virtud de su probada idoneidad y experiencia experta (intuitu personae técnica). Por
+tanto, asume un rol fundamental como garante de calidad; su labor trasciende la vigilancia
+de medios y se orienta a la CERTIFICACIÓN TÉCNICA DE LOS PRODUCTOS
+ENTREGABLES. Al suscribir las actas de aprobación, el INTERVENTOR respalda
+técnicamente que los estudios del Consultor son precisos, se ajustan a la normativa vigente
+y constituyen un insumo idóneo y seguro para la toma de decisiones territoriales.
+
+Como compensación a la confianza depositada en su experticia técnica y en cumplimiento
+de su importante rol de COMPROBACIÓN TÉCNICA, ADMINISTRATVA, JURIDICA Y
+FINANCIERA CONFORME A LOS LINEAMIENTOS TÉCNICOS, sus obligaciones de
+control, el INTERVENTOR se compromete a mantener al DEPARTAMENTO DEL QUINDÍO
+libre e indemne de cualquier situación, reclamación, acción legal o hallazgo administrativo
+y/ó fiscal que se derive de manera directa o indirecta de:
+
+   •   Errores, omisiones o inconsistencias técnicas en los Estudios Básicos de Gestión
+       del Riesgo para el municipio de Pijao que no hayan sido advertidos, objetados o
+       subsanados oportunamente durante el ejercicio de la interventoría.
+
+   •   La validación o aprobación de productos (mapas, memorias, modelos) que
+       posteriormente se demuestre que no cumplían con las especificaciones técnicas o
+       la normativa vigente.
+
+   •   Situaciones derivadas de una zonificación de amenaza inexacta que haya sido
+       avalada en el marco de sus funciones de revisión y aprobación técnica.
+
+1.2 VALIDACIÓN DE ESCALAS Y RIGUROSIDAD CIENTÍFICA
+
+Desde la perspectiva técnica, el alcance de la presente Interventoría trasciende la
+verificación documental administrativa y se constituye en una AUDITORÍA DE CALIDAD
+CIENTÍFICA sobre los insumos técnicos que redefinirán el territorio. LA GOBERNACIÓN
+BUSCA LA COMPROBACIÓN FÁCTICA DE QUE LA ZONIFICACIÓN DE AMENAZAS
+RESPONDE A LA REALIDAD GEOFÍSICA DEL MUNICIPIO.
+
+El INTERVENTOR asume la obligación de realizar la COMPROBACIÓN FÁCTICA Y
+METODOLÓGICA de que la zonificación de amenazas entregada por el Consultor
+responde fielmente a la realidad geofísica del territorio. Esta validación no es potestativa,
+sino reglada, debiendo asegurar el cumplimiento de las Guías Metodológicas del Servicio
+Geológico Colombiano (SGC) y los requisitos del Decreto 1077 de 2015.
+
+Para materializar este alcance, el INTERVENTOR ejercerá las siguientes potestades de
+control técnico restrictivo:
+
+•   El INTERVENTOR deberá certificar, como requisito innegociable para la aprobación de
+    productos, que la información cartográfica para suelo urbano y de expansión cumple
+    con la escala detallada 1:2.000.
+
+•   El INTERVENTOR ostenta la autoridad técnica exclusiva para determinar si la
+    caracterización del subsuelo presentada por el Consultor es suficiente para soportar
+    decisiones de mitigación del riesgo; el INTERVENTOR está facultado para exigir al
+    Consultor la ejecución de exploraciones adicionales (mayores longitudes de perforación
+    o apiques complementarios) cuando la incertidumbre geológica del sitio así lo amerite.
+    Esta exigencia se realizará bajo criterios de racionalidad técnica, prevaleciendo la
+    seguridad de la vida humana y considerando de igual manera, la economía del contrato
+    de consultoría.
+
+•   El INTERVENTOR deberá validar que los modelos hidráulicos no se limiten a la
+    simulación de flujo líquido (agua clara), sino que incorporen las variables reológicas
+    propias de las Avenidas Torrenciales (aporte de sedimentos, densidad de la mezcla y
+    flujo de escombros), factor crítico en la geografía de Pijao.
+
+Las partes entienden y aceptan que las necesidades del INTERVENTOR en este ítem
+tienen una naturaleza jurídica híbrida:
+
+En cuanto al seguimiento administrativo, financiero y el acompañamiento constante a las
+labores del Consultor; y, en cuanto al RESULTADO, a la validación final de los productos.
+La firma del acta de recibo a satisfacción constituye una certificación de resultado
+mediante la cual el INTERVENTOR asegura a la Entidad que los Estudios Básicos son
+aptos técnica, científica y jurídicamente para ser adoptados mediante Acuerdo Municipal,
+trasladando el riesgo técnico de la idoneidad del estudio de la Gobernación a la firma
+interventora especializada.
+
+2. CONDICIONES TÉCNICAS DETERMINANTES PARA EL EJERCICIO DE LA
+   INTERVENTORÍA
+
+Para garantizar la correcta ejecución de los recursos del Sistema General de Regalías
+(SGR) y asegurar que el contrato de consultoría cumpla con su objeto de entregar
+ESTUDIOS BÁSICOS DE GESTIÓN DEL RIESGO (aptos para la toma de decisiones
+territoriales) y no diagnósticos preliminares, la presente Interventoría se regirá bajo
+condiciones estrictas de Control de Riesgos y Exigibilidad Técnica.
+La labor del INTERVENTOR NO SE LIMITARÁ A LA REVISIÓN DOCUMENTAL PASIVA;
+su alcance se configura como la AUTORIDAD TÉCNICA DELEGADA por la Gobernación
+del Quindío para asegurar el cumplimiento de las especificaciones contractuales. En
+consecuencia, el ejercicio de la interventoría estará regido por las siguientes condiciones
+determinantes:
+
+•   El INTERVENTOR podrá avalar el recibo de productos intermedios como soporte para
+    la demostración de avances y pagos, siempre y cuando estos cumplan con la calidad
+    técnica requerida. Sin embargo, se establece de manera estricta que, al momento final
+    del contrato, si la Interventoría no certifica que los productos entregables están
+    completos y cumplen con el 100% del alcance técnico, no se recibirán los productos
+    intermedios ni el informe final, y se activarán las cláusulas y sanciones
+    correspondientes.
+
+•   La supervisión no se limitará a la revisión de informes finales. Es condición determinante
+    que el INTERVENTOR ejerza una vigilancia afín y preventiva. Esto implica validar la
+    calidad de los datos desde su origen (supervisión en campo durante la perforación,
+    validación en laboratorio, revisión de topología SIG durante el proceso). El
+    INTERVENTOR actuará como un filtro de calidad activo, detectando y ordenando la
+    corrección de errores de manera temprana para evitar reprocesos que afecten el
+    cronograma.
+
+    •   El INTERVENTOR será el encargado de hacer efectivas las cláusulas de
+        distribución de riesgos pactadas con el CONSULTOR. En caso de incertidumbre
+        técnica, fallas en los equipos de exploración o inconsistencias en los modelos, el
+        INTERVENTOR deberá exigir al Consultor la repetición de actividades o la
+        ampliación de la investigación a su propia cuenta y riesgo. El INTERVENTOR
+        protegerá el patrimonio de la Entidad asegurando que los costos de corrección
+        técnica sean asumidos exclusivamente por el Consultor, conforme a su Matriz de
+        Riesgos.
+
+No obstante la modalidad de Precio Global Fijo, y en concordancia con el artículo 27
+de la Ley 80 de 1993, de manera excepcional procederán adiciones al valor o
+modificaciones al contrato de Consultoría e interventoría si durante su ejecución entra
+en vigencia una nueva normativa de obligatorio cumplimiento que altere las condiciones
+de la supervisión, o si se materializa una externalidad de carácter extraordinario e
+imprevisible ajena a las partes que comprometa gravemente la rentabilidad y viabilidad
+financiera del contratista. Para que cualquier reclamación o adición por estas causales
+sea procedente, el contratista deberá radicar una solicitud formal que cuente con una
+rigurosa justificación jurídica, técnica y financiera que demuestre el nexo causal y el
+desequilibrio real, la cual estará sujeta a la estricta revisión de aprobación o
+desaprobación por parte del Departamento.
+
+
+    •   El INTERVENTOR mantendrá su autonomía intelectual y técnica frente al Consultor.
+        Sus conceptos de aprobación o rechazo deberán estar sustentados y justificados
+        debidamente en las Normativas establecidas, el Decreto 1077 de 2015 y las buenas
+        prácticas de ingeniería. La Gobernación del Quindío respaldará las decisiones del
+        INTERVENTOR siempre que estas busquen la protección de la vida y la seguridad
+        jurídica de los estudios.
+
+2.1 CONTROL AL RÉGIMEN DE PRECIO GLOBAL FIJO Y RECHAZO DE
+    SOBRECOSTOS
+
+
+Considerando que el contrato de consultoría objeto de vigilancia se suscribe bajo la
+modalidad de PRECIO GLOBAL FIJO SIN FÓRMULA DE REAJUSTE, el INTERVENTOR
+asume la obligación determinante de salvaguardar el equilibrio económico del contrato en
+mención y proteger el patrimonio de la Entidad frente a reclamaciones que carezcan de
+sustento legal.
+
+El INTERVENTOR ejercerá un control financiero riguroso, entendiendo que su función es
+asegurar que el valor pactado retribuya la totalidad del alcance técnico prometido, sin que
+sea procedente el traslado de riesgos operacionales a la Gobernación del Quindío.
+
+2.1.1   IMPROCEDENCIA DE RECLAMACIONES POR RIESGOS PREVISIBLES: En
+        concordancia con la Matriz de Riesgos aceptada por el Consultor, el
+        INTERVENTOR deberá DECLARAR LA IMPROCEDENCIA TÉCNICA Y
+        JURÍDICA de cualquier solicitud de adición presupuestal, reconocimiento de
+        mayores cantidades de obra o costos extra que se sustenten en la materialización
+        de riesgos que, por su naturaleza, debieron ser previstos en la oferta.
+
+Específicamente, el INTERVENTOR no avalará reclamaciones fundamentadas en:
+
+   •    Dificultades de acceso a los predios rurales, mal estado de las vías terciarias o
+        distancias de acarreo, toda vez que la topografía del municipio de Pijao es un hecho
+        notorio y público que el Consultor debió evaluar en su visita de campo
+        precontractual.
+
+   •    Retrasos o rendimientos bajos asociados a la pluviosidad o condiciones climáticas
+        adversas propias de la Cordillera Central, salvo la ocurrencia de eventos de Fuerza
+        Mayor debidamente probados (ejm: Desastre Natural declarado).
+
+   •    Incrementos en el Índice de Precios al Consumidor (IPC), el Salario Mínimo
+        (SMMLV) o los costos de combustibles e insumos durante la vigencia del contrato
+        (2026), dado que la proyección de costos y la cobertura de inflación fueron asumidas
+        integralmente por el CONSULTOR al presentar su propuesta económica a Precio
+        Global.
+
+El INTERVENTOR deberá certificar expresamente en cada Acta de Recibo Parcial que los
+productos entregados y recibidos a satisfacción cubren la totalidad de los costos directos
+(personal, ensayos, equipos), indirectos (administración, imprevistos) y utilidades. Esta
+certificación implica que la Gobernación del Quindío NO TIENE SALDOS PENDIENTES NI
+OBLIGACIONES con el contratista por los ítems pagados, blindando a la Entidad de futuras
+demandas de restablecimiento económico por hechos conocidos y aceptados durante la
+ejecución.
+
+2.2 VALIDACIÓN DE INSUMOS, DEBIDA DILIGENCIA Y PRECLUSIÓN DE EXCUSAS
+    TÉCNICAS
+Con el objeto de evitar retrasos en el cronograma y garantizar que las fases de modelación
+hidráulica y geotécnica cuenten con bases sólidas, el INTERVENTOR deberá exigir y
+validar el estricto cumplimiento del Deber de Revisión y Análisis de Información por parte
+del Consultor al inicio de la ejecución contractual. Para tal efecto, el INTERVENTOR exigirá
+y validará el cumplimiento del Deber de Información al inicio del contrato.
+
+•   El INTERVENTOR verificará que, durante la Fase de Alistamiento, el CONSULTOR
+    valide la calidad topológica y temporal de la cartografía y los Modelos Digitales de
+    Terreno (MDT) entregados.
+
+•   Si los insumos oficiales no cuentan con el detalle necesario para las zonas críticas (ej.
+    cauces o zonas de expansión), el INTERVENTOR deberá conminar al CONSULTOR a
+    realizar los levantamientos topográficos y batimétricos con sus propios recursos,
+    haciendo valer la obligación contractual de no generar costos adicionales para la
+    Entidad.
+
+2.3 CLÁUSULA DE SUFICIENCIA TÉCNICA DE LA EXPLORACIÓN GEOTÉCNICA Y
+    GARANTÍA DE REPRESENTATIVIDAD
+
+Las partes comprenden y aceptan que el programa de exploración del subsuelo (número
+de perforaciones, apiques y profundidad de sondeos) presentado por el CONSULTOR en
+su propuesta constituye una estimación inicial basada en información secundaria. Sin
+embargo, para efectos de la validez del contrato, prevalecerá el Principio de la Realidad
+Geológica encontrada en sitio durante la fase de ejecución.
+En consecuencia, el INTERVENTOR tendrá la función determinante de validar, ajustar y
+certificar la suficiencia técnica de dicha exploración, asegurando que la muestra obtenida
+sea verdaderamente representativa de la complejidad geotécnica del Municipio de Pijao.
+
+2.3.1   POTESTAD DE AJUSTE POR CRITERIO TÉCNICO
+
+Si durante la ejecución de la campaña de campo, el INTERVENTOR evidencia que la
+densidad de sondeos propuesta es insuficiente para caracterizar adecuadamente una zona
+de amenaza (ej. detectar un plano de falla activo o definir el nivel freático en una ladera
+inestable), estará facultado técnica y contractualmente para solicitar al CONSULTOR la
+ejecución de sondeos adicionales o la profundización de los existentes.
+
+Esta potestad no se ejercerá de manera arbitraria, sino bajo estricta sujeción a las Guías
+del Servicio Geológico Colombiano. El criterio rector será la obtención del Factor de
+Seguridad (FS) confiable sin comprometer mayormente la rentabilidad del Consultor; por
+tanto, el CONSULTOR no podrá negarse a ejecutar las actividades complementarias
+alegando que exceden las cantidades inicialmente programadas, si estas son
+indispensables para cumplir el estándar normativo.
+
+2.3.2   ASUNCIÓN DEL RIESGO DE INCERTIDUMBRE GEOTÉCNICA
+
+Queda expresamente establecido que los costos derivados de ajustes razonables en la
+localización, cantidad o profundidad de las perforaciones para alcanzar el nivel de confianza
+técnico exigido, se entienden incluidos dentro de la Matriz de Riesgos y los costos indirectos
+de la propuesta a Precio Global Fijo.
+El INTERVENTOR vigilará que la Suficiencia Técnica no sea sacrificada por el Ahorro
+Económico. La Gobernación del Quindío pagará por un estudio completo y normativo. Si
+bien no se establece un número fijo de puntos de perforación, se exige el cumplimiento de
+un mínimo de trescientos cincuenta (350) metros lineales de perforación mecánica
+(sondeos) en suelo urbano y de expansión, un mínimo de sesenta (60) metros lineales de
+sondeos manuales, y un mínimo de veinte (20) apiques manuales (dimensión mínima 1.0 x
+1.0 x 1.5m de profundidad). Estas cantidades se consideran mínimos referenciales y no
+podrán ser disminuidas. Conforme a lo expuesto, la Interventoría deberá verificar la
+idoneidad, pertinencia y representatividad de cada punto de exploración ejecutado,
+asegurando que la muestra obtenida sea suficiente para reducir la incertidumbre geológica
+y garantizar la seguridad de la vida humana.
+
+2.4 VALIDACIÓN DE INSUMOS Y DEBER DE INFORMACIÓN
+
+Las partes entienden que la calidad de los modelos de amenaza depende directamente de
+la calidad de los datos de entrada. En tal virtud, y con el propósito de garantizar la fluidez
+técnica del proyecto, el INTERVENTOR velará porque se cumpla estrictamente el Deber de
+Información y Revisión Preliminar por parte del Consultor.
+
+El INTERVENTOR no asumirá una posición pasiva frente a los insumos suministrados; por
+el contrario, actuará como garante de que la información base (cartografía, MDT, hidrología
+existente) sea validada técnicamente antes de iniciar procesos de modelación complejos,
+evitando reprocesos que impacten el cronograma.
+
+Durante la Etapa de Alistamiento, el INTERVENTOR verificará que el Consultor realice un
+análisis exhaustivo de la calidad de la información secundaria suministrada por la Entidad
+o recopilada de fuentes oficiales; exigirá al Consultor un "Informe de Idoneidad de Insumos",
+en el cual se certifique si la información disponible es suficiente y apta para cumplir el objeto
+contractual, o si, por el contrario, requiere actualizaciones o complementos.
+
+Con el fin de brindar seguridad jurídica al contrato y evitar reclamaciones tardías, el
+INTERVENTOR aplicará el principio de Preclusión de Oportunidad Técnica. Si el Consultor
+no objeta la calidad de la información suministrada durante la Fase de Alistamiento, se
+entenderá que la acepta a entera satisfacción para el desarrollo de sus labores.
+
+En el evento en que el INTERVENTOR valide que la información secundaria (oficial) carece
+del detalle necesario para zonas críticas (ej. cauces no definidos o desactualización
+catastral en zonas de expansión), requerirá al Consultor para que proceda a generar la
+información primaria necesaria (levantamientos topográficos, batimetrías o censos
+prediales) con sus propios recursos técnicos.
+
+2.5 DISPONIBILIDAD, PERMANENCIA Y ESTABILIDAD DEL EQUIPO DE TRABAJO
+
+Las partes reconocen que la selección del INTERVENTOR se fundamentó, de manera
+determinante, en la idoneidad, experiencia y calidades académicas de los profesionales
+presentados en su oferta (director de Interventoría, Especialista en Geotecnia, Especialista
+en Hidrología, etc.). Por consiguiente, dichos profesionales se consideran personal clave e
+inamovible para la correcta ejecución del objeto contractual.
+
+El INTERVENTOR garantiza a la Gobernación del Quindío que el equipo de trabajo ofertado
+estará disponible y dedicado al proyecto durante los tiempos y porcentajes de dedicación
+comprometidos, asegurando la continuidad técnica y la memoria institucional del proceso
+de supervisión.
+
+2.5.1   RÉGIMEN RESTRICTIVO PARA CAMBIOS DE PERSONAL
+
+Con el fin de preservar la calidad del servicio, no se aceptarán cambios de personal por
+mera liberalidad o conveniencia administrativa del INTERVENTOR. La sustitución de
+cualquier integrante del equipo clave solo procederá bajo las siguientes reglas estrictas:
+
+   •    Causal de Fuerza Mayor o Justa Causa: Solo se tramitarán solicitudes de cambio
+        motivadas en hechos sobrevivientes debidamente comprobados, tales como:
+        incapacidad médica prolongada, licencia de maternidad/paternidad, fallecimiento,
+        renuncia irrevocable del profesional (soportada con carta) o terminación del contrato
+        laboral con la firma interventora. En cualquier caso, de sustitución, el
+        INTERVENTOR deberá postular un reemplazo que acredite un perfil académico y
+        de experiencia igual o superior al del profesional inicialmente evaluado y puntuado
+        en el proceso de selección.
+
+   •    Ningún cambio de personal podrá hacerse efectivo sin la autorización previa y
+        escrita del Supervisor del Contrato, quien verificará el cumplimiento de los requisitos
+        habilitantes y de puntaje. La actuación de profesionales no aprobados carecerá de
+        validez técnica para la firma de actas o conceptos.
+
+Sin perjuicio de la dedicación remota o de gabinete propia del análisis documental, el
+director de Interventoría y los Especialistas Temáticos (según el componente a tratar) tienen
+la obligación contractual de garantizar su presencia física y participación en los hitos críticos
+del proyecto, tales como:
+
+   •    Visitas de verificación de inicio y finalización de exploración de campo.
+   •    Mesas técnicas de controversia con el Consultor.
+   •    Reuniones de socialización con la Corporación Autónoma Regional del Quindío
+        (CRQ) y la Alcaldía de Pijao.
+   •    Jornadas de socialización de resultados ante la comunidad.
+
+PARÁGRAFO DE SANCIÓN POR AUSENTISMO: La inasistencia injustificada o reiterada
+del personal clave a estos espacios estratégicos, o la delegación de sus funciones en
+personal junior no autorizado, será tipificada como una falla en la calidad del servicio y
+constituirá causal para la imposición de las multas y sanciones pecuniarias previstas en la
+Minuta del Contrato y la Matriz de Riesgos.
+
+2.6 GARANTÍA DE APROBACIÓN, VIABILIDAD NORMATIVA Y ACOMPAÑAMIENTO
+    POST-ENTREGA
+
+Las partes acuerdan que la obligación contractual de la Consultoría vigilada no se extingue
+con la simple radicación documental de informes y planos ante la Gobernación. La finalidad
+última de los Estudios Básicos es servir como lineamiento vinculante para el Ordenamiento
+Territorial; por ende, el INTERVENTOR deberá exigir y validar que los productos
+entregados cumplan con los estándares de calidad necesarios para surtir el trámite de
+concertación ambiental.
+El INTERVENTOR condicionará la firma del ACTA DE RECIBO FINAL A SATISFACCIÓN
+y la autorización del último pago de la Consultoría a la verificación estricta de que los
+estudios cumplen con los chequeos técnicos y requisitos normativos exigidos por la
+Corporación Autónoma Regional del Quindío (CRQ) y el Decreto 1077 de 2015.
+
+El INTERVENTOR no podrá recibir a satisfacción productos que, a su juicio experto,
+presenten vacíos técnicos evidentes que harían inviable su aprobación futura por parte de
+la Autoridad Ambiental.
+
+En el evento en que la Autoridad Ambiental (CRQ), la Interventoría o la Supervisión de la
+Gobernación formulen observaciones de fondo por deficiencias técnicas, inconsistencias o
+incumplimiento de las normas, el INTERVENTOR requerirá al Consultor para que proceda
+a subsanarlas de manera inmediata.
+
+   •    El Consultor deberá realizar los ajustes, correcciones, aclaraciones o complementos
+        necesarios, a su entero costo y riesgo, cuantas veces sea requerido, hasta obtener
+        un producto de calidad. Esta garantía cubre exclusivamente las correcciones
+        derivadas de falencias técnicas imputables al Consultor. No cubre nuevas
+        exigencias normativas surgidas después de la entrega, ni cambios en el alcance no
+        pactados inicialmente, protegiendo así el equilibrio contractual.
+
+El INTERVENTOR garantizará que el Consultor cumpla con su deber de acompañamiento
+y sustentación técnica ante la CRQ y el Consejo Municipal de Gestión del Riesgo de
+Desastres (CMGRD) de Pijao, sirviendo como par técnico que defienda la idoneidad de los
+estudios realizados hasta la obtención del concepto de viabilidad o la culminación del
+proceso de revisión.
+
+3. COMPONENTES
+
+   COMPONENTE I: AUDITORÍA Y CONTROL A LA FASE DE ALISTAMIENTO,
+   PLANEACIÓN Y SOCIALIZACIÓN DE INICIO
+
+Esta fase constituye el requisito previo para el inicio de las actividades de campo. El
+interventor deberá actuar como primer filtro de calidad del proyecto. El interventor deberá
+validar la viabilidad técnica y operativa de la información entregada por el consultor. No se
+autorizará el inicio de actividades complejas (perforaciones o modelación) hasta que esta
+fase de planeación esté aprobada por el equipo de Interventoría y del equipo de apoyo a la
+supervisión de la gobernación del Quindío.
+
+3.1.1   AUDITORÍA AL PLAN DE TRABAJO OPERATIVO (PTO)
+
+El INTERVENTOR deberá revisar y aprobar el documento del PTO, verificando que la
+metodología propuesta por el Consultor sea coherente con el alcance del contrato.
+    • El Interventor certificará que el personal propuesto (Especialistas) coincide con el
+      ofertado y que la logística de movilización a Pijao garantiza la operatividad del
+      equipo en zona de ladera, para ello debe revisar: Metodología Detallada,
+      Organigrama del Proyecto, Plan de Movilización y Logística y Plan de Gestión de
+      Calidad y HSE.
+
+3.1.2   VALIDACIÓN DEL CRONOGRAMA DETALLADO DE ACTIVIDADES                                El
+        INTERVENTOR someterá el cronograma a un análisis de Ruta Crítica.
+   •   Alcance del Control: Verificará que los tiempos asignados para las perforaciones,
+       ensayos de laboratorio y modelación sean realistas y no "optimistas". El Interventor
+       exigirá que se incluyan las holguras por clima (lluvias) y trámites administrativos. Si
+       el cronograma no asegura el cumplimiento del plazo de ocho (8) meses, será
+       devuelto para ajuste.
+
+3.1.3 APROBACIÓN TÉCNICA DEL PLAN DE EXPLORACIÓN DE CAMPO Este es un
+hito de control mayor. El INTERVENTOR no autorizará el inicio físico de las actividades de
+exploración y perforación en campo sin haber emitido previamente su aprobación técnica
+formal del plan.
+    • Alcance del Control: Revisará sobre la cartografía base la ubicación de los
+        sondeos y apiques propuestos. El Interventor deberá certificar que la densidad y
+        profundidad de la exploración cumple estrictamente con el Título H de la NSR-10 y
+        el Decreto 1077 de 2015. Si la propuesta es insuficiente para caracterizar la
+        amenaza, el Interventor ejercerá su potestad técnica para exigir ajustes en la
+        localización de los puntos antes de iniciar la campaña.
+4. FISCALIZACIÓN DEL MÓDULO DE SOCIALIZACIÓN Y PARTICIPACIÓN El
+INTERVENTOR actuará como garante de la transparencia ante la comunidad.
+    • Alcance del Control: Acompañará las mesas de trabajo y socialización de inicio,
+        verificando que el lenguaje utilizado por el Consultor sea claro y no genere falsas
+        expectativas en la población. Validará las Actas de Reunión y listados de asistencia,
+        asegurando que los actores clave (Alcaldía, CRQ, Líderes Comunales) hayan sido
+        debidamente notificados y vinculados al proceso.
+5. AUDITORÍA A LA INFORMACIÓN SECUNDARIA Y ANÁLISIS DE ANTECEDENTES
+El INTERVENTOR verificará que el Consultor no presente una copia de estudios obsoletos.
+    • Alcance del Control: Revisará el inventario de información recopilada, filtrando qué
+        sirve y qué no. Validará que se hayan incorporado los estudios previos de la UNGRD
+        y la CRQ, exigiendo un análisis crítico de dicha información y no una simple
+        transcripción.
+6. VERIFICACIÓN Y APROPIACIÓN DE LA CARTOGRAFÍA BASE El INTERVENTOR
+realizará el control de calidad informático a los insumos geográficos.
+    • Alcance del Control: Verificará la Topología y Georreferenciación de la
+        cartografía base (catastro, vías, hidrografía). Certificará que el sistema de
+        coordenadas corresponda al oficial (MAGNA-SIRGAS u Origen Nacional) y que la
+        estructura de la Geodatabase (GDB) cumpla con el estándar LADM-COL o el exigido
+        por la Entidad, rechazando archivos con errores de geometría.
+7. INTERVENTORÍA AL INFORME DE TOPOGRAFÍA Y BATIMETRÍA El INTERVENTOR
+realizará la fiscalización física y digital del modelo del terreno.
+    • Control de Campo: Realizará visitas de inspección para verificar la materialización
+        de los puntos de control (mojones, deltas) y la toma real de secciones transversales
+        en los cauces (batimetría).
+    • Control de Gabinete: Revisará el Modelo Digital del Terreno (MDT) generado,
+        cruzándolo con puntos de control propios o chequeos aleatorios. El Interventor
+        certificará que la topografía representa fielmente los puntos hidráulicos críticos
+        (puentes, box-culverts, estrechamientos) esenciales para la modelación de
+        inundaciones y avenidas torrenciales.
+
+3.2 COMPONENTE II: AUDITORIA TÉCNICA A LA GESTIÓN DE INFORMACIÓN E
+    INSUMOS BÁSICOS (CARTOGRAFÍA Y MDT)
+Este componente constituye la comprobación del cimiento técnico de la consultoría. La
+Interventoría ejercerá una función de control de calidad informático y analítico sobre la
+generación, procesamiento y estandarización de la información geográfica. La aprobación
+de estos productos por parte de la Interventoría es requisito para la certificación de
+cumplimiento y el trámite del Pago 1 del Consultor.
+
+3.2.1 AUDITORÍA AL INFORME DE INFORMACIÓN SECUNDARIA Y ANÁLISIS DE
+ANTECEDENTES
+
+La Interventoría no realizará una revisión documental pasiva, sino una auditoría de calidad
+y suficiencia sobre el inventario y análisis presentado por el Consultor. El control se centrará
+en:
+
+•   Verificar que el análisis de la cartografía oficial y normas urbanísticas no sea una
+    transcripción, sino una evaluación de su vigencia y aplicabilidad técnica para los
+    estudios de riesgo.
+
+•   Comprobar que la compilación de insumos de la CRQ, UNGRD, Gobernación e
+    INGEOMINAS (actual SGC) haya sido sometida a un filtro de idoneidad, descartando
+    información obsoleta que pueda inducir a error en los modelos.
+
+•   Certificar que la base de datos de las estaciones del IDEAM/CENICAFE/CRQ haya sido
+    depurada mediante pruebas de consistencia, homogeneidad y relleno de datos,
+    rechazando el uso de series crudas que introduzcan ruido en los análisis de frecuencia.
+
+•   Validar que el catálogo sísmico instrumental e histórico esté debidamente depurado y
+    corresponda fielmente a la tectónica regional del Quindío.
+
+3.2.2 VERIFICACIÓN TÉCNICA DE LA APROPIACIÓN E INTERPRETACIÓN DE LA
+CARTOGRAFÍA BASE
+
+La Interventoría actuará como garante de que el Consultor ha realizado una evaluación
+detallada de los insumos suministrados. Para ello, deberá:
+
+•   Exigir y validar el "Informe de Idoneidad de Insumos" donde el Consultor declare si la
+    información base es suficiente o si requiere complementos.
+
+•   Verificar que el Consultor no presente excusas futuras por fallas en la cartografía base
+    si no fueron objetadas durante esta fase de revisión y análisis.
+
+•   Validar que las falencias identificadas por el Consultor sean subsanadas (ej.
+    levantamientos en zonas de expansión con cambios morfológicos), sin generar costos
+    adicionales para la Entidad.
+
+3.2.3 COMPROBACIÓN AL INFORME DE TOPOGRAFÍA Y BATIMETRÍA
+
+La Interventoría realizará la comprobación física y digital de la adquisición de datos
+primarios en campo. El alcance incluye:
+   •    Realizar visitas de inspección para verificar la materialización de puntos de control
+        y la toma real de secciones transversales, cruzándolas aleatoriamente con las
+        carteras de campo presentadas.
+
+   •    Certificar que el levantamiento de obras hidráulicas (puentes, box-culverts) y cauces
+        priorizados refleje las dimensiones reales (luz, gálibo), garantizando que no existan
+        interpolaciones teóricas en puntos de represamiento crítico.
+
+   •    Exigir y verificar los certificados de calibración vigentes de los equipos de precisión
+        (Estación total, GNSS, Ecosonda) utilizados por el Consultor.
+
+NOTA: PROTOCOLO DE AUDITORÍA SIG Y CRITERIOS DE ACEPTACIÓN: Para la
+emisión del concepto de aprobación del Componente II, la Interventoría someterá la
+Geodatabase (GDB) Preliminar a un control de calidad "bit a bit" en software GIS
+(ArcGIS/QGIS) bajo los siguientes estándares:
+
+1. Ejecutar rutinas de validación para garantizar "Cero Errores" de geometría; las líneas
+   de drenaje deben tener conectividad hidráulica (flujo continuo), los polígonos de
+   construcción deben estar cerrados y no deben existir overlaps, gaps o polígonos
+   espurios.
+
+2. Certificar mediante superposición con el servicio WMS del IGAC que el 100% de la
+   información espacial coincida perfectamente con el sistema MAGNA-SIRGAS (Origen
+   Nacional CTM12), rechazando desplazamientos (shifts) o escalas incompatibles.
+
+3. Validar que el Modelo Digital de Terreno sea hidrológicamente correcto (sin sumideros
+   digitales artificiales) y que sus cotas guarden una correlación exacta con las secciones
+   topográficas levantadas en campo.
+
+4. Verificar que cada capa geográfica cuente con sus metadatos diligenciados bajo la
+   norma ISO 19115, asegurando la trazabilidad de la fuente, escala y fecha de captura.
+
+
+4. COMPONENTE III: SUPERVISIÓN Y CONTROL TÉCNICO A LOS ESTUDIOS DE
+   AMENAZA POR MOVIMIENTOS EN MASA
+
+
+4.1.1   ALCANCE ESPECÍFICO Y NORMATIVO
+
+El INTERVENTOR asume la responsabilidad técnica directa de certificar que la evaluación
+de estabilidad de laderas entregada por el CONSULTOR cumple, sin excepción alguna, con
+los estándares de rigor científico establecidos en los Artículos 8, 11 y 12 del Decreto 1807
+de 2014. Su labor de control se centrará en verificar la correspondencia entre los modelos
+teóricos y la realidad física del territorio, verificando el estricto cumplimiento de las escalas
+de trabajo:
+    • En Suelo Urbano y de Expansión (1:2.000): El INTERVENTOR deberá constatar
+        que la cartografía posea el nivel de detalle exigido. Rechazará metodologías
+        puramente heurísticas (subjetivas) en zonas urbanas, exigiendo métodos
+        determinísticos o probabilísticos basados en física de suelos.
+    •   En Suelo Rural (1:25.000): Validará que la zonificación sea consistente con la
+        geomorfología regional y el inventario de procesos.
+
+5.1.1   FASES METODOLÓGICAS Y ACTIVIDADES OBLIGATORIAS
+
+El INTERVENTOR ejercerá una vigilancia concomitante para asegurar que el estudio siga
+la secuencia lógica de la "Guía Metodológica del SGC", revisando los siguientes hitos de
+control:
+
+5.1.1.1 FASE 1: DIAGNÓSTICO Y FACTORES DETONANTES
+
+El INTERVENTOR auditará la calidad y procedencia de los datos de entrada para evitar
+incertidumbres en los modelos:
+• Hidrología e Hidrogeología: Verificar que las series de lluvia antecedentes y críticas
+    provengan de estaciones oficiales (IDEAM/CENICAFE) con la cobertura temporal
+    exigida (15-20 años) y que el análisis del nivel freático no sea genérico, sino
+    correlacionado con la litología local.
+• Sismicidad: Validar que los coeficientes de aceleración (Aa) y amplificación (Fa, Fv)
+    utilizados en los análisis pseudo-estáticos correspondan a la microzonificación vigente
+    y a los parámetros de la NSR-10.
+• Factor Antrópico: Realizar inspecciones de campo para corroborar que el Consultor
+    haya identificado y mapeado las intervenciones humanas críticas (cortes, rellenos,
+    descargas de agua), garantizando que el modelo represente las condiciones reales de
+    alteración del terreno.
+
+5.1.1.2 FASE 2: CARACTERIZACIÓN GEOLÓGICA Y GEOMORFOLÓGICA
+
+•   Geología para Ingeniería: Validar que la delimitación de las Unidades de Geología para
+    Ingeniería (UGI) esté sustentada en el comportamiento mecánico de los materiales
+    (suelo residual vs. roca) y no solo en la litología regional.
+
+•   Inventario de Movimientos en Masa: El INTERVENTOR realizará una verificación
+    muestral in situ del catálogo de procesos. Exigirá que la base de datos se entregue bajo
+    la estructura de Movimientos en Masa (MENCHU) del Servicio Geológico Colombiano.
+    Si se detectan deslizamientos activos en campo que no fueron reportados en el
+    inventario, el producto será devuelto por insuficiencia técnica.
+
+5.1.1.3 FASE 3: EXPLORACIÓN GEOTÉCNICA Y ENSAYOS (CANTIDADES MÍNIMAS
+        EXIGIDAS)
+
+Este es el hito crítico de control financiero y técnico. El INTERVENTOR ejercerá supervisión
+presencial para certificar las cantidades mínimas contractuales:
+
+•   El INTERVENTOR deberá certificar en bitácora, metro a metro, la ejecución de los 350
+    metros lineales mínimos exigidos en suelo urbano/expansión, verificando la
+    recuperación de muestras inalteradas (tipo Shelby) donde el suelo lo permita. No se
+    autorizará el pago de metros de perforación no presenciados o sin registro fotográfico
+    de los núcleos.
+•   Verificará la ubicación estratégica de los 60 metros de sondeos manuales y los 20
+    apiques para cubrir vacíos de información en la malla de exploración.
+•   Auditará que los ensayos de resistencia (Corte Directo, Compresión, Triaxiales) se
+    realicen en un laboratorio certificado, revisando las planillas originales para validar los
+    parámetros de cohesión y fricción que alimentarán el software.
+
+5.1.1.4 FASE 4: ANÁLISIS DE ESTABILIDAD Y ZONIFICACIÓN
+
+El INTERVENTOR actuará como par técnico para revisar la "Caja Negra" de los cálculos:
+
+    •   En suelo urbano, revisará los archivos nativos de cálculo (Equilibrio Límite).
+        Verificará que los Factores de Seguridad (F.S.) obtenidos sean consistentes con los
+        parámetros de entrada y que se hayan analizado las condiciones críticas (sismo +
+        saturación).
+    •   Asegurar que la delimitación de zonas de Amenaza Alta, Media y Baja corresponda
+        fielmente a los rangos de probabilidad de falla o Factor de Seguridad normativos,
+        sin suavizados arbitrarios que oculten el riesgo.
+
+5.1.1.5 NOTA (CRITERIO DE ACEPTACIÓN POR PRODUCTO APROBADO):
+
+Para la aprobación final de este componente, el INTERVENTOR deberá validar la
+completitud del expediente técnico, asegurando la entrega de: los Mapas de Inventario y
+Zonificación (1:2.000 / 1:25.000), el Documento Técnico de Soporte (DTS) con la memoria
+de cálculo, las planillas originales de laboratorio y los registros de perforación (Logs)
+debidamente firmados. La aprobación dependerá de que el INTERVENTOR pueda replicar
+o validar la trazabilidad del dato desde el sondeo de campo hasta el mapa final.
+
+5. COMPONENTE IV: INTERVENTORÍA A LOS ESTUDIOS DE AMENAZA POR
+   INUNDACIÓN
+
+5.1 ALCANCE ESPECÍFICO Y NORMATIVO
+
+El INTERVENTOR actuará como el garante técnico de la seguridad hidrológica del EOT de
+Pijao. Su responsabilidad principal será VALIDAR Y CERTIFICAR que la zonificación de
+amenazas por fenómenos hidrometeorológicos (inundaciones lentas y rápidas) entregada
+por el CONSULTOR no sea un simple ejercicio académico, sino un insumo normativo
+robusto, trazable y ajustado a la realidad física del territorio, cumpliendo estrictamente con
+el Decreto 1807 de 2014, el Decreto 1077 de 2015 y los protocolos técnicos del IDEAM.
+
+El alcance de la Interventoría trasciende la revisión documental; se constituye en una
+auditoría de modelación, donde el INTERVENTOR deberá verificar que los insumos
+cartográficos, las series hidrológicas y las simulaciones hidráulicas sean coherentes entre
+sí. Específicamente, verificará que el estudio incorpore y armonice los antecedentes
+técnicos de la UNGRD, garantizando que el análisis cubra la totalidad de las fuentes
+hídricas incidentes en el casco urbano y centros poblados bajo escenarios de Cambio
+Climático.
+
+6.1 FASES METODOLÓGICAS DE CONTROL Y AUDITORÍA
+
+El INTERVENTOR ejercerá una inspección técnica sobre cada etapa de la modelación,
+asegurando que los datos de entrada, el procesamiento y los resultados sean coherentes,
+auditando los siguientes hitos:
+6.1.1   SUPERVISIÓN FASE 1: HIDROLOGÍA Y ANÁLISIS DE FRECUENCIAS
+
+El INTERVENTOR revisará la robustez estadística de los caudales de diseño, verificando
+que no existan subestimaciones que pongan en riesgo la infraestructura futura.
+
+    •   Verificación de Insumos: Constatará que las series de precipitación y caudales
+        provengan de estaciones oficiales (IDEAM/CENICAFE/CRQ) y que hayan sido
+        sometidas a pruebas de consistencia, homogeneidad y relleno de datos faltantes.
+        Rechazará el uso de datos crudos que introduzcan ruido en el modelo.
+    •   Control Estadístico: Validará las pruebas de bondad de ajuste de las funciones de
+        distribución de probabilidad utilizadas (Gumbel, Log-Pearson III, etc.), asegurando
+        que los caudales máximos calculados para los periodos de retorno obligatorios
+        (2.33, 5, 10, 25, 50 y 100 años) sean estadísticamente representativos y no
+        subestimados.
+    •   Validación de Escenarios: Certificará que los factores de corrección por Cambio
+        Climático hayan sido aplicados conforme a la normativa vigente, proyectando la
+        amenaza hacia el futuro.
+
+
+6.1.2   SUPERVISIÓN FASE 2: HIDRÁULICA Y BATIMETRÍA
+
+El INTERVENTOR supervisará la adquisición de la geometría del cauce, concibiendo que
+un modelo hidráulico es tan bueno como su topografía base.
+
+•   Supervisión de Puntos Críticos: Acompañará y validará la selección y levantamiento
+    de las secciones transversales en puntos de control hidráulico (puentes, box-culverts,
+    estrechamientos y zonas de desbordamiento histórico), asegurando que la geometría
+    represente fielmente la capacidad hidráulica real.
+
+•   Verificación del Caudal Sólido: El INTERVENTOR exigirá y revisará la justificación
+    técnica para la incorporación del transporte de sedimentos (caudal sólido). No aprobará
+    modelos que asuman condiciones de "agua clara" sin sustento, debiendo verificar que
+    la concentración de sólidos adoptada sea coherente con la geomorfología de la cuenca
+    y el tipo de evento (inundación vs. flujo de lodos).
+
+•   Control de Cobertura: Verificará que todos los cuerpos de agua susceptibles a
+    desbordamiento hayan sido incluidos en el modelo, rechazando estudios que dejen
+    "zonas grises" sin evaluar.
+
+
+6.1.2.1 SUPERVISIÓN FASE 3: MODELACIÓN HIDRÁULICA Y ANÁLISIS DE
+        ESCENARIOS
+
+El INTERVENTOR no aceptará resultados impresos sin revisar los archivos nativos del
+software.
+
+•   El INTERVENTOR deberá partir de la premisa contractual de que la modelación
+    hidráulica para el Suelo Urbano y de Expansión del Municipio de Pijao debe realizarse
+    obligatoriamente mediante esquema Bidimensional (2D) o Acoplado (1D/2D), toda vez
+    que es la única metodología capaz de representar fielmente la dispersión del flujo de
+    lodos y escombros por la trama urbana (calles y manzanas) ante un evento de amenaza
+    por inundación.
+
+En el evento en que el CONSULTOR argumente que no es posible o necesario realizar la
+modelación 2D debido a condiciones topográficas (ej. cauces profundamente encajonados)
+o limitaciones del software, la carga de la prueba recaerá exclusivamente sobre él. El
+INTERVENTOR exigirá, como requisito indispensable para evaluar dicha solicitud, la
+radicación de un "Informe Técnico de Justificación de Modelo Unidimensional", el cual
+deberá contener:
+    ✓ Análisis comparativo que demuestre matemáticamente por qué las ecuaciones de
+        flujo 2D no son aplicables al tramo específico.
+    ✓ Evidencia de que el modelo 1D propuesto no subestima la amenaza en las zonas
+        de transición (donde el flujo se sale del cauce hacia las viviendas).
+    ✓ Certificación de que la simplificación a 1D no obedece a limitaciones de sus equipos
+        de cómputo o falta de detalle en su topografía, sino a una condición física real del
+        terreno.
+
+El INTERVENTOR tendrá la plena autonomía técnica para revisar y rechazar dicha
+justificación si considera que obedece a una intención del Consultor de ahorrar costos
+operativos o simplificar el análisis. SI EL CONCEPTO DEL INTERVENTOR ES
+DESFAVORABLE A LA SOLICITUD DE CAMBIO METODOLÓGICO, EL CONSULTOR
+TENDRÁ LA OBLIGACIÓN CONTRACTUAL INELUDIBLE DE EJECUTAR LA
+MODELACIÓN 2D, debiendo realizar los ajustes topográficos o demás ajustes sin que esto
+genere costos adicionales para la Gobernación del Quindío.
+
+•   El INTERVENTOR comprobará que la simulación de Avenidas Torrenciales integre las
+    variables de densidad de la mezcla y viscosidad (flujo de escombros/lodos). Rechazará
+    modelos simplificados que traten la avalancha como agua limpia, pues esto
+    subestimaría la fuerza de impacto y la mancha de inundación real.
+
+6.1.2.2 VALIDACIÓN FASE 4: ZONIFICACIÓN Y ANÁLISIS DE AMENAZA
+
+El INTERVENTOR certificará que el mapa final no sea un dibujo artístico, sino el resultado
+directo de la modelación.
+
+•   Cruce de Variables: Verificará que la categorización de Amenaza Alta, Media y Baja sea
+    el producto matemático del cruce entre Profundidad y Velocidad, aplicando
+    rigurosamente los rangos del Decreto 1807 de 2014.
+
+•   Validación Social: Constatará que la Huella de Modelación haya sido contrastada con
+    la memoria histórica de la comunidad (cartografía social), ajustando el modelo si este
+    contradice las evidencias de inundaciones pasadas conocidas por los habitantes.
+
+
+•   Verificación de Escalas: Asegurará que la zonificación urbana tenga el nivel de detalle
+    predial (1:2.000) y la rural (1:25.000) cubra las cuencas abastecedoras, rechazando
+    generalizaciones indebidas.
+
+6.1.3   PRODUCTOS ENTREGABLES ESPECÍFICOS
+ Para la firma del Acta de Recibo a Satisfacción de estos componentes, el INTERVENTOR
+ exigirá la entrega y validación de la "Carpeta de Modelación" completa (Archivos Nativos.
+ prj,. g01,. p01). El criterio de aceptación será la Reproducibilidad: El Interventor deberá ser
+ capaz de correr el modelo en su propio equipo y obtener los mismos resultados que el
+ Consultor. Si el modelo es inestable, presenta errores de continuidad o la zonificación no
+ coincide con los resultados hidráulicos, el pago al consultor asociado a este hito será
+ retenido hasta la subsanación total de las inconsistencias.
+
+ 6. COMPONENTE V: INTERVENTORÍA A LOS ESTUDIOS DE AMENAZA POR
+    AVENIDAS TORRENCIALES
+
+ 7.1 ALCANCE ESPECÍFICO Y NORMATIVO
+
+ El INTERVENTOR asume la obligación técnica de verificar que el CONSULTOR no
+ entregue modelos de inundación convencional como de avenidas torrenciales. Su función
+ crítica será validar que la simulación matemática incorpore las variables físicas de los Flujos
+ Hiperconcentrados y Flujos de Detritos (Lodos y Escombros), rechazando cualquier
+ aproximación simplista de "agua clara" que contravenga la realidad geomorfológica de
+ Pijao, el Decreto 1807 de 2014 y el Título D del RAS-2017.
+
+ El alcance de la supervisión se centrará en certificar que el estudio no solo identifique la
+ mancha de inundación, sino que calcule la Energía de Impacto y la capacidad destructiva
+ del flujo, garantizando que la reglamentación del uso del suelo resultante proteja la vida
+ frente a eventos súbitos de alta velocidad.
+
+7.2 FASES METODOLÓGICAS DE CONTROL Y AUDITORÍA
+
+ 7.2.1.1 SUPERVISIÓN FASE 1: HIDROLOGÍA Y DISPONIBILIDAD DE SEDIMENTOS
+
+ El INTERVENTOR verificará que el caudal de diseño no sea solo agua, sino una mezcla de
+ sólidos y líquido.
+
+     •    Auditoria a la Oferta de Sedimentos: El INTERVENTOR exigirá y revisará el análisis
+          geomorfológico de las microcuencas abastecedoras para validar el Volumen de
+          Material Detrítico Potencial. Si el Consultor no justifica técnicamente de dónde sale el
+          material sólido (deslizamientos activos, erosión de cauce) para alimentar la avenida
+          torrencial, el producto será devuelto por inconsistencia física.
+
+     •    Revisión de Intensidades: Validará que las curvas Intensidad-Duración-Frecuencia
+          (IDF) utilizadas prioricen lluvias de corta duración y alta intensidad (eventos
+          detonantes), típicos de cuencas de respuesta rápida.
+
+ 7.2.1.2 VALIDACIÓN A LA FASE 2: ANÁLISIS HIDRÁULICO–TORRENCIAL,
+         GEOMETRÍA DEL CAUCE Y LEVANTAMIENTOS BATIMÉTRICOS
+
+ Dado que las avenidas torrenciales suelen desbordarse en las curvas y puentes, el
+ INTERVENTOR ejercerá control riguroso sobre la topografía.
+
+ •       Verificará en campo que el levantamiento topobatimétrico haya capturado con precisión
+         la geometría de los puentes, box-culverts y estructuras hidráulicas urbanas. El
+         INTERVENTOR evaluará si el modelo considera la Probabilidad de Bloqueo por
+        palizadas o rocas en estas estructuras, un factor determinante en el desbordamiento
+        hacia las calles.
+
+•       Certificará que las secciones transversales representen fielmente los cambios bruscos
+        de pendiente (zonas de depósito vs. zonas de transporte), claves para entender dónde
+        se frenará el flujo y depositará los escombros.
+
+7.2.1.3 AUDITORÍA A LA FASE 3: MODELACIÓN HIDRÁULICO–TORRENCIAL Y
+        ANÁLISIS DE ESCENARIOS
+
+El INTERVENTOR realizará una Auditoría Forense de Parámetros Reológicos.
+
+        •     El INTERVENTOR revisará los archivos nativos del software (FLO-2D, RAMMS,
+              HEC-RAS con módulo de sedimentos) para verificar la Concentración de
+              Sedimentos (Cv) ingresada. Si detecta valores cercanos a cero (comportamiento
+              newtoniano) en cuencas torrenciales, rechazará el estudio.
+
+        •     Exigirá la justificación técnica de los parámetros de viscosidad y esfuerzo de fluencia
+              (Yield Stress) adoptados para la mezcla. No aceptará valores por defecto del
+              software sin una correlación con la litología de la zona.
+
+•       Verificará el uso de modelación bidimensional (2D) para el casco urbano; un modelo 1D
+        es inaceptable para representar este fenómeno en tramas urbanas. debe realizarse
+        obligatoriamente mediante esquema Bidimensional (2D) o Acoplado (1D/2D), toda vez
+        que es la única metodología capaz de representar fielmente la dispersión del flujo de
+        lodos por la trama urbana (calles y manzanas) ante un evento de Avenida Torrencial.
+
+En el evento en que el CONSULTOR argumente que no es posible o necesario realizar la
+modelación 2D debido a condiciones topográficas (ej. cauces profundamente encajonados)
+o limitaciones del software, la carga de la prueba recaerá exclusivamente sobre él. El
+INTERVENTOR exigirá, como requisito indispensable para evaluar dicha solicitud, la
+radicación de un "Informe Técnico de Justificación de Modelo Unidimensional", el cual
+deberá contener:
+    ✓ Análisis comparativo que demuestre matemáticamente por qué las ecuaciones de
+        flujo 2D no son aplicables al tramo específico.
+    ✓ Evidencia de que el modelo 1D propuesto no subestima la amenaza en las zonas
+        de transición (donde el flujo se sale del cauce hacia las viviendas).
+    ✓ Certificación de que la simplificación a 1D no obedece a limitaciones de sus equipos
+        de cómputo o falta de detalle en su topografía, sino a una condición física real del
+        terreno.
+
+
+7.2.1.4 VALIDACIÓN DE LA FASE 4: ZONIFICACIÓN Y ANÁLISIS DE AMENAZA POR
+        AVENIDAS TORRENCIALES
+
+El INTERVENTOR certificará que el mapa final refleje la peligrosidad real.
+
+    •       Verificará que la categorización de Amenaza (Alta, Media, Baja) no dependa solo de
+            la altura del agua, sino de la combinación de Profundidad, Velocidad y Fuerza de
+            Impacto, aplicando rigurosamente los umbrales del Decreto 1807 de 2014 para flujos
+            de detritos.
+ •       Contrastará la "Huella del Lodo" modelada con los registros históricos de eventos
+         pasados y el conocimiento local. Si el modelo es optimista y muestra zonas seguras
+         donde históricamente han bajado avalanchas, el INTERVENTOR ordenará la
+         recalibración inmediata.
+
+CRITERIOS DE ACEPTACIÓN Y PRODUCTOS A VALIDAR Para autorizar el pago de
+este componente, el INTERVENTOR deberá expedir una certificación de idoneidad técnica
+tras validar: Documento que justifique explícitamente la reología (física de la mezcla)
+adoptada, carpetas completas del modelo (input/output) que permitan al Interventor replicar
+la corrida y verificar que no hay inestabilidades numéricas maquilladas, cartografía que
+muestre no solo hasta dónde llega el lodo, sino con qué fuerza golpea, vital para el diseño
+estructural futuro, capas geográficas que cumplan con la estructura de datos para su
+incorporación directa al EOT.
+
+ 7. COMPONENTE VI: INTERVENTORÍA A LA ZONIFICACIÓN INTEGRAL Y GESTIÓN
+    DEL RIESGO EN EL ORDENAMIENTO
+
+     7.1.1. ALCANCE ESPECÍFICO
+
+El INTERVENTOR asume la función de Validador de las Determinantes y la integración de
+los lineamientos y resultados de la gestión del riesgo. Su responsabilidad es certificar que
+la integración espacial de las amenazas (Movimientos en Masa, Inundación y Avenidas
+Torrenciales) no sea una simple superposición gráfica, sino una síntesis técnica coherente
+que cumpla con los Artículos 2.2.2.1.3.1.1 y subsiguientes del Decreto 1077 de 2015. El
+INTERVENTOR deberá garantizar que el producto final sea un instrumento jurídico técnico
+apto para restringir el uso del suelo en el Esquema de Ordenamiento Territorial (EOT),
+blindando al municipio frente a futuras licencias de construcción en zonas de riesgo no
+mitigable.
+
+     7.1.2. FASES METODOLÓGICAS Y ACTIVIDADES OBLIGATORIAS
+
+El INTERVENTOR ejercerá un control de calidad riguroso sobre la síntesis del riesgo,
+auditando los siguientes procesos:
+
+     7.1.2.1.     FASE 1: SUPERPOSICIÓN Y ÁLGEBRA DE MAPAS
+
+El INTERVENTOR verificará mediante software SIG la correcta aplicación del álgebra de
+mapas, su control se centrará en garantizar el Principio de Prevalencia de la Amenaza
+Mayor
+
+     •     Revisará las zonas de Multiamenaza, certificando que en los polígonos donde
+           convergen dos fenómenos (ej. deslizamiento e inundación) se haya asignado
+           normativamente la categoría más restrictiva.
+
+     •     Realizará una verificación de geometría para detectar y rechazar productos con
+           polígonos espurios "slivers", huecos o inconsistencias de borde entre la zona urbana
+           (1:2.000) y rural (1:25.000). La zonificación final debe ser un tejido continuo sin
+           vacíos normativos.
+   7.1.2.2.   FASE 2: ANÁLISIS DE ELEMENTOS EXPUESTOS
+
+El INTERVENTOR validará la precisión del cruce espacial entre las amenazas y la
+infraestructura existente.
+
+   •   Comprobación de Exposición: Realizará un control de calidad muestral, verificando
+       que el conteo de viviendas, equipamientos críticos (hospitales, escuelas) y vías en
+       zona de amenaza coincida con la realidad ortofotográfica.
+   •   Alerta Temprana: Si el Interventor detecta que el Consultor omitió incluir barrios
+       consolidados dentro de las zonas de exposición pese a estar en amenaza, devolverá
+       el producto para evitar un subregistro del riesgo que podría generar responsabilidad
+       fiscal por omisión.
+
+   7.1.2.3.   FASE 3: DELIMITACIÓN DE ÁREAS CON CONDICIÓN DE AMENAZA Y
+              ÁREAS CON CONDICIÓN DE RIESGO
+
+El INTERVENTOR revisará con criterio de experto la diferenciación conceptual y espacial
+entre:
+
+   •   Validación de Áreas con Condición de Amenaza: Certificará que los predios
+       vacantes o de expansión hayan sido correctamente etiquetados para exigir estudios
+       de detalle futuros a los urbanizadores (carga al privado).
+
+   •   Validación de Áreas con Condición de Riesgo: Verificará que los barrios ocupados
+       hayan sido delimitados para ser objeto de intervención pública (carga al municipio).
+       El Interventor rechazará delimitaciones ambiguas que confundan estas dos
+       categorías legales, pues ello impediría la reglamentación del suelo.
+
+   7.1.2.4.   FASE 4: LINEAMIENTOS PARA EL MANEJO DEL RIESGO
+
+El INTERVENTOR actuará como asesor técnico de la Secretaría de Planeación, revisando
+que la Matriz de Normas Urbanísticas propuesta por el Consultor sea aplicable y realista.
+
+   •   Validará que las restricciones de uso (prohibición de licencias) y las obras de
+       mitigación sugeridas sean técnicamente viables y financieramente razonables para
+       un municipio de sexta categoría como Pijao.
+
+   •   Asegurará que el articulado propuesto para el Acuerdo Municipal sea claro, taxativo
+       y no deje margen a interpretaciones subjetivas que favorezcan el volteo de tierras o
+       la urbanización ilegal.
+
+   7.1.2.5.   PRODUCTOS ENTREGABLES ESPECÍFICOS
+
+Para la aprobación final de este componente, el INTERVENTOR exigirá la entrega del Mapa
+Sábana de Amenaza Integrada y la Geodatabase (GDB) Consolidada. El criterio de
+aceptación será la Interoperabilidad: El Interventor deberá certificar que la GDB cumple con
+el estándar de datos del Ministerio de Ambiente y la CRQ, y que la Tabla de Atributos está
+completa y lista para ser migrada a los sistemas de información, sin requerir ediciones
+posteriores.
+8. COMPONENTE VII: INTERVENTORÍA AL CIERRE, CONSOLIDACIÓN Y GDB FINAL
+
+    8.1.1. ALCANCE ESPECÍFICO
+
+El INTERVENTOR asume la responsabilidad final, su función no es simplemente recibir un
+disco duro, sino certificar que la información contenida en él es funcional, interoperable y
+perdurable en el tiempo. El INTERVENTOR deberá garantizar que la Gobernación del
+Quindío y el Municipio de Pijao reciban una herramienta de planificación, asegurando que
+no queden vacíos técnicos, financieros ni jurídicos que impidan la adopción de los estudios
+mediante acto administrativo.
+
+    8.1.2. ACTIVIDADES OBLIGATORIAS Y ESTÁNDARES DE CALIDAD
+
+    8.1.2.1.   FASE 1: VALIDACIÓN DE LA GEODATABASE (GDB) Y CALIDAD DEL
+               DATO
+El INTERVENTOR someterá la GDB final a una Prueba de Estrés Topológico y Normativo
+antes de autorizar su recibo. No se aceptarán entregas que no superen los siguientes filtros
+de calidad:
+
+•   Verificará que la estructura de datos cumpla rigurosamente con el Modelo LADM-COL
+    o el estándar del Ministerio de Ambiente. Rechazará archivos planos ("shapefiles
+    sueltos") que rompan la integridad relacional de la base de datos.
+•   Ejecutará rutinas de validación en software SIG para certificar "Cero Errores" de
+    geometría (sin superposiciones, huecos injustificados o geometrías nulas).
+•   Revisará aleatoriamente los metadatos de las capas geográficas para asegurar que
+    cuenten con la trazabilidad completa (autor, fecha, escala, restricciones), cumpliendo la
+    norma ISO 19115. Si la información no tiene cédula de ciudadanía (metadato), no existe
+    para la entidad.
+
+8.1.2.2 FASE 2: SUPERVISIÓN A LA SOCIALIZACIÓN DE RESULTADOS
+
+El INTERVENTOR actuará como garante de la transparencia y la publicidad de los estudios.
+
+    •   Acompañará las sesiones de sustentación ante el alcalde, el CMGRD, el Concejo
+        Municipal y la Gobernación del Quindío, certificando en acta que las dudas de los
+        coadministradores fueron resueltas técnicamente por el Consultor.
+
+    •   Verificará que la socialización con la comunidad no sea un simple acto protocolario,
+        sino un ejercicio pedagógico real donde se explique el Mapa Final de restricciones.
+        El INTERVENTOR revisará el material divulgativo (folletos, cartillas) para asegurar
+        que el lenguaje sea claro y no genere pánico injustificado en la población.
+
+8.1.2.3 FASE 3: VALIDACIÓN DE TRANSFERENCIA DE CONOCIMIENTO
+
+El INTERVENTOR evaluará la efectividad del taller de capacitación dirigido a los
+funcionarios de la Secretaría de Planeación. No bastará con la lista de asistencia. El
+INTERVENTOR realizará un sondeo o prueba práctica a los funcionarios capacitados para
+confirmar que adquirieron las competencias para consultar la GDB, interpretar las capas de
+amenaza y expedir conceptos de uso del suelo basados en el nuevo estudio. Si el personal
+no queda capacitado, la transferencia se considerará fallida y el Consultor deberá repetir el
+entrenamiento a su costo.
+8.1.3   PRODUCTOS ENTREGABLES ESPECÍFICOS
+
+El INTERVENTOR autorizará el Acta de Recibo Final y el desembolso del saldo del contrato
+para el Consultor exclusivamente cuando haya verificado y vigilado la totalidad del acervo
+documental y digital del proyecto:
+
+   •    Comprobará que el disco de estado sólido contenga la estructura de carpetas
+        ordenada y completa, verificando que los archivos nativos de modelación abran
+        correctamente y no estén vinculados a rutas locales rotas.
+
+   •    Certificará que el capítulo de recomendaciones sea una hoja de ruta clara y
+        financiable para el municipio, y no un listado de generalidades inejecutables.
+
+   •    Verificará que el Consultor entregue el documento firmado donde asume la
+        responsabilidad civil y técnica por la idoneidad de los estudios durante la vigencia
+        legal de los mismos, exonerando al Interventor de culpas por vicios ocultos dolosos.
+
+   •    Exigirá y validará los comprobantes de pago de seguridad social de todo el equipo
+        de consultoría y la constancia de entrega formal de la información documental y
+        cartográfica emitida por la Secretaría de Planeación de Pijao (El INTERVENTOR
+        actuará como canal exclusivo y puente técnico frente al Ente Territorial. Recibirá,
+        evaluará técnicamente y trasladará al CONSULTOR las observaciones que formule
+        la Alcaldía de Pijao (o entidades de apoyo). Será obligación indelegable del
+        INTERVENTOR exigir al consultor la respectiva subsanación y corrección de dichas
+        observaciones, siempre que estén dentro del alcance contractual, siendo este un
+        requisito previo e indispensable para poder expedir el Acta de Recibo Final a entera
+        satisfacción).
+
+CLÁUSULA: PRESENCIA INSTITUCIONAL Y ENLACE TÉCNICO EN TERRITORIO
+El Interventor deberá verificar, exigir y reportar el estricto cumplimiento de las condiciones
+de presencia institucional y disposición del enlace técnico en territorio por parte del
+Consultor sea de manera virtual y/o presencial en caso de que así se requiera (Revisar
+condiciones de supervisión en el Anexo técnico 01. Punto 5.6 de la consultoría para
+identificar el alcance del producto entregable por el contratista). De igual forma, el
+contratista de Interventoría deberá garantizar su propia disponibilidad y presencia en
+territorio para asegurar un seguimiento técnico continuo y oportuno; al igual, el interventor
+deberá contar con un enlace técnico de manera virtual y/o presencial en caso de que así se
+requiera para resolver y acompañar reuniones de la presente administración.
+
+9. NOTA DE SUFICIENCIA TÉCNICA Y FACULTAD DE LA INTERVENTORÍA HACIA
+   EL CONSULTORÍA
+
+El INTERVENTOR asumirá como directriz fundamental de su ejercicio que todas las
+cantidades de obra especificadas en el Anexo Técnico del consultor (número de
+perforaciones, apiques, ensayos de laboratorio, secciones transversales) constituyen, sin
+gcircunstancia pueden interpretarse como un techo limitante para la investigación. En tal
+virtud, el INTERVENTOR vigilará que el cumplimiento aritmético de estas cantidades no
+sea utilizado por el CONSULTOR como excusa para entregar productos con altos niveles
+de incertidumbre científica. La responsabilidad del INTERVENTOR será certificar que la
+"Suficiencia Técnica" se alcance no solo por la cantidad ejecutada, sino por la calidad y
+representatividad de los datos obtenidos frente a la complejidad real del terreno,
+garantizando que los resultados sean precisos y útiles para la toma de decisiones.
+
+El INTERVENTOR ejercerá la plena Potestad Técnica Vinculante otorgada por la
+Gobernación del Quindío para ordenar al CONSULTOR la ejecución inmediata de
+actividades de exploración adicionales o el aumento en la densidad de muestreo in situ,
+siempre y cuando sea técnicamente justificable y no afecte la financiación de la consultoría.
+Esta facultad se activará cuando, a juicio experto del INTERVENTOR y soportado en la
+evidencia de campo, se demuestre que la complejidad geológica, geotécnica o hidráulica
+encontrada supera las expectativas iniciales y requiere una mayor investigación para
+reducir la incertidumbre del modelo. El INTERVENTOR deberá motivar técnicamente dicha
+exigencia mediante informe escrito, demostrando que la solicitud es indispensable para
+garantizar la veracidad de la zonificación, preservando siempre el equilibrio de la ecuación
+contractual mediante una justificación técnica, jurídica y financiera sólida.
+
+El INTERVENTOR actuará como garante del principio de planeación contractual, haciendo
+costar el deber ineludible del CONSULTOR de acatar y ejecutar dichas actividades
+adicionales (mayor exploración, repetición de ensayos o ajuste de modelos) sin lugar a
+reclamaciones de costos extra. El INTERVENTOR rechazará de plano cualquier solicitud
+de adición presupuestal fundamentada en estas exigencias técnicas, siempre que se
+mantengan dentro del objeto de los Estudios Básicos de Gestión del Riesgo (Decretos 1077
+de 2015 y 1807 de 2014), argumentando que los riesgos asociados a la variabilidad del
+terreno y la necesidad de insumos adicionales para cumplir la norma fueron asumidos
+integralmente por el contratista en su propuesta a Precio Global Fijo.
+
+10. SUPERVISÓN Y SEGUIMIENTO AL FORMATO DE PRESENTACIÓN                                      Y
+    ESTÁNDARES DE CALIDAD DE LA INFORMACIÓN HACIA EL CONSULTOR
+
+   10.1.   ESTÁNDARES DE INFORMACIÓN GEOGRÁFICA (SIG) Y CARTOGRAFÍA
+
+El INTERVENTOR ejercerá una función de control de calidad informático "bit a bit" sobre la
+totalidad de la producción espacial. Su obligación no es solo recibir mapas, sino certificar la
+integridad de la Geodatabase (GDB). Para ello, aplicará rutinas de validación topológica en
+software especializado para garantizar "Cero Errores" de geometría (sin dangles,
+overshoots o polígonos abiertos) y verificará que el 100% de las capas vectoriales y ráster
+estén georreferenciadas bajo el sistema oficial MAGNA-SIRGAS (Origen Nacional).
+Asimismo, el INTERVENTOR rechazará cualquier entrega que carezca de Metadatos
+diligenciados bajo la norma ISO 19115, entendiendo que un dato sin cédula de identidad
+(linaje, fecha, responsable) carece de valor jurídico para la Entidad. La aprobación de este
+ítem estará condicionada a que los archivos de simbología (. lyr/. stylx) y proyectos de mapa
+(. mxd/. aprx) abran correctamente en los equipos de la Gobernación con rutas relativas
+funcionales.
+
+   10.2.   CONTROL DE          ESTÁNDARES         PARA     DOCUMENTOS         TÉCNICOS       Y
+           MEMORIAS
+
+El INTERVENTOR actuará como filtro de idoneidad documental, asegurando que los
+informes entregados cumplan con los protocolos de gestión documental del Archivo General
+de la Nación. Verificará que cada entregable cuente con una versión editable (Word)
+totalmente abierta y una versión de consulta (PDF), rechazando documentos escaneados
+que impidan la búsqueda de texto. El INTERVENTOR exigirá que todos los planos, mapas
+y memorias vengan firmados (digital o manuscritamente) por el especialista temático
+responsable (Geotecnista, Hidrólogo), acompañados de su matrícula profesional vigente,
+garantizando así que no existan documentos anónimos que diluyan la responsabilidad
+técnica ante futuros siniestros.
+
+
+    10.3.   VERIFICACIÓN DE MEMORIAS DE CÁLCULO Y ARCHIVOS FUENTE
+
+El INTERVENTOR tiene la potestad y el deber de prohibir la recepción de "Cajas Negras".
+Su labor consistirá en auditar los archivos nativos que sustentan los resultados, verificando
+que las hojas de cálculo (Excel) mantengan las fórmulas activas y vinculadas, y que los
+modelos hidrológicos/hidráulicos (HEC-RAS, IBER) se entreguen con la estructura de
+carpetas completa (archivos de geometría, flujo y plan) para permitir su Re-ejecución. El
+INTERVENTOR realizará un cotejo aleatorio entre los datos crudos de las carteras de
+topografía (RINEX/CSV) y los planos finales, así como entre las planillas originales de
+laboratorio y los parámetros de diseño, certificando la cadena de custodia y la no alteración
+de la información primaria.
+
+    10.4.   SUPERVISIÓN A MEDIOS Y MECANISMOS DE ENTREGA
+
+El INTERVENTOR validará la organización lógica y la seguridad de la información tanto en
+el repositorio en la nube como en el medio físico definitivo. Antes de firmar el acta de recibo,
+someterá el Disco de Estado Sólido (SSD) a una revisión de estructura de directorios,
+asegurando que la información esté catalogada intuitivamente por componentes
+(Administrativo, Primario, Técnico, SIG) y no dispersa. Además, verificará la calidad de
+impresión de los planos físicos, exigiendo que los colores, tramas y convenciones sean
+legibles y correspondan fielmente a la versión digital, devolviendo aquellos ploteos que
+presenten defectos de escala o legibilidad.
+
+    10.5.   CERTIFICACIÓN DE PROPIEDAD INTELECTUAL Y LICENCIAS
+
+El INTERVENTOR actuará como garante de la legalidad tecnológica del proyecto. Exigirá
+al CONSULTOR los certificados que demuestren que la totalidad de los modelos, mapas y
+bases de datos fueron elaborados utilizando licencias comerciales vigentes o software de
+código abierto (Open Source), blindando a la Gobernación del Quindío frente a cualquier
+demanda por infracción de derechos de autor o uso de software pirata.
+
+De igual manera, el INTERVENTOR verificará la correcta aplicación del régimen de
+Propiedad Intelectual, asegurando el equilibrio entre el reconocimiento profesional y la
+utilidad pública:
+• El INTERVENTOR exigirá que en todos los productos entregables (memorias, planos,
+     metadatos y publicaciones) se incluya el crédito explícito y visible del Equipo de
+     Profesionales y la Firma Consultora que elaboraron los estudios. Se garantizará el
+     respeto a la autoría intelectual como derecho inalienable de los especialistas,
+     asegurando que su nombre permanezca asociado a la obra técnica para efectos de su
+     acervo curricular y prestigio profesional.
+
+•   Sin perjuicio del reconocimiento de autoría anterior, el INTERVENTOR fiscalizará que
+    se formalice legalmente la Cesión Ilimitada y a Perpetuidad de los Derechos
+    Patrimoniales a favor de la Gobernación del Quindío y el Municipio de Pijao,
+   exclusivamente sobre los productos finales derivados del objeto contractual (informes,
+   cartografía, bases de datos y demás entregables exigidos).
+
+Certificará que el CONSULTOR hace entrega de esta información para el libre uso,
+reproducción, modificación, actualización y distribución pública por parte de las Entidades
+Territoriales. El INTERVENTOR garantizará que queden expresamente excluidos de esta
+cesión las herramientas, metodologías, modelos, algoritmos, software, plantillas y el know-
+how propio del consultor. Finalmente, el INTERVENTOR no aprobará cláusulas que limiten
+la capacidad de la Gobernación o del Municipio para utilizar estos estudios finales como
+insumo abierto y público en su ordenamiento territorial.
+
+11. FORMATO DE PRESENTACIÓN Y ESTÁNDARES DE CALIDAD DE LA
+    INFORMACIÓN POR PARTE DEL INTERVENTOR
+
+El INTERVENTOR deberá garantizar que la totalidad de la información producida en
+ejercicio de su cargo (informes mensuales, conceptos técnicos, actas y reportes de campo)
+cumpla con estándares de trazabilidad, integridad de datos y calidad documental. La
+información de la Interventoría se constituye en el respaldo institucional para la toma de
+decisiones y el blindaje ante posibles procesos de responsabilidad fiscal o disciplinaria.
+
+11.1 ESTÁNDARES DE LOS INFORMES TÉCNICOS DE SUPERVISIÓN Cada informe
+    (mensual, especial o final) debe ser un documento de análisis, teniendo en cuenta lo
+    siguiente:
+
+   -   Se prohíbe la transcripción literal de los reportes del Consultor. El INTERVENTOR
+       debe emitir juicios de valor basados en la evidencia recogida.
+
+   -   Toda observación técnica sobre los productos del Consultor debe presentarse bajo
+       el formato de: Hallazgo (Hecho detectado) + Fundamento (Norma o especificación
+       técnica) + Concepto (Análisis del Interventor) + Requerimiento (Acción solicitada).
+
+   -   Los informes se entregarán en formato PDF/A (para conservación a largo plazo) con
+       firmas digitales y en formato editable (Word/Excel) para facilitar la gestión
+       administrativa de la Gobernación.
+
+11.2 ESTÁNDARES DE EVIDENCIA TÉCNICA Y SOPORTE DE CAMPO Para que la
+    supervisión de las actividades de campo (perforaciones, apiques, batimetrías) sea
+    verificable, el INTERVENTOR presentará:
+
+   -   Las fotografías de las visitas a Pijao deben incluir metadatos de ubicación
+       (coordenadas), fecha y hora, y estar organizadas en un catálogo técnico que
+       describa la actividad supervisada.
+
+   -   Relación cronológica de las instrucciones impartidas al Consultor, capturando la
+       trazabilidad de las órdenes y el cumplimiento de estas.
+
+   -   El INTERVENTOR presentará un reporte de contraste donde certifique que revisó
+       la trazabilidad de las muestras desde el sitio de toma en campo hasta la entrega de
+       resultados por el laboratorio certificado.
+11.3 ESTÁNDARES PARA LA VALIDACIÓN DE INFORMACIÓN GEOGRÁFICA (SIG)
+    Como garante de la calidad del dato para el EOT de Pijao, el INTERVENTOR
+    entregará:
+   • El INTERVENTOR no recibirá la cartografía del Consultor sin antes someterla a
+       pruebas de calidad topológica. Deberá entregar un informe técnico de revisión de la
+       GDB donde certifique que no existen errores de geometría, que el sistema de
+       coordenadas (MAGNA-SIRGAS Origen Nacional) es correcto y que los metadatos
+       cumplen con la norma ISO 19115.
+
+   •   Para el componente de inundación y avenidas torrenciales, el INTERVENTOR
+       entregará un concepto técnico donde certifique que "corrió" los modelos hidráulicos
+       en sus equipos y que los resultados coinciden con los reportados por el Consultor.
+
+11.4 GESTIÓN DOCUMENTAL Y EXPEDIENTE DIGITAL El INTERVENTOR es el
+    responsable de la organización del Expediente Único del Contrato.
+
+   •   Todos los archivos digitales deben seguir una lógica de nombrado que permita su
+       búsqueda inmediata (ej: 2026-05_InfMensual02_Interventoria_Pijao.pdf).
+
+   •   El INTERVENTOR mantendrá un repositorio digital (SharePoint, Drive o similar) de
+       consulta permanente para la Supervisión de la Gobernación, organizado por
+       componentes (Administrativo, Técnico, SIG, Jurídico), garantizando que la
+       información esté disponible en todo momento.
+
+11.5 ESTÁNDARES DE LICENCIAMIENTO Y PROPIEDAD INTELECTUAL En sus
+    informes finales, el INTERVENTOR deberá anexar un Inventario de Propiedad
+    Intelectual, donde certifique:
+
+   -   Que el Consultor formalizó la cesión total de los derechos patrimoniales a favor del
+       Departamento y el Municipio para su libre uso institucional, preservando en todo
+       momento sus derechos morales irrenunciables sobre la autoría técnica e intelectual
+       de los estudios.
+
+   -   Que los modelos y software utilizados por ambas partes cuentan con el debido
+       licenciamiento, evitando riesgos jurídicos por infracción de derechos de autor.
+
+11.6   CRITERIO DE RECHAZO POR CALIDAD DOCUMENTAL:
+
+La Gobernación se reserva el derecho de no tramitar pagos al INTERVENTOR si los
+informes presentan deficiencias de forma o fondo, tales como: falta de firmas de los
+especialistas responsables, ausencia de soportes de campo georreferenciados, errores de
+ortografía técnica o inconsistencias en los datos financieros reportados. El INTERVENTOR
+garantiza que su producto es de calidad de auditoría profesional.
+
+
+12. CLÁUSULA: PRESENCIA INSTITUCIONAL Y ENLACE TÉCNICO EN TERRITORIO
+
+Con el fin de garantizar la articulación fluida entre la INTERVENTORIA, la Administración
+Departamental y el Municipio de Pijao, el INTERVENTOR deberá garantizar la disposición
+de un profesional idóneo con presencia física o disponibilidad de desplazamiento inmediato
+dentro de la jurisdicción del Departamento del Quindío. O, disponibilidad de coordinación y
+atención en caso tal de que estas se programen de común acuerdo por medios virtuales.
+Este profesional actuará como Enlace Técnico Institucional y tendrá la obligación
+contractual de presentarse físicamente en las instalaciones de la Secretaría de Planeación
+Departamental, o en el lugar que esta designe, o garantizar la conexión telepresencial para
+brindar acompañamiento técnico, asesoría y soporte en:
+
+1. Mesas de trabajo, comités de seguimiento y reuniones de gerencia convocadas por el
+   secretario de Planeación o el Supervisor del contrato.
+2. Encuentros de socialización con la comunidad, el Consejo Municipal de Gestión del
+   Riesgo (CMGRD) o la Corporación Autónoma Regional del Qugindío (CRQ).
+3. Atención a requerimientos urgentes o Puestos de Mando Unificado (PMU) si la situación
+   de riesgo del municipio así lo amerita durante la ejecución del contrato.
+
+
+
+
+Proyectó: Azly Pineda Penhá / Profesional Contratista
+Revisó: Carlos Alberto Mendoza / Profesional Contratista
+       Jairo Ortega Muñoz / jefe Oficina Desarrollo Territorial.
+

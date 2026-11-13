@@ -1,0 +1,2924 @@
+                                  ESTUDIO DEL SECTOR
+
+                                   OCTUBRE 2026
+                Planeación precontractual Nro. 4550 y Nro. 5010 del 2026
+
+La Secretaría de Planeación, en cumplimiento de lo establecido en el artículo 2.2.1.1.1.6.1
+del Decreto 1082 de 2015 sobre el deber de las entidades estatales de efectuar el análisis
+necesario para conocer el sector relativo al objeto del proceso y en conc ordancia con el
+2.2.1.2.1.3.1; el Departamento cumpliendo con los lineamientos establecidos en los
+manuales y guías diseñados e implementados por Colombia Compra Eficiente, procede a
+realizar el presente análisis del sector para el proceso por modalidad de selección de
+CONCURSO DE MÉRITOS, cuyo objeto es: “REALIZAR LA INTERVENTORÍA
+ADMINISTRATIVA, TÉCNICA, FINANCIERA Y JURÍDICA DEL CONTRATO DE
+CONSULTORÍA CUYO OBJETO ES: REALIZAR LOS ESTUDIOS BÁSICOS DE GESTIÓN
+DEL RIESGO DE DESASTRES POR FENÓMENOS DE MOVIMIENTOS DE REMOCIÓN
+EN MASA, INUNDACIONES Y AVENIDAS TORRENCIALES EN EL MUNICIPIO DE PIJAO,
+DEPARTAMENTO DEL QUINDÍO PARA DAR CUMPLIMIENTO A LA NORMATIVIDAD
+VIGENTE SOBRE LA MATERIA”
+TIPOLOGIA CONTRACTUAL
+De conformidad con las características y especificaciones técnicas del contrato que se
+pretende adjudicar y suscribir, se trata de un contrato de consultoría, en concordancia con
+lo indicado en el artículo 32 numeral 2 de la Ley 80 de 1993, el cual textualmente establece:
+
+“Son contratos de consultoría los que celebren las entidades estatales referidos a los
+estudios necesarios para la ejecución de proyectos de inversión, estudios de diagnóstico,
+prefactibilidad o factibilidad para programas o proyectos específicos, así como a las
+asesorías técnicas de coordinación, control y supervisión.
+
+Son también contratos de consultoría los que tienen por objeto la interventoría, asesoría,
+gerencia de obra o de proyectos, dirección, programación y la ejecución de diseños, planos,
+anteproyectos y proyectos”.
+Una vez definidos claramente los bienes, obras y servicios a contratar, se deben codificar
+de acuerdo con la Guía para la Codificación de Bienes y Servicios de Naciones Unidas, los
+cuales fueron previamente identificados en el Plan Anual de Adquisiciones.
+Tabla 1 CÓDIGO DEL BIEN O SERVICIO UNSPSC.
+
+ CÓDIGO                                         DESCRIPCIÓN
+ 77111500                              Servicios de seguridad ambiental
+ 77101500                              Evaluación de impacto ambiental
+ 80101500              Servicios de consultoría de negocios y administración corporativa
+ 81151700                                          Geología
+ 81151600                                         Cartografía
+ 81101500                                Ingeniería civil y arquitectura
+ 81151900                                          Geofísica
+            ALCANCE Y CARÁCTER INTEGRAL DE LA INTERVENTORÍA
+
+
+Para efectos de la presente contratación, se precisa que la interventoría objeto del presente
+proceso posee una naturaleza integral, entendida como la cobertura absoluta y transversal
+de las dimensiones técnica, administrativa, financiera, jurídica, ambiental, social, de
+Seguridad y Salud en el Trabajo (SST). Aunque el objeto contractual se describe bajo el
+propósito de realizar la interventoría a los estudios básicos de gestión del riesgo, la Entidad
+aclara que dicha labor implica el seguimiento, control y aval de todas las aristas necesarias
+para garantizar que los productos finales sean idóneos, eficaces y cumplan con la
+rigurosidad normativa exigida (Decreto 1077 de 2015, NSR-10, entre otros).
+En consecuencia, el alcance del contrato implica que el Interventor actuará como un
+organismo de control especializado, responsable de validar no solo la calidad científica de
+los modelos geotécnicos, hidrológicos e hidráulicos, sino también de asegurar la trazabilidad
+jurídica de los soportes, la correcta ejecución financiera de los recursos del Sistema General
+de Regalías (SGR) y el cumplimiento de las obligaciones ambientales y sociales derivadas
+de la ejecución en territorio. Esta integralidad es la única herramienta de la cual dispone el
+Departamento para asegurar que la consultoría entregue estudios con la calidad necesaria,
+que cumplan con la orden judicial de la Acción Popular No. 63001-233-000-2018-0036-01 y
+proporcionen la seguridad jurídica necesaria para la actualización del Esquema de
+Ordenamiento Territorial (EOT) del municipio de Pijao.
+  ASPECTOS GENERALES, DESCRIPCIÓN DE LA NECESIDAD QUE LA ENTIDAD
+                      PRETENDE SATISFACER.
+
+El municipio de Pijao viene adelantando la revisión y ajuste de su Esquema de Ordenamiento
+Territorial (EOT), toda vez que se cumplió su vigencia de largo plazo. Para dar cumplimiento
+a lo dispuesto en la Ley 388 de 1997, el "PACTO POR EL AMBIENTE" del 21 de noviembre
+de 2021, y el artículo 3 del Decreto 1807 de 2014 (compilado en el Decreto 1077 de 2015),
+el municipio requiere formular los estudios básicos de gestión del riesgo por fenómenos de
+movimientos en masa, inundaciones y avenidas torrenciales.
+En este sentido, y dada la alta complejidad científica, técnica y jurídica que revisten estos
+estudios para la posterior concertación ante la autoridad ambiental, surge la necesidad
+ineludible de contratar una Interventoría Integral (Técnica, Administrativa, Financiera y
+Jurídica). Sin el acompañamiento, vigilancia y aval de una firma interventora altamente
+especializada, la Entidad no tendría la capacidad instalada para certificar que los modelos
+hidrológicos, hidráulicos y geotécnicos entregados por el consultor sean idóneos, precisos y
+cumplan con los rigurosos estándares normativos exigidos para dar trámite a la concertación.
+El Departamento del Quindío ha identificado que la situación crítica de vulnerabilidad del
+Municipio de Pijao exige un control estricto sobre los productos de consultoría que se van a
+generar. La necesidad de contratar la Interventoría no obedece a una potestad discrecional,
+sino que se fundamenta en cuatro ejes imperativos que hacen indispensable esta
+supervisión externa:
+1. Necesidad derivada del Ordenamiento Territorial y Cumplimiento Normativo
+Considerando que los estudios básicos de gestión del riesgo son un insumo técnico de
+carácter vinculante y obligatorio antes de cualquier revisión del EOT, se requiere una
+Interventoría que funja como filtro de calidad y garante normativo. El Interventor tendrá la
+responsabilidad de auditar el trabajo del consultor para asegurar que los documentos
+técnicos, la zonificación y la cartografía cumplan milimétricamente con el Decreto 1077 de
+2015. Esta labor de control es vital para evitar que la Corporación Autónoma Regional del
+Quindío (CRQ) devuelva o rechace los estudios por deficiencias técnicas, lo cual retrasaría
+injustificadamente la actualización de los instrumentos de planificación del municipio y el
+cumplimiento del "PACTO POR EL AMBIENTE".
+2. Imperativo Judicial (Garantía de Cumplimiento del Fallo de Acción Popular)
+La necesidad de los estudios surge de un mandato judicial perentorio proferido dentro de la
+Acción Popular No. 63001-233-000-2018-0036-01 por el Tribunal Administrativo del Quindío.
+En consecuencia, la contratación de la Interventoría es imperativa para garantizar
+materialmente el cumplimiento de este fallo. El Interventor deberá vigilar estrictamente que
+el consultor realmente "profundice en el conocimiento de la vulnerabilidad y amenaza de
+riesgo" en las zonas ordenadas, evitando que se entreguen estudios superficiales o
+metodológicamente deficientes que puedan derivar en un desacato judicial para el
+Departamento y el Municipio por omisión en el rigor técnico frente a amenazas como el Río
+Lejos o las cárcavas "Las Pizarras" y "Las Camelias".
+3. Seguridad Territorial y Protección de la Vida (Rigor Científico sin Margen de Error)
+Técnicamente, el territorio de Pijao presenta una condición de Amenaza Alta debido a su
+topografía, alta pluviosidad y fallas geológicas. Ante este escenario, la Entidad no tiene
+margen de error. Se justifica plenamente la contratación de una Interventoría con
+especialistas en geología, hidrología y geotecnia que auditen en tiempo real las
+exploraciones de campo y las modelaciones matemáticas del consultor frente a:
+   •   Alta Susceptibilidad Geológica: Validar que los análisis de la acción antrópica y el
+       deterioro de suelos no estén subestimados en la cartografía.
+   •   Amenaza por Avenidas Torrenciales y "Avalanchas": Ejercer control riguroso
+       sobre las modelaciones del Río Lejos y la Quebrada Las Pizarras, verificando que
+       los escenarios de represamiento en el complejo "Quebrada Grande" estén calculados
+       con exactitud, considerando los antecedentes de la Ola Invernal (2010-2011) y la
+       Calamidad Pública de 2017. La Interventoría garantiza que las medidas de mitigación
+       propuestas por el consultor sean efectivas para proteger a la población.
+   •   Focos Erosivos Activos: Supervisar la caracterización y cálculo de volumen de
+       sedimentos en la cárcava "Las Pizarras".
+4. Insuficiencia Financiera y Principio de Subsidiariedad (Protección de los Recursos
+de Regalías)
+Dado que el Municipio de Pijao (Categoría 6) carece de la capacidad financiera y técnica
+para estos estudios, el Departamento del Quindío asume su financiación a través del
+Sistema General de Regalías (SGR) en aplicación de los principios de concurrencia y
+subsidiariedad positiva. Por consiguiente, es un deber legal y de salvaguarda de los recursos
+públicos contratar una Interventoría Integral. Su función será ejercer un control financiero y
+administrativo estricto, asegurando que cada peso invertido del SGR se traduzca en avances
+físicos reales, productos de alta calidad y cumplimiento de cronogramas, supliendo así la
+incapacidad técnica local para auditar contratos de esta envergadura.
+En síntesis, la contratación de la Interventoría es indispensable porque constituye la única
+herramienta jurídica, técnica y financiera de la que dispone el Departamento del Quindío
+para asegurar que la consultoría no solo se ejecute, sino que logre su objetivo primordial:
+entregar estudios irrefutables que desbloqueen el EOT, acaten la orden judicial, optimicen
+los recursos del SGR y, por encima de todo, proporcionen directrices exactas para proteger
+la vida y los bienes de los habitantes de Pijao.
+Generalidades del municipio (Pijao, Quindío).
+Ubicación y Localización Geográfica
+    El municipio de Pijao se encuentra en la zona suroriental del departamento del Quindío,
+    está emplazado sobre el flanco occidental de la Cordillera Central de los Andes
+    colombianos y su cabecera municipal se localiza aproximadamente en las coordenadas
+    4° 20' 04" de latitud Norte y 75° 42' 02" de longitud Oeste.
+Fuente: Instituto Geográfico Agustín Codazzi (IGAC). Esquema de Ordenamiento Territorial (EOT) Pijao.
+
+Extensión y Límites
+-   Extensión: El municipio posee una superficie total aproximada de 243 km².
+-   Límites Territoriales:
+         Norte: Con los municipios de Córdoba y Buenavista (Quindío).
+         Este: Con el departamento del Tolima (principalmente con el municipio de
+         Roncesvalles).
+         Sur: Con el municipio de Génova (Quindío) y el departamento del Tolima
+         (Roncesvalles).
+         Oeste: Con los municipios de Génova y Córdoba (Quindío).
+Fuente: Gobernación del Quindío. Plan de Desarrollo Municipal de Pijao, 2024.
+
+Geografía Física
+-   Relieve: El territorio es predominantemente montañoso, con un relieve escarpado
+    característico de la Cordillera Central. Las altitudes varían significativamente, desde los
+    1.300 m.s.n.m. en las zonas bajas hasta superar los 4.200 m.s.n.m. en las zonas de
+    páramo que limitan con el Tolima. La cabecera municipal se sitúa a una altitud media de
+    1.700 m.s.n.m.
+-   Pisos Térmicos: La variación altitudinal genera la presencia de los pisos térmicos Medio,
+    Frío y Páramo.
+-   Hidrografía: La red hídrica de Pijao pertenece a la cuenca del Río La Vieja. Sus
+    principales afluentes son el Río Lejos (que sirve de límite con Tolima), el Río Pijao y el
+    Río Azul.
+Fuente: Corporación Autónoma Regional del Quindío (CRQ). EOT Pijao.
+
+Clima
+Debido a su altitud, el clima en la cabecera municipal se clasifica como Templado Húmedo,
+la temperatura media en la zona urbana es de 19°C y presenta un régimen bimodal (dos
+temporadas de lluvias) con una precipitación media anual que ronda los 2.400 mm.
+Fuente: Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). Atlas Climatológico de Colombia.
+
+Geografía Humana y Población
+
+
+-   Población (Censo 2018): Según el último Censo Nacional de Población y Vivienda
+    (CNPV) realizado por el DANE en 2018, la población total de Pijao es de 5.716
+    habitantes.
+
+-   Distribución de la Población:
+    o    Población en Cabecera (Urbana): 2.971 personas (52.0%)
+    o    Población en Resto (Rural): 2.745 personas (48.0%)
+-   Geografía Humana: El municipio presenta una vocación marcadamente agrícola. La
+    economía se basa principalmente en el cultivo de café de especialidad (cultivado bajo
+    sombra), plátano, y en menor medida, cítricos. En los últimos años, ha desarrollado un
+    enfoque hacia el ecoturismo y el turismo de bienestar, siendo el primer municipio de
+    Latinoamérica en ser certificado como "Cittaslow" (ciudad sin prisa).
+Fuente: Departamento Administrativo Nacional de Estadística (DANE). Censo Nacional de Población y Vivienda (CNPV) 2018.
+
+Generalidades económicas del Municipio:
+La estructura económica del municipio de Pijao es característica de una economía de
+pequeña escala, clasificada fiscalmente como de Categoría 6, lo que evidencia una limitada
+capacidad de generación de ingresos propios y una alta dependencia de las transferencias
+del Sistema General de Participaciones (SGP). Su economía presenta una marcada
+vocación agropecuaria, siendo el sector primario el eje fundamental de la generación de
+empleo y riqueza local. La estructura empresarial es incipiente, con un tejido compuesto casi
+en su totalidad por microempresas familiares (famiempresas) y pequeños comercios
+(Alcaldía de Pijao, 2024).
+Según documentos oficiales de la Alcaldía municipal del Pijao, el principal pilar de la
+economía de Pijao es la agricultura, y dentro de esta, la caficultura. El municipio se destaca
+no por el volumen, sino por la alta calidad de su grano, habiéndose posicionado en nichos
+de cafés de especialidad (Specialty Coffee). Una proporción significativa del área cultivable
+está dedicada a cafetales cultivados bajo sombra, lo que favorece la calidad en taza y la
+sostenibilidad ambiental. La economía local, el empleo y los ingresos de la mayoría de la
+población rural están directamente indexados a los ciclos de cosecha (zafras) y a la
+volatilidad de los precios internacionales del grano.
+Aunque el café domina el panorama, el sector primario se complementa con otros rubros
+agrícolas que son vitales para la seguridad alimentaria y el comercio local. El cultivo de
+plátano (principalmente asociado con el café o como monocultivo en menor escala)
+representa la segunda línea de producción agrícola más importante. En menor medida, se
+registran cultivos de cítricos y, en las zonas de mayor altitud (pisos térmicos fríos), se
+desarrolla una ganadería extensiva de doble propósito, aunque esta última tiene una
+participación marginal en el Producto Interno Bruto (PIB) municipal (Alcaldía de Pijao, s.f.-
+a).
+En la última década, Pijao ha desarrollado un vector económico emergente en el sector
+servicios, apalancado en su designación como el primer municipio de Latinoamérica
+certificado como "Cittaslow" (ciudad sin prisa). Este modelo ha impulsado un nicho de
+turismo sostenible, de naturaleza y bienestar. Se han consolidado pequeños
+emprendimientos enfocados en el ecoturismo, el avisturismo (bird-watching), el turismo de
+experiencia cafetera (rutas de café) y la oferta gastronómica local. Aunque aún es un sector
+incipiente, representa la apuesta estratégica más clara del municipio para la diversificación
+económica (Alcaldía de Pijao, s.f.-a).
+El sector secundario (industrial) es prácticamente inexistente en Pijao. La transformación de
+materias primas es mínima y se limita a procesos artesanales o a la operación de pequeñas
+plantas de procesamiento de café (trilla) que no generan un valor agregado significativo a
+gran escala. El sector comercial (terciario) está compuesto por establecimientos de comercio
+minorista localizados en la cabecera municipal, cuya función principal es el abastecimiento
+de bienes de primera necesidad (víveres, farmacias, ferreterías, servicios básicos) para la
+población local, sin una proyección de mercado regional (Alcaldía de Pijao, s.f.-b; Cámara
+de Comercio de Armenia y del Quindío, 2023).
+La estructura económica descrita genera un mercado laboral con alta dependencia del sector
+agropecuario, caracterizado por una elevada informalidad y estacionalidad del empleo
+(ligada a las cosechas). Los indicadores socioeconómicos, como las Necesidades Básicas
+Insatisfechas (NBI), tienden a ser significativamente más altos que el promedio
+departamental, especialmente en la zona rural dispersa. Esto refleja las dificultades de la
+población para generar ingresos estables y acceder a servicios de calidad, siendo un reflejo
+directo de una economía de baja diversificación y escasa generación de empleo formal
+(Departamento Administrativo Nacional de Estadística [DANE], 2018).
+Es por esto por lo que, el municipio enfrenta retos económicos estructurales significativos.
+El principal es la alta dependencia del café, que expone al municipio a la volatilidad de
+precios externos. A esto se suma un bajo nivel de asociatividad para la comercialización y
+una débil infraestructura vial terciaria, que incrementa los costos de producción y frena el
+potencial del agroturismo. La falta de valor agregado en sus productos primarios y la baja
+densidad empresarial limitan la capacidad de retención de capital en el territorio, siendo
+estos los principales desafíos a abordar en la planificación económica (Alcaldía de Pijao, s.f.-
+a).
+En este contexto de alta vulnerabilidad socioeconómica y estricta dependencia del uso del
+suelo (cafés de especialidad y ecoturismo "Cittaslow"), la precisión de los estudios de gestión
+del riesgo que soportarán el EOT actualizado es un asunto de supervivencia económica para
+Pijao. Un error en las modelaciones podría restringir equivocadamente áreas productivas
+(falsa afectación) o, por el contrario, habilitar zonas de alto riesgo para el desarrollo turístico,
+ahuyentando la inversión. Por lo tanto, se hace indispensable contar con una interventoría
+técnica integral que audite con el mayor rigor científico los productos entregados por la
+consultoría. Esta supervisión especializada es la única garantía para blindar jurídicamente
+el territorio, asegurar que la zonificación proteja la vocación agrícola sin frenar el des arrollo
+turístico, y permitir que el municipio gestione sus desafíos estructurales con total certeza
+técnica.
+Identificación y magnitud del problema:
+La formulación de los estudios básicos de amenaza y vulnerabilidad (gestión del riesgo) en
+Pijao, Quindío, reviste una altísima complejidad científica, técnica y jurídica. El problema
+central radica en el vacío de capacidad técnica especializada instalada en el municipio
+para supervisar, auditar y avalar dichos estudios. Sin una revisión externa experta, existe la
+imposibilidad de garantizar que la zonificación del suelo, las modelaciones hidrológicas y las
+proyecciones geotécnicas entregadas por el consultor sean precisas y cumplan con la
+rigurosidad normativa exigida, lo cual pondría en riesgo la aprobación del nuevo Esquema
+de Ordenamiento Territorial (EOT) ante la autoridad ambiental y la seguridad de la población.
+Magnitud actual del problema indicadores de referencia
+La geografía del municipio es compleja por lo expuesto anteriormente. La magnitud del
+problema radica en la altísima exposición al riesgo legal, técnico y financiero si el municipio
+incorpora estudios deficientes a su EOT como determinantes de superior jerarquía (Ley 1523
+de 2012). Al ser Pijao un municipio de Categoría 6, carece en su planta de personal de un
+equipo multidisciplinario (geólogos, hidrólogos, geotecnistas y expertos en SIG) capaz de
+verificar en campo y en laboratorio la exactitud del 100% de la cartografía detallada (escala
+1:5.000 o 1:2.000) requerida para la zonificación.
+Por tanto, el municipio se encontraría en un bloqueo técnico-administrativo al no poder
+certificar ni validar idóneamente los productos de la consultoría. El costo y la exigencia de
+esta supervisión altamente especializada superan la capacidad operativa del territorio
+Pijaense, haciendo imperativa la contratación de una Interventoría Integral que asuma el
+control de calidad, evite reprocesos o rechazos por parte de la CRQ, y garantice el éxito del
+proyecto.
+Tabla 2 Indicadores y líneas base.
+
+                            Unidad de       Línea
+      Indicador                                                      Descripción
+                              Medida        Base
+ Concepto Técnico        Documento          0       El municipio urge de una interventoría que
+ de     Aprobación       técnico       de           revise, audite y emita concepto de aprobación
+ para    el estudio      interventoría              técnica sobre los estudios de remoción en
+ básico de gestión       (Concepto/Acta)            masa para los suelos urbano y rural,
+ del   riesgo   por                                 asegurando que la delimitación cumpla con el
+ Remoción        en                                 Decreto 1077 de 2015.
+ Masa.
+ Concepto Técnico        Documento          0       El municipio urge de una interventoría que
+ de     Aprobación       técnico       de           valide las modelaciones hidráulicas y emita
+ para    el estudio      interventoría              concepto técnico sobre los estudios de
+ básico de gestión       (Concepto/Acta)            inundación,      certificando    la    correcta
+ del   riesgo   por                                 categorización (alta, media y baja) y las
+ Inundación.                                        medidas de intervención propuestas.
+ Concepto Técnico        Documento          0       El municipio urge de una interventoría que
+ de     Aprobación       técnico       de           audite y apruebe los estudios para la
+ para    el estudio      interventoría              delimitación y zonificación por avenidas
+ básico de gestión       (Concepto/Acta)            torrenciales, verificando que los insumos sean
+ del   riesgo   por                                 idóneos para tomar medidas de manejo.
+ Avenidas
+ Torrenciales.
+ Garantía         de     Porcentaje (%)       0    El municipio no cuenta con capacidad
+ Cumplimiento            de supervisión y          instalada para supervisar que la zonificación
+ Normativo       del     validación                de amenazas y riesgos cumpla estrictamente
+ EOT       en       el   normativa.                con la ley (Ley 1523 de 2012) para su posterior
+ componente        de                              incorporación como determinante de orden
+ Gestión del Riesgo.                               superior en el EOT.
+ Control          dePorcentaje (%) 0               El municipio requiere que un tercero
+ Calidad            y
+                    de cartografía                 especialista (interventor) realice el control de
+ Cobertura de la    verificada    y                calidad, verifique la armonización y articule la
+ Cartografía        a
+                    aprobada                       cartografía entregada por el consultor para
+ Escala Detallada.  (topología    y                asegurar que no existan falsas afectaciones
+                    escala)                        prediales en el territorio.
+Fuente: Esquema de Ordenamiento Territorial, Pijao, 2000.
+
+Árbol de problemas
+Tabla 3 Árbol de Problemas.
+
+                  1.1 Mantenimiento del bloqueo          2.2 Incremento de la       3.3 Posible detrimento
+                 administrativo para la actualización       vulnerabilidad        patrimonial por recursos del
+    Efectos         del EOT y posible desacato              territorial ante          Sistema General de
+   indirectos                  judicial.                desastres por medidas      Regalías mal ejecutados.
+                                                          de mitigación mal
+                                                              calculadas.
+
+
+                     1. Riesgo de rechazo o no             2. Aprobación de         3. Incumplimiento de las
+                  concertación de los estudios por        cartografía errónea      especificaciones técnicas
+    Efectos        parte de la autoridad ambiental       (falsas afectaciones     exigidas en el Decreto 1077
+    directos                    (CRQ).                   prediales o zonas de               de 2015.
+                                                        riesgo habilitadas por
+                                                                 error).
+
+
+   Problema         Alta vulnerabilidad en el control de calidad, validez normativa y rigor científico de los
+    central                  estudios de gestión del riesgo a formular para el municipio de Pijao.
+
+
+    Causas       1. Insuficiencia técnica, operativa e institucional del municipio para auditar estudios de alta
+    directas                                  complejidad geológica e hidrológica
+
+
+    Causas         1.1 Limitación en la planta de       1.2 Alto nivel de especialización que demandan las
+                 personal para ejercer interventoría            modelaciones de amenaza y riesgo.
+   indirectas         integral especializada.
+
+
+CONTEXTO TÉCNICO DEL RIESGO Y JUSTIFICACIÓN LEGAL
+La necesidad de estos estudios no es meramente administrativa; responde a una situación
+de riesgo catastrófico documentada e identificada en acciones legales:
+Acción Popular (AP): El 15 de noviembre de 2018, se interpuso la Acción Popular N°.
+63001-233-000-2018-0036-01. Esta acción, ratificada en un fallo, es un eje central del
+problema y ordena la ejecución de proyectos para profundizar en el conocimiento del riesgo.
+Alto Riesgo Geológico: La AP expone que Pijao se encuentra en una zona de alto riesgo
+debido a sus características geológicas, topografía agreste y acción antrópica, lo que resulta
+en un deterioro progresivo de los suelos y una alta posibilidad de deslizamientos e
+inundaciones sobre el casco urbano.
+Riesgo de Avalancha: Aunque existe vulnerabilidad a inundaciones por la cercanía al Río
+Lejos y la Quebrada Las Pizarras, el riesgo más catastrófico identificado es el de
+"Avalanchas", generadas por el movimiento de remoción en masa de las cárcavas del
+mencionado río.
+POBLACIÓN
+Población afectada: La población afectada son la totalidad de los habitantes de Pijao (5.716
+habitantes según las proyecciones del DANE), puesto que la carencia de estudios genera
+vulnerabilidad física (impidiendo reasentamientos en zonas de riesgo) y una coyuntura
+administrativa que congela el licenciamiento, la inversión económica y la planificación de
+infraestructura segura.
+Población objetivo: La población total puesto que con un EOT válido, basado en estudios
+de riesgo, los Pijaense tendrán el fundamento de la seguridad integral y la viabilidad
+económica del municipio.
+ALCANCE TÉCNICO DEL SERVICIO
+
+La Gobernación del Quindío requiere la contratación de una interventoria especializada
+para la elaboración de los Estudios Básicos de Gestión del Riesgo de Desastres, con el
+fin de generar los insumos técnicos y normativos necesarios para la reglamentación de
+los usos del suelo en el Municipio de Pijao, en cumplimiento del Decreto 1077 de 2015
+y el Decreto 1807 de 2014.
+
+Por tanto, Para garantizar el cumplimiento de los objetivos institucionales, judiciales y
+ambientales asociados al desarrollo de los Estudios Básicos de Gestión del Riesgo de
+Desastres del Municipio de Pijao, el INTERVENTOR ejecutará una labor de auditoría
+integral y control de calidad de "perfil técnico superior" o "par académico".
+
+Las especificaciones técnicas de la Interventoría se encuentran consignado en el
+ANEXO TÉCNICO NO. 01, de igual manera estas se estructuran en efecto espejo y
+concordancia absoluta con las exigencias metodológicas y normativas impuestas al
+Consultor, delimitando su alcance a la comprobación, validación, ensayo de
+reproducibilidad y certificación sectorial de los productos, de acuerdo con los siguientes
+parámetros:
+
+  1. El INTERVENTOR fiscalizará y certificará que cada fase, metodología y producto
+     entregado por el Consultor cumpla de manera taxativa con el marco normativo
+     vigente. No se otorgará concepto de viabilidad técnica a ningún componente que
+     omita o desvíe los lineamientos de la normativa:
+
+         I.   Decreto 1077 de 2015, específicamente en lo referente a las condiciones
+              técnicas para la elaboración de estudios básicos de riesgo para la revisión
+              y ajuste de los Planes o Esquemas de Ordenamiento Territorial
+              (POT/EOT).
+
+        II.   Ley 1523 de 2012 (Política Nacional de Gestión del Riesgo de Desastres)
+              y las guías metodológicas vigentes de la Unidad Nacional para la Gestión
+              del Riesgo de Desastres (UNGRD), el Servicio Geológico Colombiano
+              (SGC) y el IDEAM.
+
+       III.   Reglamento Colombiano de Construcción Sismorresistente (NSR-10),
+              específicamente el Título H (Estudios Geotécnicos), para la validación de
+              la campaña de subsuelo.
+
+       IV.    Reglamento Técnico del Sector de Agua Potable y Saneamiento Básico
+              (RAS-2017), específicamente el Título D (Sistemas de Recolección y
+              Evacuación de Aguas Lluvias y Alta Hidrología).
+
+        V.    El mandato judicial de la Acción Popular No. 63001-233-000-2018-0036-
+              00, asegurando que los productos resuelvan de fondo las exigencias del
+              despacho judicial respecto al conocimiento de las amenazas locales
+
+
+  COMPONENTE I: AUDITORÍA Y CONTROL A LA FASE DE ALISTAMIENTO,
+  PLANEACIÓN Y SOCIALIZACIÓN DE INICIO
+
+El INTERVENTOR no autorizará el inicio de la ejecución material del proyecto hasta tanto
+no haya auditado, verificado y aprobado los siguientes productos entregados por el
+Consultor, los cuales son indispensables para el trámite del Pago 1:
+
+  •    Auditar el Plan de Trabajo Operativo (PTO).
+  •    Validar el Cronograma detallado de actividades
+  •    Aprobar el Plan de exploración de campo
+  •    Fiscalizar el Módulo de socialización, participación y construcción colectiva con la
+       comunidad.
+
+Para la aprobación de este componente y la autorización del respectivo desembolso a
+favor del Consultor, el Interventor deberá exigir, revisar y emitir concepto técnico favorable
+sobre, como mínimo, los productos relacionados dentro del anexo 1.
+
+Para la aprobación de este componente y el respectivo desembolso del pago parcial al hito
+correspondiente a favor del interventor, el Interventor deberá entregar, como mínimo, el
+concepto de revisión y certificación de avance del presente componente de acuerdo con el
+cumplimiento de los productos relacionados dentro del anexo 1.
+
+  COMPONENTE II:           AUDITORIA A LA GESTIÓN  DE INFORMACIÓN
+             E             INSUMOS BÁSICOS (CARTOGRAFÍA Y MDT)
+
+  El INTERVENTOR debe garantizar que los datos de entrada a los modelos
+  matemáticos no estén viciados. El Interventor deberá auditar y certificar los siguientes
+  productos como insumo para las modelaciones, incluyendo:
+
+  •    Auditoria al informe de información secundaria y análisis de antecedentes.
+  •    Verificación a la apropiación e interpretación de la cartografía base.
+  •    Comprobación al Informe de topografía y batimetría.
+
+Para la aprobación de este componente y la autorización del respectivo desembolso a
+favor del Consultor, el Interventor deberá exigir, revisar y emitir concepto técnico favorable
+sobre, como mínimo, los productos relacionados dentro del anexo 1.
+Para la aprobación de este componente y el respectivo desembolso del pago parcial al hito
+correspondiente a favor del interventor, el Interventor deberá entregar, como mínimo, el
+concepto de revisión y certificación de avance del presente componente de acuerdo con el
+cumplimiento de los productos relacionados dentro del anexo 1.
+
+     COMPONENTE III: SUPERVISIÓN Y CONTROL TÉCNICO A LOS ESTUDIOS DE
+     AMENAZA POR MOVIMIENTOS EN MASA
+
+El Interventor deberá supervisar, hacer seguimiento, verificar y avalar la caracterización de
+la estabilidad de las laderas del municipio elaborada por el Consultor, asegurando el rigor y
+cumplimiento técnico de las siguientes fases:
+
+ •     Fase 1: diagnóstico y factores detonantes.
+ •     Fase 2: caracterización geológica y geomorfológica.
+ •     Fase 3: exploración geotécnica y ensayos (cantidades mínimas exigidas).
+ •     Fase 4: análisis de estabilidad y zonificación.
+
+Para la aprobación de este componente y la autorización del respectivo desembolso a favor
+del Consultor, el Interventor deberá exigir, revisar y emitir concepto técnico favorable sobre,
+como mínimo, los productos relacionados dentro del anexo 1.
+
+Para la aprobación de este componente y el respectivo desembolso del pago parcial al hito
+correspondiente a favor del interventor, el Interventor deberá entregar, como mínimo, el
+concepto de revisión y certificación de avance del presente componente de acuerdo con el
+cumplimiento de los productos relacionados dentro del anexo 1.
+
+     COMPONENTE IV: INTERVENTORÍA A LOS ESTUDIOS DE AMENAZA POR
+     INUNDACIÓN
+
+El Interventor deberá supervisar, hacer seguimiento técnico, verificar y avalar la
+zonificación de la amenaza por fenómenos hidrometeorológicos elaborada por el
+Consultor. Para ello, deberá garantizar que el Consultor realice una correcta diferenciación
+técnica entre inundaciones rápidas y lentas, asegurando la calidad y el rigor técnico de los
+insumos generados para la reglamentación de los usos del suelo en el EOT, a través de
+las siguientes fases:
+  •    Fase 1: Hidrología y análisis de frecuencias.
+  •    Fase 2: hidráulica y batimetría.
+  •    Fase 3: Modelación hidráulica y análisis de escenarios.
+  •    Fase 4: Zonificación y análisis de amenaza por inundaciones.
+
+Para la aprobación de este componente y la autorización del respectivo desembolso a favor
+del Consultor, el Interventor deberá exigir, revisar y emitir concepto técnico favorable sobre,
+como mínimo, los productos relacionados dentro del anexo 1.
+
+Para la aprobación de este componente y el respectivo desembolso del pago parcial al hito
+correspondiente a favor del interventor, el Interventor deberá entregar, como mínimo, el
+concepto de revisión y certificación de avance del presente componente de acuerdo con el
+cumplimiento de los productos relacionados dentro del anexo 1.
+
+     COMPONENTE V: INTERVENTORÍA A LOS ESTUDIOS DE AMENAZA POR
+     AVENIDAS TORRENCIALES
+
+El Interventor deberá supervisar, hacer seguimiento técnico, verificar y avalar la zonificación
+de la amenaza por fenómenos hidrometeorológicos realizada por el Consultor. Será
+responsabilidad del Interventor controlar que se aplique la correcta diferenciación técnica
+entre Inundaciones y Avenidas Torrenciales (flujos de lodo, flujos de detritos y/o flujos
+hiperconcentrados), certificando la idoneidad de los insumos destinados a la reglamentación
+de usos del suelo en el EOT, mediante el control de las siguientes fases:
+
+ •     Fase 1: análisis hidrometeorológico, hidrológico y de frecuencias para
+       avenidas torrenciales.
+ •     Fase 2: análisis hidráulico–torrencial, geometría del cauce y
+       levantamientos batimétricos.
+ •     Fase 3: modelación hidráulico–torrencial y análisis de escenarios.
+ •     Fase 4: zonificación y análisis de amenaza por avenidas torrenciales.
+
+Para la aprobación de este componente y la autorización del respectivo desembolso a favor
+del Consultor, el Interventor deberá exigir, revisar y emitir concepto técnico favorable sobre,
+como mínimo, los productos relacionados dentro del anexo 1.
+
+Para la aprobación de este componente y el respectivo desembolso del pago parcial al hito
+correspondiente a favor del interventor, el Interventor deberá entregar, como mínimo, el
+concepto de revisión y certificación de avance del presente componente de acuerdo con el
+cumplimiento de los productos relacionados dentro del anexo 1.
+
+     COMPONENTE VI: INTERVENTORÍA A LA ZONIFICACIÓN INTEGRAL Y GESTIÓN
+     DEL RIESGO EN EL ORDENAMIENTO
+
+El Interventor deberá supervisar, hacer seguimiento técnico, verificar y avalar la integración
+espacial de los resultados obtenidos en los componentes de movimientos en masa,
+inundación y avenidas torrenciales realizada por el Consultor. Deberá garantizar la calidad
+técnica en la generación de la Zonificación de Amenazas Naturales del Municipio y la
+correcta delimitación de las Áreas con Condición de Riesgo, asegurando que cumplan con
+la rigurosidad requerida para servir como lineamientos de incorporación para el Esquema
+de Ordenamiento Territorial (EOT), mediante el control de los siguientes elementos:
+
+ •     Cartografía: Revisión, validación y aprobación técnica de toda la cartografía producto
+       de los estudios.
+ •     Fase 1: superposición y álgebra de mapas
+ •     Fase 2: análisis de elementos expuestos
+ •     Fase 3: delimitación de áreas con condición de riesgo
+ •     Fase 4: lineamientos para el manejo del riesgo
+
+Para la aprobación de este componente y la autorización del respectivo desembolso a
+favor del Consultor, el Interventor deberá exigir, revisar y emitir concepto técnico favorable
+sobre, como mínimo, los productos relacionados dentro del anexo 1.
+
+Para la aprobación de este componente y el respectivo desembolso del pago parcial al hito
+correspondiente a favor del interventor, el Interventor deberá entregar, como mínimo, el
+concepto de revisión y certificación de avance del presente componente de acuerdo con el
+cumplimiento de los productos relacionados dentro del anexo 1.
+
+    COMPONENTE VII: INTERVENTORÍA AL CIERRE, CONSOLIDACIÓN Y GDB FINAL
+
+El Interventor deberá supervisar, verificar y avalar que el Consultor entregue toda la
+información debidamente estructurada y organizada, garantizando su perdurabilidad,
+trazabilidad y viabilidad para su uso oficial. Para ello, deberá ejercer control sobre las
+siguientes fases:
+
+    •     Fase 1: estructuración de la Geodatabase (gdb) y calidad del dato
+    •     Fase 2: socialización de resultados
+    •     Fase 3: transferencia de conocimiento
+
+NOTA DE SUFICIENCIA TÉCNICA:
+El Interventor deberá exigir, controlar y certificar que las cantidades de obra, metodologías
+y especificaciones descritas en el Anexo Técnico No. 01 sean cumplidas a cabalidad por el
+Consultor, por ser requisitos mínimos obligatorios.
+
+Asimismo, el contratista de Interventoría deberá garantizar su propia suficiencia técnica,
+operativa y financiera para supervisar, inspeccionar y avalar la totalidad de dichas
+actividades, incluyendo el seguimiento in situ a la exploración de campo y la revisión
+detallada de los ensayos de laboratorio (necesarios para reducir la incertidumbre de los
+modelos), asumiendo el control de la ejecución bajo la modalidad de Precio Global Fijo. (Ver
+especificaciones en el Anexo 1).
+
+    CLÁUSULA: PRESENCIA INSTITUCIONAL Y ENLACE TÉCNICO EN TERRITORIO
+
+    El Interventor deberá verificar, exigir y reportar el estricto cumplimiento de las
+    condiciones de presencia institucional y disposición del enlace técnico en territorio por
+    parte del Consultor sea de manera virtual y/o presencial en caso de que así se
+    requiera (Revisar condiciones de supervisión en el Anexo técnico 01. Punto 5.6). De
+    igual forma, el contratista de Interventoría deberá garantizar su propia disponibilidad
+    y presencia en territorio para asegurar un seguimiento técnico continuo y oportuno; al
+    igual, el interventor deberá contar con un enlace técnico de manera virtual y/o
+    presencial en caso de que así se requiera para resolver y acompañar reuniones de la
+    presente administración.
+
+3       FORMATO DE       PRESENTACIÓN Y           ESTÁNDARES DE            CALIDAD DE           LA
+        INFORMACIÓN
+
+La entrega de los informes, actas, bitácoras y conceptos técnicos por parte de la
+Interventoría deberá regirse bajo los principios de rigurosidad técnica, trazabilidad,
+oportunidad e integridad documental.
+El Interventor es el responsable técnico, jurídico y financiero de auditar, validar y certificar
+que los productos entregados por el Consultor cumplan estrictamente con los principios de
+Interoperabilidad, Integridad, Calidad del Dato, Reusabilidad y estándares topológicos
+exigidos en los pliegos de la consultoría. En consecuencia, los entregables de la
+Interventoría deberán evidenciar de manera explícita el proceso de revisión (mediante listas
+de chequeo, validación de cruces espaciales, revisión de memorias de cálculo y revisión de
+metadatos).
+                                ASPECTOS ECONÓMICOS
+La actividad económica está dividida en sectores económicos. Cada sector se refiere a una
+parte de la actividad económica cuyos elementos tienen características comunes, guardan
+una unidad y se diferencian de otras agrupaciones. Su división se realiza de acuerdo con los
+procesos de producción que ocurren al interior de cada uno de ellos.
+División según la economía clásica: Según la división de la economía clásica, los sectores
+de la economía son los siguientes:
+•                Sector primario o sector agropecuario.
+•                Sector secundario o sector Industrial.
+•                Sector terciario o sector de servicios.
+
+Sector Primario o Agropecuario: Es el sector que obtiene el producto de sus actividades
+directamente de la naturaleza, sin ningún proceso de transformación. Dentro de este sector
+se encuentran la agricultura, la ganadería, la silvicultura, la caza y la pesca. No se incluyen
+dentro de este sector a la minería y a la extracción de petróleo, las cuales se consideran
+parte del sector industrial.
+
+Sector Secundario o Industrial: Comprende todas las actividades económicas de un país
+relacionadas con la transformación industrial de los alimentos y otros tipos de bienes o
+mercancías, los cuales se utilizan como base para la fabricación de nuevos productos.
+
+Se divide en dos subsectores: Industrial extractiva e industrial de transformación:
+• Industrial extractivo: extracción minera y de petróleo.
+
+• Industrial de transformación: envasado de legumbres y frutas, embotellado de
+refrescos, fabricación de abonos y fertilizantes, vehículos, cementos, aparatos
+electrodomésticos, etc.
+
+Sector Terciario o de Servicios: incluye todas aquellas actividades que no producen una
+mercancía en sí, pero que son necesarias para el funcionamiento de la economía. Como
+ejemplos de ello tenemos el comercio, los restaurantes, los hoteles, el transporte, los
+servicios financieros, las comunicaciones, los servicios de educación, los servicios
+profesionales, el Gobierno, etc. Se identificó que el sector relativo al objeto del presente
+proceso de contratación está integrado por los Servicios de Ingeniería y Consultoría
+pertenecientes al SECTOR TERCIARIO O DE SERVICIOS.
+
+El sector servicios o sector terciario es el sector económico que engloba las actividades
+relacionadas con los servicios no productores o transformadores de bienes materiales.
+Generan servicios que se ofrecen para satisfacer las necesidades de cualquier población en
+el mundo. Incluye subsectores como comercio, comunicaciones, centro de llamadas,
+finanzas, turismo, hostelería, ocio, cultura, espectáculos, la administración pública y los
+denominados servicios públicos, los presta el Estado o la iniciativa privada (sanidad,
+educación, atención a la dependencia, entre otros).
+
+Dirige, organiza y facilita la actividad productiva de los otros sectores (sector primario y
+sector secundario). Aunque se le considera un sector de la producción, propiamente su papel
+principal se encuentra en los dos pasos siguientes de la actividad económica: la distribución
+y el consumo. El predominio del sector terciario frente a los otros dos en las economías más
+desarrolladas permite hablar del proceso de tercerización. El Premio de Ciencias
+Económicas del Banco de Suecia en Memoria de Alfred Nobel, Paul Krugman, argumenta
+que la menor productividad del sector servicios y la dificultad para mejorar su productividad
+es el principal factor del estancamiento de los niveles de vida en muchos países.
+Fuente: (P. Krugman, 1997)
+
+ENFOQUE DIFERENCIAL (INCLUSIÓN DE PERSONAS CON DISCAPACIDAD)
+
+Teniendo en cuenta el mérito de lo expuesto, fundamentado en los análisis de conveniencia
+y oportunidad emanados del artículo 25 (numerales 7 y 12) de la Ley 80 de 1993 y lo
+preceptuado en el Decreto 1082 de 2015, resulta indispensable, proporcional y estrictamente
+necesario aperturar un proceso de selección bajo la modalidad de Concurso de Méritos,
+orientado a seleccionar a la firma consultora que acredite la mejor idoneidad técnica y
+experiencia para ejecutar el siguiente objeto contractual: “REALIZAR LA INTERVENTORÍA
+ADMINISTRATIVA, TÉCNICA, FINANCIERA Y JURÍDICA DEL CONTRATO DE
+CONSULTORÍA CUYO OBJETO ES: REALIZAR LOS ESTUDIOS BÁSICOS DE GESTIÓN
+DEL RIESGO DE DESASTRES POR FENÓMENOS DE MOVIMIENTOS DE REMOCIÓN
+EN MASA, INUNDACIONES Y AVENIDAS TORRENCIALES EN EL MUNICIPIO DE
+PIJAO, DEPARTAMENTO DEL QUINDÍO PARA DAR CUMPLIMIENTO A LA
+NORMATIVIDAD VIGENTE SOBRE LA MATERIA”.
+En observancia del principio rector de planeación y dando estricto cumplimiento a lo
+ordenado en el Artículo 2.2.1.1.1.4.1 del Decreto 1082 de 2015, la Entidad deja constancia
+técnica de que la presente necesidad de contratación se encuentra articulada
+presupuestalmente e inscrita de manera formal en el Plan Anual de Adquisiciones (PAA) de
+la Gobernación del Quindío para la correspondiente vigencia fiscal.
+Finalmente, en lo concerniente al análisis para la aplicación del enfoque diferencial
+establecido en el artículo 2.2.1.2.4.2.7.5 del Decreto 1082 de 2015 (adicionado por el
+Decreto 0287 de 2026) relativo a la inclusión de personas con discapacidad, la Entidad
+estructuradora determina que:
+   1. Sí resulta jurídicamente viable y se otorgarán los puntajes adicionales y criterios de
+      desempate reglamentarios a los proponentes que acrediten la vinculación previa de
+      personas con discapacidad en su planta global de personal, garantizando el principio
+      de pluralidad de oferentes.
+
+   2. Frente a la exigencia de contratar personal específico con discapacidad para la
+      ejecución de este proyecto, se determina que no resulta técnica ni operativamente
+      viable exigir dicha vinculación para los perfiles técnicos y especialistas de
+      campo. Esta determinación se fundamenta en la naturaleza inherente de las labores
+      de la interventoría, las cuales exigen que el personal clave y especialista realice
+         inspecciones técnicas in situ en zonas geográficas de alta montaña, laderas
+         escarpadas de la Cordillera Central, áreas con procesos activos de remoción en
+         masa y cauces torrenciales de difícil acceso. Someter a personal con discapacidades
+         físicas, motoras o sensoriales a estas condiciones agrestes contraviene las normas
+         de Seguridad y Salud en el Trabajo (SG-SST), configurando un riesgo inminente para
+         su integridad física y comprometiendo gravemente la debida ejecución de las
+         obligaciones de campo del contrato.
+
+    3. No obstante la restricción técnica expuesta en el numeral anterior, dicha limitación
+       no será aplicable para los profesionales que integren los componentes
+       administrativo, financiero, contable o jurídico de la interventoría, cuyas labores se
+       limiten estrictamente a la revisión documental en entornos controlados de oficina.
+
+
+                                   ANALISIS MACROECONÓMICO
+
+  PRODUCTO INTERNO BRUTO (PIB) NACIONAL I TRIMESTRE Y REGIONAL 2026
+
+Gráfico 1 Producto Interno Bruto, 2023 - 2026 - I Trimestre Pr.
+
+
+
+
+Fuente: (Departamento Administrativo Nacional de Estadística (DANE), 2026).
+
+De acuerdo con el boletín técnico preliminar del DANE para el primer trimestre de 2026, el
+PIB evidencia una consolidación de la senda de crecimiento, registrando una expansión en
+su serie original ligeramente lenta en un 2,2% respecto al mismo periodo del año anterior.
+La trayectoria del PIB entre 2023 y el primer trimestre de 2026 evidencia un ciclo
+macroeconómico de profundo ajuste seguido de una reactivación fluctuante. Tras absorber
+fuertes choques que llevaron a una contracción en el tercer trimestre de 2023, la economía
+logró estabilizar una senda de recuperación progresiva a lo largo de 2024, superando el
+riesgo de una recesión técnica prolongada.
+
+Sin embargo, el comportamiento del 2025 y los resultados del primer trimestre del 2026
+revelan que la velocidad del crecimiento en el Producto Interno Bruto enfrenta fricciones.
+Tras un atípico pico expansivo en el tercer trimestre de 2025, el cierre de ese año mostró un
+enfriamiento que se confirma con el presente dato preliminar para el primer trimestre de
+2026; una cifra que, si bien mantiene a la economía en terreno positivo, ratifica una innegable
+tendencia de moderación y pérdida de tracción.
+Esta desaceleración es el síntoma claro del agotamiento del impulso reactivador inicial,
+exacerbado por debilidades estructurales persistentes. La economía colombiana sigue
+avanzando, pero lo hace con un motor de inversión privada (formación bruta de capital)
+sumamente debilitado y con sectores procíclicos vitales, como la construcción, operando con
+fuertes contracciones que limitan la generación de valor agregado autónomo. Para la
+gerencia pública territorial, este resultado hace imperativo la ejecución de una política
+contracíclica. Frente al repliegue de la inversión privada, la inyección de recursos a través
+de proyectos estratégicos departamentales y municipales se consolida como la principal
+herramienta para sostener el encadenamiento productivo local, proteger el empleo
+especializado y blindar la infraestructura de la región.En este contexto, la estructuración y
+pronta ejecución de la interventoría para la consultoría de los estudios básicos de gestión
+del riesgo para el municipio de Pijao trasciende su impacto técnico y preventivo,
+consolidándose como una herramienta estratégica de política contra cíclica a nivel
+departamental.
+
+La inyección de recursos públicos mediante esta consultoría especializada no solo dinamiza
+el sector de actividades profesionales, científicas y técnicas en el Quindío frente a la
+desaceleración agregada, sino que resulta fiscalmente dominante; al identificar y delimitar
+las vulnerabilidades del territorio, se protegen las finanzas públicas ante posibles
+contingencias por desastres naturales, optimizando la asignación del gasto en un escenario
+de restricción presupuestal y asegurando la viabilidad y protección de la infraestructura futura
+del municipio. Este enfoque solidifica la contratación pública justificando el gasto no solo
+desde la necesidad técnica, sino demostrando que la Gobernación y la alcaldía están
+actuando de forma responsable con el ciclo económico.
+
+Para comprender a profundidad la anatomía de esta moderación macroeconómica y su
+impacto directo en el mercado de potenciales consultores e interventores para el municipio
+de Pijao, es imperativo desagregar el crecimiento nacional. La siguiente tabla detalla el
+comportamiento del valor agregado por actividad económica, lo que nos permite identificar
+las asimetrías estructurales del país, evaluar qué sectores están frenando la inversión y,
+fundamentalmente, diagnosticar la capacidad instalada y el estado actual de la rama que
+agrupa a las firmas consultoras especializadas.
+
+Tabla 4 Valor agregado por actividad económica - I trimestre 2026 Pr.
+Fuente: (Departamento Administrativo Nacional de Estadística (DANE), 2026).
+
+
+De acuerdo con los resultados del primer trimestre de 2026, el Producto Interno Bruto
+nacional registró una expansión moderada del 2,2%. Al desagregar este comportamiento
+sectorial, se evidencia una economía altamente asimétrica que se sostiene
+fundamentalmente por la administración pública, defensa, educación y salud, el cual marcó
+el indicador con un robusto 5,7%. En agudo contraste, los sectores procíclicos e intensivos
+en mano de obra muestran un marcado deterioro, destacándose la severa contracción de la
+construcción con un -5,4% y el retroceso de la agricultura con un -1,4%, mientras que las
+actividades profesionales, científicas y técnicas lograron mantener una tracción resiliente y
+positiva del 2,2%.
+Al contrastar esta radiografía con el cierre del cuarto trimestre de 2025, se confirma una
+transición hacia un modelo de crecimiento de mayor fragilidad estructural. La moderación
+del agregado nacional (pasando de un 2,3% en el cierre de 2025 al actual 2,2%) encubre
+una agudización de la crisis en los sectores de base: la construcción prácticamente duplicó
+su caída (pasando del -2,6% al -5,4%) y el agro profundizó sus números rojos (del -0,4% al
+-1,4%). Para compensar este desplome de la formación bruta de capital privado, la
+dependencia del gasto estatal aumentó drásticamente, lo cual se evidencia en el salto del
+sector público, que pasó de crecer un 4,8% a finales de 2025 a un 5,7% a inicios de 2026,
+confirmando que el crecimiento actual carece de una dinámica orgánica de mercado.
+Esta asimetría macroeconómica nacional plantea un desafío crítico para la planeación
+territorial en el Quindío. Ante la evidente parálisis del apalancamiento privado y el retroceso
+de la actividad agrícola y constructora, la economía departamental enfrenta serias
+restricciones de liquidez. En este escenario de enfriamiento, la inyección de recursos a
+través de la contratación estatal deja de ser un cumplimiento normativo, para ser
+considerada en el principal instrumento de política fiscal contracíclica capaz de irrigar capital
+y evitar la recesión del encadenamiento productivo local.
+Es bajo esta óptica que la contratación de la interventoría para supervisar los estudios
+básicos de gestión del riesgo en el municipio de Pijao adquiere una relevancia
+estratégica y económica. Al direccionar presupuesto, en este caso del SGR, hacia esta
+especialidad, se estimula directamente el sector de actividades profesionales, científicas y
+técnicas que como evidencian los datos, es de los pocos refugios de valor agregado vigentes
+(2,2%). Esta inyección garantiza la operatividad y retención de firmas consultoras y talento
+humano altamente calificado en la región (geólogos, ingenieros, especialistas), protegiendo
+el empleo estructurado frente a la masiva pérdida de plazas en el sector de la construcción
+tradicional.
+Finalmente, el despliegue operativo de esta interventoría genera un impacto multiplicador
+vital para la microeconomía del municipio de Pijao. La presencia continua de equipos
+técnicos en el territorio dinamiza el comercio y servicios locales, como alojamiento,
+alimentación y logística de campo, brindando un alivio directo a un municipio cuya base
+agropecuaria está golpeada por el ciclo nacional. Simultáneamente, garantizar la absoluta
+rigurosidad técnica de los estudios de riesgo protege el mermado espacio fiscal del
+departamento y del municipio, blindando a la región de contingencias y sobrecostos futuros
+frente a desastres naturales, lo que consolida esta inversión como una decisión
+financieramente responsable.
+Para la entidad contratante, esto garantiza un escenario de alta disponibilidad técnica y
+capacidad en el mercado, asegurando la pluralidad de oferentes, condiciones altamente
+competitivas para optimizar el presupuesto oficial y una ejecución que dinamizará la
+economía local en el momento que más lo requiere.
+Aterrizando el contexto macroeconómico a la estructura productiva territorial, las cifras
+consolidadas del DANE para 2024 evidencian que el Quindío, con un PIB nominal de 14,5
+billones de pesos, registra un producto por habitante de 25,8 millones, ubicándose por
+debajo de la media nacional (32,4 millones). Esta brecha estructural subraya la necesidad
+ineludible de apalancar el desarrollo local mediante la inversión pública.
+Gráfico 2 Tasa de Crecimiento Anual (%) III Trimestre 2025 Pr.
+Fuente: (Departamento Administrativo Nacional de Estadística (DANE), 2026)
+Por su parte, la medición de corto plazo a través del Indicador Trimestral de Actividad
+Económica Departamental (ITAED) para el tercer trimestre de 2025 agrupa al Quindío dentro
+de la categoría “Resto”, bloque que presentó una tracción del 3,8%. Sin embargo, esta
+resiliencia regional no es inmune a la desaceleración nacional del cuarto trimestre,
+particularmente en la rama de servicios profesionales y consultorías.
+En consecuencia, ante un mercado privado contraído, la estructuración precontractual de los
+próximos estudios básicos de gestión del riesgo en el municipio de Pijao se erige como una
+intervención contra cíclica precisa. Este proyecto no solo inyectará liquidez focalizada para
+estimular el ingreso departamental, sino que capitalizará estratégicamente la capacidad
+instalada y ociosa de las firmas especializadas en la región, garantizando a la entidad una
+pluralidad de proponentes, competitividad en las ofertas y eficiencia en la ejecución del gasto
+público.
+De igual manera, a partir de este análisis macroeconómico y sectorial, se evidencia una
+contracción en el mercado privado de consultorías (rama de actividades profesionales,
+científicas y técnicas). Si bien esto garantiza una amplia pluralidad de oferentes , también
+eleva la exposición al riesgo financiero por posible iliquidez de los proponentes. Por
+consiguiente, el Gobierno del Quindío ha estructurado dentro del presente análisis,
+proyecciones de riesgo y medidas de mitigación enfocadas en la exigencia de indicadores
+de capacidad financiera (Liquidez y Capital de Trabajo) que, sin ser restrictivos a la libre
+concurrencia, blinden la ejecución ininterrumpida de los estudios básicos de gestión del
+riesgo en Pijao.
+Con base a lo anterior, es pertinente considerar a priori el riesgo inherente a la estructuración
+de costos del proyecto que se enmarca en un escenario macroeconómico caracterizado por
+presiones inflacionarias residuales y la volatilidad en la formación de precios que afectan la
+cadena de suministro de servicios especializados.
+Para la ejecución de los estudios básicos de gestión del riesgo en el municipio de Pijao, este
+factor se materializa en la potencial alteración de los costos operativos durante la vigencia
+del contrato, incluyendo fluctuaciones cambiarias que impacten el arrendamiento de equipos
+de perforación, topografía de precisión o el licenciamiento de software de modelamiento
+hidrológico y geológico, así como ajustes en los honorarios de los profesionales y
+especialistas requeridos para la consultoría.
+Desde la perspectiva de la estructuración financiera y la asignación eficiente de riesgos, la
+materialización de estas fluctuaciones se mitiga de raíz al determinar que el presente
+proceso se ejecutará bajo la modalidad de CONTRATACIÓN A PRECIO GLOBAL FIJO.
+Esta decisión estratégica constituye el mecanismo definitivo de protección para las finanzas
+públicas territoriales; al exigir un valor cerrado, integral e inmodificable por la totalidad de los
+entregables técnicos, la Entidad transfiere íntegramente al contratista el riesgo previsible y
+ordinario del mercado.
+En consecuencia, el proponente adjudicatario asume la carga exclusiva de optimizar su
+estructura de costos y absorber las variaciones inflacionarias normales, garantizando que el
+presupuesto oficial asignado no sufrirá adiciones por sobrecostos operativos,
+salvaguardando así el principio de planeación, la economía del gasto y la inafectabilidad de
+las vigencias fiscales.
+De igual manera, siendo pertinente analizar cada una de las aristas económicas y financieras
+que el presente proyecto a estructurar puede contener en medio de la capacidad de
+ejecución se prevé una desaceleración del sector consultor, el cual registró un estancamiento
+del 0,4% en el último trimestre a nivel nacional.
+En el contexto de los estudios de gestión del riesgo para el municipio de Pijao, esta coyuntura
+macroeconómica eleva sustancialmente la probabilidad de que las firmas proponentes
+experimenten estrés contable. El riesgo para la administración departamental radica en la
+descapitalización operativa del proyecto; es decir, el riesgo de que el contratista carezca de
+autonomía financiera dependa exclusivamente de los flujos iniciales del contrato para operar
+o utilice los recursos públicos para apalancar déficits de otros proyectos, lo que derivaría
+inevitablemente en la paralización de los estudios de campo y la vulneración del cronograma
+de la Entidad.
+Para neutralizar esta amenaza y transferir eficientemente el riesgo operativo al sector
+privado, la estructuración precontractual adopta una doble barrera de contención financiera.
+En primer lugar, se establece un filtro de solvencia estructural mediante la calibración de
+indicadores habilitantes (Liquidez y Capital de Trabajo), asegurando que el adjudicatario
+posea el músculo financiero necesario para el despliegue inicial de especialistas y equipos
+sin depender de apalancamiento estatal.
+En segundo lugar y como estrategia preventiva definitiva del recurso público se ha
+estructurado un esquema de pagos fraccionado en ocho (8) hitos porcentuales, eliminando
+la figura del anticipo no condicionado. Este diseño supedita el primer desembolso (10%) a
+la entrega efectiva y aprobación de la fase de alistamiento y cartografía base, obligando a la
+firma a operar el primer mes apalancada exclusivamente en su propio capital de trabajo.
+Asimismo, la ponderación del flujo de caja acompaña estratégicamente la curva de costos y
+riesgos del proyecto: libera pagos parciales sostenidos durante las fases de exploración y
+modelación hidráulica, y establece anclas de retención financiera condicionadas a la entrega
+de las manchas de inundación y, finalmente, a la entrega a satisfacción de la Geodatabase
+(GDB) y liquidación del contrato.
+Al condicionar contractualmente todo flujo de liquidez a la aprobación técnica de la
+Interventoría, se garantiza de forma ineludible que la ejecución del gasto corresponda a un
+avance físico real en la mitigación del riesgo, protegiendo a la Entidad frente a cualquier
+escenario de abandono o insolvencia.
+                                INDICE DE PRECIOS AL CONSUMIDOR (IPC)
+La incorporación del Índice de Precios al Consumidor (IPC) en la estructuración de estudios
+previos y del sector corresponden a la viabilidad financiera de la contratación estatal. Al
+contratar una interventoría especializada, especialmente para proyectos de alta complejidad
+técnica y temporalidad extendida, como los estudios de gestión del riesgo para el municipio
+de Pijao, el presupuesto oficial debe reflejar la realidad del mercado. Un IPC al alza impacta
+directamente los costos de los insumos, la logística de campo y, fundamentalmente, los
+honorarios del personal profesional y técnico altamente calificado (geólogos, ingenieros,
+financistas). Ignorar esta variable en el análisis del sector expone a la entidad a declarar
+procesos desiertos por presupuestos desfasados, o peor aún, a un desequilibrio económico
+del contrato que comprometa la calidad de la supervisión de la obra pública.
+Tabla 5 IPC Variación mensual y anual del IPC - Enero 2023 - Mayo 2026
+
+
+
+
+Fuente: (Departamento Administrativo Nacional de Estadística (DANE), 2026)
+La evidencia gráfica expone la transición de la política monetaria y el comportamiento de los
+precios en el país. Se observa una marcada fase desinflacionaria que inicia en los picos de
+principios de 2023 (superiores al 13%) y desciende de manera sostenida a lo largo de 2024,
+encontrando un aparente piso estructural alrededor del 5% durante 2025. Sin embargo, los
+datos de la vigencia 2026 rompen esta tendencia hacia la estabilización, registrando un
+incremento en la curva de variación anual que alcanza el 5,84% en mayo, con una presión
+mensual del 0,47%1.
+
+
+
+1
+ Refiere que los bienes y servicios que componen la canasta básica familiar en Colombia subió casi medio punto porcentual únicamente entre
+el 1 de mayo y el 31 de mayo de 2026 (comparado con el cierre de abril de 2026).
+Desde la óptica estructural, este rebote suele estar presionado por componentes de la
+canasta básica inelásticos y sujetos a indexación, tales como los arriendos, los servicios
+públicos regulados (energía y acueducto) y los costos de transporte, los cuales sufren
+ajustes rezagados.
+Para el sector público, el análisis es severo: la economía está operando bajo un entorno de
+costos crecientes y crecimiento moderado. Esto encarece el apalancamiento de los
+proyectos de inversión y obliga a los estructuradores financieros a ser extremadamente
+conservadores con las proyecciones de flujo de caja, pues el margen de maniobra fiscal se
+reduce ante la pérdida del poder adquisitivo del presupuesto asignado.
+El choque inflacionario nacional rara vez se distribuye de manera simétrica en las regiones.
+En el caso específico del departamento del Quindío, la matriz inflacionaria suele presentar
+sensibilidades particulares que exacerban el dato nacional.
+Dada la fuerte vocación turística y de servicios de la región, renglones como el alojamiento,
+la restauración y el transporte de suministros tienden a absorber rápidamente estas
+presiones al alza. Cuando el IPC nacional rebota a un 5,84%, en territorios con dinámicas
+logísticas específicas y limitaciones de interconexión periférica como los municipios
+cordilleranos de Pijao, Génova o Buenavista, el sobrecosto de transportar equipos de
+perforación, movilizar personal o adquirir insumos para estudios técnicos en campo, suele
+generar una "prima de inflación local" superior al promedio del país.
+Tabla 6 Variación y contribución anual según divisiones de gasto - Enero 2023 - Mayo 2026
+
+
+
+
+Fuente: (Departamento Administrativo Nacional de Estadística (DANE), 2026)
+En cuanto a la presente desagregación, esta es determinante en la estructuración
+precontractual de la interventoría, ya que revela el comportamiento real de los costos
+operativos en el mercado. Como evidencia la tabla, aunque la inflación agregada cede
+temporalmente, los costos logísticos, de alojamiento y transporte vitales para la supervisión
+en campo mantienen una severa rigidez al alza que debe proyectarse en el presupuesto
+oficial.
+Por tanto, a desaceleración del IPC mensual a nivel nacional, que pasó de 0,78% en abril a
+0,47% en mayo de 2026, genera un espejismo estadístico de reducción inflacionaria, lo cual
+demanda un escrutinio financiero al momento de costear el proyecto. Al desagregar las
+contribuciones de las divisiones de gasto, es evidente que este aparente freno estadístico
+obedece casi de manera exclusiva a la corrección transitoria en la división de alimentos y
+bebidas no alcohólicas, cuya presión agregada colapsó de 0,29 a 0,00 puntos porcentuales
+de un mes a otro. Este fenómeno responde a volatilidades estacionales propias de la oferta
+agrícola y no a un enfriamiento real de los componentes estructurales de la economía, lo
+que significa que el entorno general de precios para la prestación de servicios sigue
+operando bajo presiones al alza considerables.
+Lejos de ceder, la inflación núcleo y los renglones indexados muestran una aceleración
+preocupante que impacta directamente al sector de servicios profesionales. La división de
+alojamiento, agua, electricidad, gas y otros combustibles incrementó su peso, aportando 0,26
+p.p. al dato de mayo, absorbiendo por sí sola un aproximado del 55% de toda la inflación
+mensual. Si a esto se le suma la comprobada rigidez a la baja en los costos de transporte
+(0,08 p.p.) y en la división de restaurantes y hoteles (0,04 p.p.), el diagnóstico
+macroeconómico confirma un encarecimiento agresivo y sostenido en los rubros logísticos,
+inmobiliarios y de servicios públicos; elementos que constituyen la base fundamental de los
+costos operativos y fijos (Administración, Imprevistos y Utilidad - AIU) de cualquier firma
+consultora.
+Para el departamento del Quindío, y específicamente en la estructuración financiera de la
+presente interventoría que supervisará los estudios de gestión del riesgo en el municipio de
+Pijao, comprender esta anatomía inflacionaria resulta determinante. La matriz de costos de
+este proyecto es altamente intensiva en movilización hacia zonas de cordillera, pago de
+viáticos en campo y operación continua de equipos técnicos, renglones que están
+absorbiendo el choque inflacionario más severo de la canasta. Por cons iguiente, indexar el
+presupuesto oficial basándose únicamente en el IPC general, sesgado a la baja por el efecto
+transitorio del sector alimentos, generaría un déficit técnico; es imperativo proyectar los
+costos reconociendo esta viscosidad inflacionaria en el transporte y el alojamiento para
+garantizar el equilibrio financiero del contrato y, en consecuencia, la absoluta calidad técnica
+de la supervisión. En virtud de lo expuesto, la solicitud de cotización estableció como premisa
+que las firmas consultoras presentaran un valor integral, garantizando la inclusión y
+cobertura de la totalidad de las actividades y gastos asociados a la ejecución del contrato.
+
+
+                       TASA REPRESENTATIVA DEL MERCADO (TRM)
+En la estructuración del Estudio del Sector para la contratación de la interventoría, la Tasa
+Representativa del Mercado (TRM) constituye un factor macroeconómico determinante para la
+correcta asignación de riesgos y la garantía del equilibrio económico contractual. Su inclusión técnica
+es indispensable, dado que el aseguramiento de la calidad exige frecuentemente insumos indexados
+al dólar, tales como licencias de software especializado, equipos de laboratorio importados y
+certificaciones internacionales. Asimismo, proyectar la fluctuación cambiaria permite anticipar posibles
+desfinanciaciones en la estructura de costos del contrato principal, mitigando el riesgo de paralización
+de las obras por encarecimiento de materiales y asegurando que la interventoría pueda alertar
+oportunamente sobre la vulnerabilidad financiera del contratista supervisado.
+Gráfico 3 Histórico Tasa Representativa del Mercado, 2000 - Junio 2026.
+Fuente: (Superintentendia Financiera de Colombia., 2026)
+Como se evidencia en la gráfica histórica de la Superintendencia Financiera de Colombia, el mercado
+de divisas colombiano ha transitado por ciclos de volatilidad, escalando desde la estabilidad de la
+década del 2000 hasta los fuertes choques externos que llevaron la divisa a picos históricos cercanos
+a los $5.000 pesos entre 2022 y 2023. No obstante, el comportamiento gráfico reciente confirma una
+corrección macroeconómica estructural, evidenciando una tendencia sostenida hacia la revaluación
+del peso colombiano. Esta corrección técnica obedece a la estabilización de la prima de riesgo país,
+la absorción de los choques inflacionarios mediante la política monetaria del Banco de la República y
+un flujo constante de divisas por inversión y remesas.
+
+Al analizar la coyuntura actual, el mercado consolida esta tendencia cotizando la TRM en $3.459,53
+pesos para el 22 de junio de 2026, lo que representa un escenario de alta relevancia para la
+contratación estatal. Desde una perspectiva de finanzas públicas , este nivel de tasa de cambio reduce
+drásticamente las presiones inflacionarias sobre los bienes importados, ofreciendo un entorno de
+certidumbre presupuestal que no se observaba en años recientes.
+
+Finalmente, la consolidación de la TRM en $3.459,53 genera un impacto asimétrico en la matriz
+productiva del departamento del Quindío. Por un lado, representa un choque contractivo para los
+ingresos de los caficultores exportadores, disminuye el poder adquisitivo en pesos de las remesas
+internacionales que sostienen el comercio en Armenia y encarece relativamente el destino para el
+turismo internacional, frenando parcialmente la entrada de capital en estos frentes. En contraste, esta
+revaluación beneficia estratégicamente el desarrollo de la infraestructura pública regional, abaratando
+la importación de maquinaria amarilla, asfaltos y tecnologías para obras viales y de saneamient o
+básico; un factor que facilita la labor de las interventorías locales al dismi nuir significativamente el
+riesgo de incumplimiento o insolvencia de los contratistas en el Eje Cafetero.
+
+
+
+                        TASAS DE INTERÉS Y COSTO DEL CRÉDITO
+El análisis de la Tasa de Interés de Política Monetaria del Banco de la República es un
+determinante técnico y financiero en la contratación de la interventoría a ejecutar. Dado que
+el modelo de ejecución para estos contratos típicamente suprime la figura del anticipo y
+condiciona el flujo de caja a la aprobación estricta de hitos técnicos, el contratista
+adjudicatario debe asumir la carga de fondear las exigentes fases iniciales con recursos
+propios o apalancamiento externo. Comprender el costo del dinero le permite a la Entidad
+Estatal calibrar con precisión matemática los requisitos habilitantes financieros exigidos en
+los pliegos, garantizando objetivamente que la firma seleccionada cuente con la solvencia y
+autonomía de caja suficientes para operar sin depender de un crédito bancario prohibitivo,
+mitigando así el riesgo de paralización de la supervisión.
+Para dimensionar este costo de capital al que se enfrentan los potenciales oferentes, es
+fundamental observar la evolución reciente de este indicador macroeconómico, tal como se
+expone en la gráfica. Este, ilustra la trayectoria histórica y el nivel actual de la tasa de
+intervención, el cual es el principal faro que determina el encarecimiento o disminución de
+las tasas de crédito comercial en el sistema financiero. La evidencia visual subraya la
+necesidad de un diseño precontractual riguroso que evalúe el canal de transmisión hacia las
+tasas activas, velando por el presupuesto público territorial contra posibles exigencias de
+restablecimiento del equilibrio económico del contrato derivadas de presiones monetarias
+externas.
+Gráfico 4 Tasa de Política Monetaria 2000 – Marzo 2026 Vs Junio 2026.
+Fuente: (Banco de la República de Colombia, 2026)
+Al contrastar el modelo analítico estructurado en los estudios del sector marzo con los datos
+consolidados a junio, se evidencia un cambio de tendencia en la postura de la autoridad
+monetaria que altera los supuestos previos. Según el registro histórico evaluado, para marzo
+de 2026 la tasa se ubicaba en 10,25%, reflejando una flexibilización cautelosa tras el pico
+del 13% en 2023; sin embargo, los datos a 22 de junio de 2026 revelan un repunte sostenido
+hacia el 11,25%. Este incremento de 100 puntos básicos confirma que el Banco de la
+República ha interrumpido sus recortes para retomar un sesgo contractivo ante la
+persistencia de presiones inflacionarias subyacentes, configurando una nueva normalidad
+que encarece significativamente las líneas de crédito de capital de trabajo para las firmas
+consultoras.
+La consolidación de una política monetaria restrictiva al 11,25% genera impactos profundos
+y asimétricos en las dinámicas macroeconómicas del departamento del Quindío. Por un lado,
+este nivel de tasas actúa como un desincentivo directo para la inversión privada en el sector
+de la construcción e inmobiliario, tal y como se aprecian los resultados en registros
+anteriores, ralentizando el cierre financiero de nuevos proyectos debido a los altos costos
+hipotecarios y constructores. Paralelamente, el encarecimiento del crédito de consumo
+restringe la liquidez de los hogares colombianos, lo que deprime la demanda agregada sobre
+el sector turístico, hotelero y de parques temáticos del Eje Cafetero, afectando el flujo de
+caja del comercio en municipios de alta afluencia como Salento o Filandia.
+Por tanto, el actual encarecimiento del crédito restringe el margen fiscal de los municipios
+del Quindío, reduciendo su capacidad para financiar obras de infraestructura y estudios
+técnicos. Ante este entorno macroeconómico de iliquidez, exigir requisitos financieros
+estrictos como un Índice de Liquidez superior a 1.47 y un Capital de Trabajo mayor al 50%
+es una barrera de protección estratégica a las entidades territoriales, garantizando que las
+firmas de interventoría posean verdadera autonomía patrimonial y mitigando el riesgo de que
+los proyectos públicos queden paralizados por la insolvencia o el colapso financiero del
+contratista.
+En este mismo sentido, es pertinente analizar el impacto real de esta política monetaria
+restrictiva sobre el sector privado, resulta imperativo analizar el canal de transmisión hacia
+las tasas activas del sistema financiero. La siguiente gráfica, consolidada por el Banco de la
+República con información de la Superintendencia Financiera, detalla el comportamiento
+histórico y reciente de las tasas de interés de colocación, permitiendo identificar el costo
+efectivo de apalancamiento a través del crédito comercial, vehículo de financiamiento natural
+al que recurriría un oferente para fondear las operaciones del proyecto.
+Gráfico 5 Tasas de interés de colocación histórico 2026.
+
+
+
+
+Fuente: (Banco de la Republica con información de la Superintendencia Financiera de
+Colombia, 2026)
+El análisis detallado de las tasas de interés ratifica el encarecimiento del costo del
+apalancamiento, encontrando su validación al analizar el canal de transmisión monetaria
+hacia las tasas activas del sistema financiero. Como se evidencia en la gráfica de tasas de
+interés la postura restrictiva del Banco de la República se ha trasladado con rigor al sector
+real, confirmando que la escasez de liquidez es una barrera de mercado tangible para el
+tejido empresarial. Al observar la desagregación para la primera semana de junio de 2026,
+la Tasa de Interés de Colocación Total se ubica en un 16,77%, lo que demuestra que el
+sistema bancario está cobrando una alta prima de riesgo generalizada por inyectar liquidez
+a la economía, configurando un escenario altamente adverso para el fondeo externo de
+nuevos contratos.
+Este encarecimiento estructural del costo del dinero impacta directamente la viabilidad
+operativa y la caja de cualquier firma de interventoría. Si un proponente busca financiar sus
+operaciones iniciales como el despliegue de nómina, logística y pruebas de laboratorio a
+través del sistema financiero, se enfrentará a una gravosa tasa del 15,38% en la modalidad
+de Crédito Comercial Ordinario. Aún más crítico, si la firma carece de un perfil corporativo
+sólido y se ve obligada a recurrir a líneas de Crédito de Consumo, el costo de este capital
+se dispara a un nivel prohibitivo del 22,14%; asumir este nivel de gasto financiero erosiona
+de manera acelerada el margen de rentabilidad proyectado e induce al contratista a sacrificar
+la calidad técnica de la supervisión para poder cumplir con sus obligaciones bancarias.
+En consecuencia, la evidencia arrojada por las actuales tasas de colocación hace
+técnicamente mandatorio mantener un estricto rigor en los requisitos habilitantes financieros
+dentro de los pliegos de condiciones. Flexibilizar estos indicadores implicaría una grave
+negligencia en la estructuración precontractual, pues expondría a las entidades territoriales
+del Quindío a adjudicar la vigilancia de su infraestructura pública a firmas que, al depender
+de un mercado crediticio opresivo, corren un riesgo de insolvencia y paralización de la
+ejecución del contrato.
+       DINÁMICA DEL MERCADO LABORAL Y PARÁMETROS SALARIALES
+El análisis del entorno macroeconómico para la presente contratación debe integrar la
+dinámica del mercado laboral regional. Históricamente, el departamento del Quindío y el
+municipio de Armenia han presentado retos estructurales en materia de empleabilidad,
+registrando tasas de desocupación que exigen una intervención activa por parte del Estado
+(Departamento Administrativo Nacional de Estadística, 2026).
+En este contexto, la ejecución de los estudios básicos de gestión del riesgo en el municipio
+de Pijao trasciende su propósito técnico primario para consolidarse como un vehículo
+dinamizador de la economía local. La materialización de este contrato incentiv ará la
+generación de empleo directo e indirecto en el territorio, apalancando la contratación de
+mano de obra local calificada y no calificada, inyectando liquidez en los hogares del
+municipio y mitigando los efectos del actual ciclo de desaceleración económica.
+Desde la perspectiva paramétrica y legal, la estructuración de la matriz de costos y riesgos
+de este proceso se encuentra indexada al Salario Mínimo Legal Mensual Vigente (SMLMV)
+fijado por el Gobierno Nacional para la vigencia 2026. Este indicador no solo constituye el
+piso tarifario irrenunciable para la remuneración del personal operativo y auxiliar que
+participará en las fases de exploración en Pijao, garantizando el cumplimiento de la
+normatividad laboral vigente por parte del contratista; sino que opera como la unidad de
+medida taxativa y obligatoria para el dimensionamiento del riesgo contractual. En estricto
+apego a los lineamientos de Colombia Compra Eficiente, el SMLMV del año en curso es la
+base de cálculo inmodificable para determinar el valor asegurado de la Póliza de
+Responsabilidad Civil Extracontractual (RCE), así como para la tasación proporcional de la
+Cláusula Penal Pecuniaria y las multas por incumplimiento que salvaguardan el patrimonio
+de la Entidad.
+En cuanto a la pertinencia socioeconómica del proyecto y su impacto en la dinámica
+territorial, es imperativo analizar el comportamiento reciente del mercado laboral urbano. La
+siguiente tabla, extraída de la Gran Encuesta Integrada de Hogares (GEIH) del DANE,
+consolida los indicadores de empleabilidad para las 23 principales ciudades y áreas
+metropolitanas, agregación estadística que incluye la ciudad capital del departamento,
+evidenciando las presiones actuales sobre la tasa de desocupación.
+Tabla 7 Mercado Laboral 23 ciudades histórico (2007 - 2026).
+
+
+
+
+Fuente: (Departamento Administrativo Nacional de Estadística, 2026)
+El análisis comparativo de corto plazo entre los trimestres móviles enero-marzo y febrero-
+abril de 2026 revela la microdinámica de ajuste del mercado laboral urbano frente al fuerte
+choque macroeconómico de inicio de año. Al contrastar directamente estos periodos, se
+evidencia una corrección técnica en los principales indicadores de empleabilidad: la Tasa de
+Ocupación logró un rebote positivo, pasando de un piso alarmante del 59,8% a un 60,6%, lo
+que representa la vinculación de más de 150.000 personas al mercado laboral.
+Paralelamente, el pico más destructivo para el empleo logró contenerse, permitiendo que la
+Tasa de Desocupación retrocediera desde un nivel crítico del 9,7% en el primer trimestre
+hacia un 9,1% en la medición de febrero-abril. Esta absorción resiliente también fue
+acompañada por un aumento en la Tasa Global de Participación (del 66,3% al 66,7%), lo
+que indica que la población inactiva retomó la búsqueda activa de oportunidades al percibir
+una leve mejora en el entorno productivo.
+Sin embargo, mientras el volumen total de desempleados se redujo, la Tasa de
+Subocupación experimentó un incremento continuo, pasando del 6,4% en enero-marzo al
+6,6% en el trimestre febrero-abril. Esto sugiere de manera contundente que una proporción
+significativa de los nuevos puestos de trabajo generados por el sector privado el cual sigue
+fuertemente restringido por el alto costo del crédito y el incremento salarial no son de calidad
+óptima. En la práctica, la economía urbana está sustituyendo la desocupación total por
+empleos de menor calidad, caracterizados por una insuficiencia de horas laborales o
+ingresos insuficientes, lo que incrementa el riesgo de refugio en la informalidad y merma la
+capacidad de consumo real de los hogares frente a la inflación.
+Ante este escenario de recuperación frágil y de baja calidad, la justificación para ejecutar el
+Presupuesto Oficial en los estudios de gestión del riesgo del departamento del Quindío cobra
+una relevancia estratégica superior. Si bien el sector privado está logrando generar puestos
+de trabajo, lo hace a costa de repuntar la subocupación; por ende, la contratación pública a
+través de esta interventoría actúa como un proveedor indispensable de empleo formal y de
+alta calidad técnica en el territorio. Inyectar liquidez mediante este contrato no solo ayuda a
+mantener la desocupación local a la baja, sino que ataca directamente el problema,
+garantizando salarios dignos, honorarios competitivos y prestaciones de ley para los
+profesionales, encuestadores y auxiliares logísticos de Pijao y Armenia, consolidando al
+proyecto como un verdadero estabilizador socioeconómico regional.
+                     SALARIO MÍNIMO MENSUAL VIGENTE AÑO 2026
+
+Para consolidar la estructuración de la matriz de costos y definir los parámetros legales
+ineludibles del proceso, es oportuno analizar la evolución del Salario Mínimo Legal Mensual
+Vigente (SMLMV). La siguiente tabla histórica evidencia la trayectoria de este indicador, el
+cual no solo establece el piso tarifario irrenunciable para la remuneración del personal
+operativo y auxiliar en territorio, sino que constituye la unidad de valor oficial exigida por el
+marco normativo para el dimensionamiento del riesgo contractual.
+
+Tabla 8 Histórico del Salario Mínimo Legal Mensual en Colombia.
+
+
+
+
+Fuente: (Hernando Guerrero - Bitákora, 2026)
+
+Esta lectura del histórico salarial revela un ajuste macroeconómico sin precedentes recientes
+para la vigencia 2026. Conforme a lo establecido en los Decretos 1469 y 1470 expedidos en
+diciembre de 2025, el SMLMV experimentó un incremento atípico del 23,00%, fijando la
+asignación básica en UN MILLÓN SETECIENTOS CINCUENTA MIL NOVECIENTOS
+CINCO PESOS M/CTE ($1.750.905) y consolidando un costo laboral mínimo (incluyendo el
+auxilio de transporte) de DOS MILLONES DE PESOS M/CTE ($2.000.000). En la
+modelación del presupuesto oficial para los estudios básicos de gestión del riesgo en el
+municipio de Pijao, este choque exógeno en los costos laborales tiene un impacto directo y
+transversal; justifica técnicamente la .actualización al alza de los rubros destinados a la
+contratación de personal técnico, profesionales de apoyo para la revisión documental y
+acompañamiento logístico para la supervisión en territorio, garantizando la paridad
+económica del contrato frente a la nueva realidad normativa y promoviendo la inyección de
+liquidez en los hogares del departamento.
+
+Este incremento extraordinario del 23% reconfigura automáticamente la matriz de riesgos
+del proceso. En observancia de las directrices vigentes de Colombia Compra Eficiente, y
+teniendo en cuenta la actual política macroeconómica del Gobierno Nacional orientada a la
+desindexación de tarifas y sanciones hacia la UVT, la Entidad dimensionará y tasará los
+amparos de la Póliza de Responsabilidad Civil Extracontractual (RCE) y el régimen
+sancionatorio (Cláusula Penal Pecuniaria y multas) de acuerdo con la unidad de cuenta
+legalmente aplicable según el Manual de Contratación vigente, asegurando que el régimen
+mantenga su poder disuasorio real en el mercado.
+
+         CONCLUSIÓN DEL ANÁLISIS MACROECONÓMICO Y FINANCIERO
+La evaluación integral de las variables macroeconómicas para la transición de la vigencia
+2025-2026 configura un escenario de alta complejidad que justifica, desde la teoría
+económica y la planeación pública, el diseño financiero y precontractual adoptado para los
+estudios básicos de gestión del riesgo en el municipio de Pijao. La economía colombiana
+atraviesa una fase de moderación y pérdida de tracción, evidenciada por un crecimiento del
+PIB de apenas 2,2% en el primer trimestre de 2026, donde sectores intensivos como la
+construcción y la agricultura sufren severas contracciones. En este contexto, la inyección de
+recursos del Sistema General de Regalías (SGR) a través de la presente interventoría
+trasciende su valor técnico para operar como una política fiscal contracíclica, dinamizando
+el sector de actividades profesionales, científicas y técnicas (el cual mantiene una tracción
+resiliente del 2,2%) y garantizando una amplia pluralidad de oferentes altamente
+competitivos.
+Frente a las presiones en la formación de precios, materializadas en un IPC anual del 5,84%
+a mayo de 2026 y una marcada rigidez al alza en los costos logísticos, de transporte y
+alojamiento, la estructuración del Presupuesto Oficial ha absorbido objetivamente esta
+pérdida de poder adquisitivo. Asimismo, la consolidación de una Tasa Representativa del
+Mercado (TRM) revaluada en el entorno de los $3.459,53 pesos alteran estructuralmente los
+costos de importación de tecnología y licenciamiento de software. Para neutralizar esta
+volatilidad y proteger las finanzas públicas, resulta técnica y jurídicamente imperativo
+ejecutar el contrato bajo la modalidad de Precio Global Fijo sin fórmula de reajuste. Esta
+decisión transfiere de manera definitiva el riesgo inflacionario, cambiario y operativo al
+contratista adjudicatario, salvaguardando el principio de planeación y la inafectabilidad de
+las vigencias fiscales.
+En el ámbito monetario, el prolongado ciclo restrictivo del Banco de la República ha llevado
+la tasa de política monetaria al 11,25%, anclando el costo del crédito comercial en niveles
+históricamente onerosos que promedian tasas efectivas de colocación superiores al 15%.
+Dado que el esquema contractual diseñado suprime la figura del anticipo y condiciona el flujo
+de caja a la aprobación estricta de ocho (8) hitos técnicos, la exigencia de los indicadores
+de capacidad financiera actúa como un escudo protector necesario. Exigir un Índice de
+Liquidez mayor o igual a 1.87, un Índice de Endeudamiento menor o igual a 0.55 y una Razón
+de Cobertura de Intereses mayor o igual a 5.54, garantiza objetivamente que la firma
+seleccionada posee autonomía patrimonial para fondear las exigentes fases iniciales de
+campo, mitigando de raíz el riesgo de parálisis del proyecto por iliquidez o por la incapacidad
+de asumir el alto costo del financiamiento bancario.
+Finalmente, el componente normativo y laboral exige la indexación de la matriz de riesgos
+al Salario Mínimo Legal Mensual Vigente (SMLMV), el cual experimentó un incremento
+extraordinario del 23,00% para 2026. En estricto apego a los lineamientos de Colombia
+Compra Eficiente, este indicador es la base de cálculo inmodificable para determinar el valor
+asegurado de la Póliza de Responsabilidad Civil Extracontractual (RCE), la tasación
+proporcional de la Cláusula Penal Pecuniaria y las multas por incumplimiento, asegurando
+que el régimen sancionatorio mantenga su poder disuasorio real. En un contexto
+departamental marcado por una tasa de desocupación urbana del 9,1%, este proyecto se
+consolida como un estabilizador socioeconómico que inyectará liquidez a los hogares a
+través de la generación de empleo formal y calificado, blindando al municipio de Pijao contra
+contingencias futuras mediante estudios con absoluto rigor científico y legal.
+                               ANÁLISIS DE LA DEMANDA
+El análisis de la demanda para la interventoría integral a estos estudios de riesgo revela una
+estructura de mercado atípica, definida por una triangulación de actores clave. Si bien el
+Municipio de Pijao es el beneficiario final y la entidad con la obligación legal (Ley 1523 de
+2012) de adoptar e implementar los estudios en su EOT, no es la entidad contratante. La
+demanda es, en esencia, un monopsonio (un único comprador) gestionado por un tercero,
+donde Pijao actúa como el receptor técnico del producto final auditado y avalado.
+La intervención de un actor de nivel superior es indispensable, dado que el Municipio de
+Pijao, al ser de Categoría 6, no posee la capacidad financiera ni técnica en su planta de
+personal para asumir los altos costos de esta supervisión híper especializada. Sus limitados
+ingresos de libre destinación son insuficientes para una inversión de esta magnitud, lo que
+genera un vacío de control y vigilancia normativa que el municipio no puede resolver con
+recursos propios.
+Por tanto, la Gobernación del Quindío asume el rol de entidad contratante y financiadora,
+cubriendo la totalidad del costo mediante fondos del Sistema General de Regalías (SGR).
+Esta acción representa un aporte fundamental y estratégico de la administración
+departamental al territorio. Al financiar la interventoría, la Gobernación no solo suple la
+incapacidad fiscal y operativa del municipio de Pijao, sino que le entrega la garantía técnica
+indispensable para desbloquear su parálisis normativa, planificar su territorio de manera
+segura y cumplir con la ley. En este caso, la demanda de estos servicios de interventoría no
+surge de una optimización de procesos, sino de un imperativo legal ineludible del Estatuto
+General de Contratación (Ley 80 de 1993) y el Estatuto Anticorrupción (Ley 1474 de 2011),
+los cuales obligan a garantizar el control, la vigilancia y la calidad técnica de aquellos
+insumos que el municipio incorporará como determinantes de superior jerarquía en sus
+instrumentos de planificación territorial.
+            Comportamiento de la demanda histórica
+            En el mercado colombiano existen empresas sólidas que prestan sus servicios de
+            consultoría y que a través de su trayectoria se han caracterizado por su cumplimiento dentro
+            de los términos de calidad y eficiencia, como las siguientes:
+            Tabla 9 Comportamiento demandas similares.
+
+ Contrato            Objeto             Ofertado por         Empresa           Valor          Plazo          Link
+
+            INTERVENTORÍA TÉCNICA,
+            ADMINISTRATIVA,      Y
+            FINANCIERA   PARA   LA
+                                                         CASTBLANCO
+            CONSTRUCCIÓN         Y     CUNDINAMARC
+CMA-012-                                                 INGENIERIA Y
+            REMODELACIÓN DE     LA     A - ALCALDÍA                           $262,990,000 12 meses   CLIC ENLACE SECOP
+2022                                                     ARQUITECTURA
+            CENTRAL DE ABASTOS DEL     MUNICIPIO DE
+                                                         SAS
+            TEQUENDAMA FASE 2 DEL      LA MESA
+            MUNICIPIO DE LA MESA
+            CUNDINAMARCA
+
+            INTERVENTORÍA PARA LOS
+            ESTUDIOS BÁSICOS DE        CORPORACIÓN
+            GESTIÓN DEL RIESGO Y       AUTÓNOMA          CONSORCIO
+CVC-CM-
+            ZONIFICACIÓN        DE     REGIONAL DEL      INTERVENTORES      $310.500.000   7 meses    CLIC ENLACE SECOP
+045-2023
+            AMENAZAS            EN     VALLE DEL         AMBIENTALES 2023
+            JURISDICCIÓN   DE   LA     CAUCA (CVC)
+            CORPORACIÓN
+
+            INTERVENTORÍA INTEGRAL A
+            LA    ELABORACIÓN     DE
+            ESTUDIOS DE GESTIÓN DEL
+                                     ALCALDÍA            CONSORCIO
+CM-SGR-     RIESGO Y ZONIFICACIÓN DE
+                                     MUNICIPAL DE        INTER-RIESGOS        $268.900.000 7 meses    CLIC ENLACE SECOP
+002-2025    AMENAZAS EN EL MARCO DE
+                                     PALMIRA             VALLE
+            LA REVISIÓN DEL ESQUEMA
+            DE        ORDENAMIENTO
+            TERRITORIAL.
+
+
+
+
+            El análisis de la demanda histórica en el SECOP evidencia que el mercado de servicios de
+            interventoría cuenta con una oferta dinámica y plural. Aunque los objetos contractuales de
+            la muestra presentan variaciones en su alcance específico —abarcando desde estudios de
+            riesgo municipal hasta proyectos regionales, todos comparten una estructura de costos e
+            insumos estrictamente homogénea. Las firmas de interventoría demandan perfiles técnicos
+            altamente especializados (geólogos, hidrólogos), gastos de aseguramiento y logística de
+            campo comparables, lo que hace de esta muestra una línea base técnica y jurídicamente
+            válida para sustentar el proceso del Municipio de Pijao.
+            Bajo esta premisa de homogeneidad operativa, el presupuesto oficial estimado de
+            DOSCIENTOS TREINTA Y TRES MILLONES QUINIENTOS SESENTA Y OCHO MIL
+            SETECIENTOS CUARENTA Y TRES PESOS M/CTE ($233.568.743) se encuentra
+            plenamente justificado y proporcionado frente a la realidad macroeconómica del sector.
+            Al contrastarlo con los valores celebrados en la muestra (que oscilan en rangos de
+            DOSCIENTOS SESENTA Y DOS MILLONES NOVECIENTOS NOVENTA MIL PESOS
+            ($262.990.000) Y TRESCIENTOS DIEZ MILLONES QUINIENTOS MIL PESOS
+            ($310.500.000)), se evidencia que el valor proyectado se sitúa por debajo de dicho promedio
+            histórico. Sin embargo, esta variación obedece a un riguroso estudio de mercado sustentado
+            en cotizaciones formales y recientes expedidas por posibles oferentes del sector. Dichas
+       cotizaciones confirman que las condiciones actuales del mercado permiten lograr eficiencias
+       económicas sin sacrificar el alcance ni la calidad requerida, demostrando que el presupuesto
+       estimado es completamente realista y ejecutable. Por lo tanto, al ponderar sus respectivos
+       plazos de ejecución y contar con el respaldo documental de las cotizaciones allegadas, el
+       costo mensual proyectado para este proceso garantiza su viabilidad financiera. Esta
+       asignación asegura la participación plural de oferentes idóneos, da cumplimiento al principio
+       de economía y blinda al Departamento del Quindío contra riesgos de declaratoria de desierta
+       o detrimento patrimonial.
+       MODELO DE ABASTECIMIENTO ESTRATÉGICO MAE – ANÁLISIS DE LA DEMANDA
+
+       Para determinar la viabilidad, dinámica y pluralidad de oferentes del presente proceso de
+       selección, se realizó el análisis de la demanda histórica en el Sistema Electrónico de
+       Contratación Pública (SECOP I y II), se tomó como referencia Tomando de referencia la
+       información suministrada por la Agencia Nacional de Contratación Pública – Colombia
+       Compra eficiente, Análisis de Demanda para las vigencias comprendidas entre el 01 de
+       enero de 2020 al 16 de octubre de 2026; Se analizaron los siguientes códigos UNSPSC,
+       los cuales reflejan la naturaleza multidisciplinaria del proyecto (Ingeniería, Ciencias de la
+       Tierra y Gestión Ambiental):
+       - 771115: Servicios de seguridad ambiental
+       - 771015: Evaluación de impacto ambiental
+       - 801015: Servicios de consultoría de negocios y administración corporativa.
+       - 811517: Geología.
+       - 811516: Cartografía.
+       - 811015: Ingeniería civil.
+       - 811519: Geofísica
+Gráfico 7 Abastecimiento Estratégico del Mercado – Nivel Nacional.
+Fuente: (Agencia Nacional de Contratación Pública Colombia Compra Eficiente, 2026)
+
+Al observar las gráficas consolidadas entre 2020 y 2026, es evidente que nos encontramos
+frente a un mercado altamente dinámico. Con un registro histórico que supera los 233.000
+contratos asociados a estos rubros, el sector muestra una rotación constante y una amplia
+pluralidad de oferentes. Desde la perspectiva financiera, el mercado moviliza un promedio
+estable de inversión que oscila entre los $6.8 y $9.1 billones de pesos anuales. Esto es un
+indicador de confianza, el presupuesto estimado para los estudios de Pijao ingresa a un
+ecosistema comercial maduro, con firmas que tienen el músculo financiero y operativo para
+asumir el riesgo de un contrato a Precio Global Fijo.
+Un hallazgo interesante desde la óptica de la oferta es la marcada estacionalidad del sector.
+Históricamente, la contratación de estos servicios presenta un pico de sobredemanda muy
+pronunciado durante el mes de enero, momento en el cual las firmas consultoras
+comprometen gran parte de su capacidad operativa, para luego estabilizarse a lo largo del
+año. Salir al mercado con este Concurso de Méritos una vez superada esa congestión inicial
+representa una ventaja estratégica para el Gobierno del Quindío, pues nos permite captar la
+atención de consultores que ya han estabilizado su carga de inicio de vigencia y están en
+búsqueda de proyectos robustos para consolidar su portafolio a mediano plazo.
+Al desagregar el valor transado por familias, el comportamiento del gasto guarda total
+proporción con la estructura de costos del proyecto. Como era de esperarse, el motor
+financiero del sector es la familia 8110 (Servicios profesionales de ingeniería), ac umulando
+un histórico superior a los $25 billones. Esto absorbe el núcleo duro y más costoso de nuestra
+consultoría: las perforaciones, las modelaciones hidráulicas complejas y los análisis de
+estabilidad. En paralelo, la familia 8010 (Servicios de asesoría de gestión) reporta el mayor
+volumen individual de contratos, lo que obedece al componente transversal del proyecto
+asociado a la articulación normativa y las mesas técnicas de socialización.
+Por tanto, los códigos asociados a Geología, Cartografía y Evaluación Ambiental operan
+transaccionalmente como nichos altamente especializados, con menores volúmenes de
+contratos. Su inclusión en el proceso es una decisión técnica para cumplir con el Decreto
+1077 de 2015. Al cruzar estas familias especializadas con el gran rubro de la ingeniería civil
+dentro del SECOP II, garantizamos que el algoritmo del sistema notifique a los actores
+correctos. Esta estructura mitiga el riesgo de declarar el proceso desierto y asegura
+propuestas con la solvencia técnica que exige la gestión del riesgo.
+Finalmente, dada la alta especialidad técnica requerida para la ejecución de los Estudios
+Básicos de Gestión del Riesgo que integran modelaciones complejas de avenidas
+torrenciales, geotecnia avanzada y restitución cartográfica, el mercado relevante para este
+proceso de selección se define a escala nacional.
+Gráfico 8 Abastecimiento Estratégico del Mercado – Proveedores Nivel Nacional .
+Fuente: (Agencia Nacional de Contratación Pública Colombia Compra Eficiente, 2026)
+
+Al analizar el origen de los proveedores, se ratifica la necesidad de mantener una
+convocatoria de alcance nacional. Los datos evidencian que departamentos como Bogotá
+D.C. (concentrando el 30.5% del valor histórico) y Antioquia (26.3%) agrupan la mayor
+capacidad instalada y volumen de facturación para estos servicios. Limitar la participación
+pondría en riesgo inminente la pluralidad de oferentes.
+Asimismo, la distribución por Modalidad de Selección demuestra que los procesos
+competitivos movilizan una porción estructural del mercado (más de $15.77 billones de
+pesos). Esto valida que el sector consultor en Colombia está ampliamente habituado a
+participar en modalidades basadas en la evaluación de la calidad y la experiencia,
+condiciones ideales para el Concurso de Méritos que adelantará la Entidad.
+Restringir el análisis de la demanda exclusivamente al departamento del Quindío no
+reflejaría la realidad de la oferta, toda vez que las firmas de ingeniería consultora con la
+capacidad operativa, financiera y tecnológica para ejecutar estos componentes bajo el
+rigor del Decreto 1077 de 2015 operan en todo el territorio colombiano. Por consiguiente,
+el análisis del abastecimiento estratégico se estructuró tomando como base el
+comportamiento histórico del país en la plataforma de Colombia Compra Eficiente,
+garantizando así la libre concurrencia y la pluralidad de oferentes.
+
+
+                                  ANÁLISIS DE LA OFERTA
+El mercado de la oferta para esta interventoría es un oligopolio, compuesto por un número
+limitado de proveedores de servicios intelectuales altamente especializados. Los oferentes
+idóneos son entidades legalmente constituidas (firmas consultoras e interventoras de
+geotecnia e ingeniería) con capacidad demostrada para la auditoría, revisión e integración
+multidisciplinaria de geociencias, geotecnia, ingeniería hidráulica/hidrológica, sismología y
+planificación territorial. El servicio final es indivisible y su objetivo es avalar que los productos
+entregados por el consultor cumplan, como mínimo, con los estándares técnicos de las
+Guías SGC, la norma NSR-10, la Ley 1523 de 2012 y demás complementarias.
+El acceso a este mercado está fuertemente restringido por altas barreras de entrada
+técnicas:
+    1. La idoneidad por experiencia específica demostrable. Los proveedores deben
+       certificar la ejecución exitosa de contratos anteriores de interventoría, supervisión
+       técnica integral y/o consultoría aplicados a estudios de Amenaza, Vulnerabilidad y
+       Riesgo (AVR) para el Ordenamiento Territorial (POT/EOT) a escalas de detalle
+       (1:5.000 o 1:2.000). Esta experiencia debe ser, preferiblemente, en municipios con
+       geografías de ladera andinas, similares a la de Pijao.
+    2. Disponibilidad de personal clave. Los pliegos de condiciones exigirán un equipo de
+       especialistas senior (Director de Interventoría, Especialista Geólogo/Geotecnista,
+       Hidrólogo/Hidráulico, etc.) con titulaciones de posgrado (maestría o doctorado) y una
+       amplia experiencia específica.
+    3. Solvencia financiera y administrativa. El oferente debe demostrar un "músculo
+       financiero" capaz de sostener el flujo de caja operativo de su equipo auditor, ya que
+       los desembolsos del SGR (Sistema General de Regalías) están atados a la
+        aprobación de hitos y pueden sufrir retrasos. Además, deben acreditar una capacidad
+        administrativa robusta para gestionar la complejidad contractual pública y los
+        rigurosos requisitos de auditoría y reporte.
+Con base a lo anterior, se realizaron consultas en la página del portal Colombia Compra
+Eficiente www.colombiacompra.gov.co, para determinar los posibles oferentes que pueden
+participar en este tipo de procesos, teniendo en cuenta el objeto a contratar.
+A nivel regional, de acuerdo con el servicio requerido, y en relación con el objeto y las
+obligaciones de carácter contractual, podrán ofertar al Departamento del Quindío los
+servicios solicitados todas aquellas personas naturales, jurídicas, consorcios o uniones
+temporales, que cumplan con la totalidad de los requisitos mínimos exigidos y cuya actividad
+económica principal esté acorde con la naturaleza del objeto contractual (servicios de
+interventoría y consultoría). No podrán encontrarse incursos en alguna de las inhabilidades
+o incompatibilidades previstas en la ley, ni en conflicto de intereses que pueda afectar el
+normal desarrollo del contrato, así como garantizar el origen lícito de los recursos destinados
+al proyecto o a la ejecución del contrato.
+A continuación, se presenta una muestra de algunas firmas de interventoría y consultoría
+que operan en el país:
+Tabla 10 Oferta de consultorías que operan en el país según el objeto del proyecto.
+
+                                               Perfil y Objeto (Enfoque
+   Empresa          Datos - Contacto                                                      Página Web
+                                                     Interventoría)
+ INGENIAR           OMAR DARÍO              Firma pionera en Colombia con             https://www.ingeniar-
+ RISK               CARDONA                 capacidad      para     ofrecer           risk.com/
+ CAD/CAE            odcardona@ingen         servicios     de    consultoría
+ LTDA.              iar-risk.com            especializada     y   auditoría
+                    Carrera 19A No.         técnica en evaluación de
+                    84-14, Bogotá           amenazas             naturales,
+                                            modelación y gestión del riesgo
+                                            de desastres. Su equipo
+                                            altamente calificado tiene la
+                                            idoneidad para evaluar y
+                                            supervisar modelos de riesgo
+                                            con diferentes niveles de
+                                            resolución.
+ INGETEC,           info@ingetec.com        Organización integrada por                https://www.ingetec.co
+ Ingenieros y       .co                     profesionales con alto nivel de           m.co/
+ Consultores        Carrera 6 No 30a        especialización. Dentro de su
+                    - 30, Bogotá D.C.       estructura operativa cuenta
+                                            con     una     Gerencia     de
+                                            Interventorías específica y
+                                            divisiones     en     Recursos
+                                            Hídricos,      Ambiental      y
+                                            Geotecnia, garantizando la
+                                            capacidad de        control y
+                                            seguimiento a proyectos de
+                                            ingeniería complejos.
+                                       Perfil y Objeto (Enfoque
+  Empresa      Datos - Contacto                                                Página Web
+                                             Interventoría)
+HMV            datospersonales      Empresa de soluciones de              https://www.h-mv.com/
+INGENIERO      @h-mv.com            ingeniería que brinda servicios
+S              Calle 70 # 7 - 30,   de consultoría, interventoría o
+               Bogotá               supervisión y gerencia de
+                                    proyectos        para     múltiples
+                                    sectores. Aportan soluciones
+                                    integrales para el control de
+                                    calidad en estudios técnicos y
+                                    construcción de proyectos.
+ingeniería En CALLE 7 D 43 A 99     Firma         de         ingeniería   https://geoservicios.co
+supervisión   OF 301 en la ciudad   especializada con presencia           m.co/
+SAS           de MEDELLIN           activa en el mercado de
+                                    compras públicas (SECOP).
+                                    Cuenta       con       experiencia
+                                    comprobada en la ejecución de
+                                    interventorías integrales a la
+                                    elaboración        de      estudios
+                                    básicos         de       amenaza,
+                                    vulnerabilidad y riesgo por
+                                    fenómenos de remoción en
+                                    masa,        inundaciones         y
+                                    avenidas torrenciales para
+                                    entes territoriales.
+INGENIERÍA     Víctor     Alberto   Desarrolla proyectos para             https://imasas.com.co/
+Y    MEDIO     Vargas               empresas públicas y privadas a
+AMBIENTE       gerencia@imasas      nivel nacional, abarcando
+IMA S.A.S.     .com.co              obras     civiles     y     gestión
+               Cra 19 # 84 – 30     ambiental. Cuentan con el
+               Of. 101, Bogotá      personal idóneo para ejercer
+                                    supervisión y control técnico
+                                    sobre        el       componente
+                                    ambiental y territorial de los
+                                    estudios.
+UNIVERSID Vicerrector      de       A través de su Facultad de            https://www.uniquindio
+AD     DEL Extensión        y       Ingeniería, la institución tiene la   .edu.co/
+QUINDÍO    Proyección Social        capacidad         de      gestionar
+           vicerrectoriadeext       vínculos mediante su modelo
+           ensionyds@uniqui         de extensión para brindar
+           ndio.edu.co              servicios      de      consultoría,
+           Armenia, Quindío.        auditoría y supervisión técnica,
+                                    aportando               soluciones
+                                    académicas y científicas con
+                                    un enfoque de desarrollo
+                                    regional a las problemáticas de
+                                    los        municipios           del
+                                    departamento.
+
+
+MODELO DE ABASTECIMIENTO ESTRATÉGICO MAE – ANÁLISIS DE LA OFERTA
+Para comprender la capacidad de respuesta del mercado frente a la complejidad técnica de los
+Estudios Básicos de Gestión del Riesgo para el municipio de Pijao, enfocamos el análisis en la
+estructura de la oferta. Utilizando los mismos códigos UNSPSC (771115, 771015, 801015,
+811517, 811516, 811015 y 811519), evaluamos el ecosistema de consultores a nivel nacional en
+la plataforma de Colombia Compra Eficiente.
+Los datos nos arrojan un panorama altamente favorable y competitivo para los intereses de la
+Gobernación del Quindío:
+Gráfico 9 Abastecimiento Estratégico del Mercado – Nivel Nacional.
+Fuente: (Agencia Nacional de Contratación Pública Colombia Compra Eficiente, 2026)
+
+Para comprender la capacidad de respuesta del mercado frente a la complejidad técnica de
+los Estudios Básicos de Gestión del Riesgo en Pijao, el análisis de abastecimiento
+estratégico debe enfocarse en la estructura de la oferta. Al evaluar el ecosistema de
+consultores a nivel nacional a través de los códigos UNSPSC seleccionados, la plataf orma
+de Colombia Compra Eficiente registra históricamente una participación por encima de los
+86 mil proveedores. Esta cifra es un indicador decisivo de diversificación que descarta
+la existencia de un mercado monopolístico u oligopólico, garantizando a la Gobernación
+una pluralidad de oferentes con la capacidad instalada para estructurar propuestas
+competitivas y mitigando ampliamente el riesgo de una declaratoria de desierta.
+
+
+Al profundizar en el comportamiento transaccional de estos proveedores, se observa una
+clara evolución hacia la consolidación de proyectos integrales. Si bien los datos muestran
+que el número total de contratos ha presentado una tendencia a la baja en los últimos años,
+el gasto total anual se ha mantenido estable, superando promedios de 3 billones de pesos
+en vigencias recientes. Esta dinámica infiere que las entidades estatales han dejado de
+fragmentar los estudios contratarlos en consultorías de mayor extensión, lo cual valida
+técnica y financieramente la estrategia adoptada por este gobierno del Quindío de agrupar
+los análisis de remoción en masa, inundaciones y avenidas torrenciales en un único y sólido
+contrato.
+
+
+Gráfico 10 Abastecimiento Estratégico del Mercado – Proveedores Nivel Nacional.
+Fuente: (Agencia Nacional de Contratación Pública Colombia Compra Eficiente, 2026)
+Al analizar la estructura societaria con la que los consultores acuden al mercado, las cifras
+evidencian que más del 94% del valor transado históricamente se ha adjudicado a
+proponentes individuales. No obstante, lejos de ser una limitante, este indicador traza una
+directriz estratégica fundamental para la estructuración de nuestros pliegos de condiciones.
+Desde la perspectiva de la demanda institucional, el benchmarking de las entidades
+contratantes revela que los mayores dinamizadores de este mercado son organismos del
+orden nacional y regional con un perfil eminentemente técnico. Instituciones como
+ENTerritorio, el Ministerio de Vivienda, diversas Corporaciones Autónomas Regionales y el
+Servicio Geológico Colombiano lideran la inversión en estos códigos UNSPSC. La
+concurrencia de estos actores ratifica que la Gobernación del Quindío está impulsando un
+proyecto de alto impacto que se alinea con la visión de Desarrollo Territorial del Estado,
+estructurando un proceso que compite con el mismo nivel de exigencia técnica que las
+entidades rectoras de la política nacional de gestión del riesgo.
+Finalmente, al evaluar el comportamiento transaccional según la modalidad de selección, se
+observa un robusto segmento competitivo que supera los 3 billones de pesos, a pesar de la
+histórica prevalencia de la contratación directa o regímenes especiales en el sector. Al
+enmarcar el presente proceso bajo la modalidad de Concurso de Méritos, la Entidad se
+inserta estratégicamente en este nicho de alta competitividad y transparencia. Esta decisión
+afirma que el Estado prioriza la selección objetiva basada en la idoneidad, el rigor
+metodológico y la experiencia específica del equipo consultor.
+ANÁLISIS DE VIABILIDAD PARA LA LIMITACIÓN DEL PROCESO DE SELECCIÓN A
+                               MIPYMES
+Para la presente contratación, cuyo objeto es "REALIZAR LA INTERVENTORÍA
+ADMINISTRATIVA, TÉCNICA, FINANCIERA Y JURÍDICA DEL CONTRATO DE
+CONSULTORÍA CUYO OBJETO ES: REALIZAR LOS ESTUDIOS BÁSICOS DE GESTIÓN
+DEL RIESGO DE DESASTRES POR FENÓMENOS DE MOVIMIENTOS DE REMOCIÓN
+EN MASA, INUNDACIONES Y AVENIDAS TORRENCIALES EN EL MUNICIPIO DE PIJAO,
+DEPARTAMENTO DEL QUINDÍO PARA DAR CUMPLIMIENTO A LA NORMATIVIDAD
+VIGENTE SOBRE LA MATERIA", con un presupuesto oficial de DOSCIENTOS TREINTA Y
+TRES MILLONES QUINIENTOS SESENTA Y OCHO MIL SETECIENTOS CUARENTA Y
+TRES PESOS M/CTE ($233.568.743), la Entidad procede a analizar la viabilidad de limitar
+el presente proceso de selección a MiPymes. Dicha posibilidad encuentra respaldo en el
+artículo 12 de la Ley 2069 de 2020 y en los artículos 2.2.1.2.4.2.2 y 2.2.1.2.4.2.3 del Decreto
+1082 de 2015, modificado por el Decreto 1860 de 2021, disposiciones que facultan a las
+entidades estatales para limitar sus procesos de selección a MiPymes como mecanismo de
+fomento empresarial. No obstante, el ejercicio de esta facultad debe articularse con el criterio
+fijado por los Acuerdos Comerciales Internacionales suscritos por Colombia, los cuales
+establecen un umbral de CIENTO VEINTICINCO MIL DOLARES ($125.000 USD) a partir
+del cual resulta exigible el trato nacional a oferentes extranjeros; por esta razón, el primer
+elemento a verificar es si la cuantía del proceso se ubica por debajo o por encima de dicho
+umbral.
+Al convertir el presupuesto oficial a la tasa representativa del mercado vigente, los
+DOSCIENTOS TREINTA Y TRES MILLONES QUINIENTOS SESENTA Y OCHO MIL
+SETECIENTOS CUARENTA Y TRES PESOS M/CTE ($233.568.743), cifra sustancialmente
+inferior al umbral de CIENTO VEINTICINCO MIL DOLARES ($125.000 USD) previsto en los
+referidos Acuerdos Comerciales. Esta constatación tiene dos consecuencias directas: de una
+parte, confirma que el proceso no está sujeto a las obligaciones de trato nacional que
+exigirían abrir la competencia a oferentes extranjeros; de otra parte, habilita jurídicamente a
+la Entidad para limitar la participación a MiPymes, en la medida en que la normatividad
+vigente permite, y propicia, esta exclusión precisamente en los procesos cuya cuantía no
+alcanza los mínimos internacionales, con el fin de fortalecer el tejido empresarial nacional y
+local.
+Superada la verificación normativa relativa a la cuantía, es necesario confirmar que existen
+condiciones reales de mercado que permitan materializar la limitación sin afectar la
+pluralidad de oferentes ni la calidad de la ejecución contractual. Al respecto, el estudio de
+mercado adelantado por la Entidad evidencia la existencia de una pluralidad de oferentes
+con calidad de MiPyme que cuentan con la capacidad técnica, financiera y organizacional
+suficiente para ejecutar el objeto de la interventoría. La especialización requerida en
+geociencias, geotecnia e ingeniería hidráulica, disciplinas centrales para el desarrollo del
+presente concurso, se encuentra ampliamente representada en el sector de las MiPymes
+nacionales, lo que descarta cualquier riesgo de insuficiencia de oferentes calificados o de
+restricción indebida a la competencia.
+Con todo, la limitación a MiPymes no opera de manera automática, sino que queda sujeta al
+condicionamiento previsto en la normatividad aplicable: su efectividad depende de que,
+como mínimo, dos (2) MiPymes interesadas soliciten formalmente dicha limitación ante la
+Entidad, a más tardar dentro del día hábil anterior a la fecha prevista para la apertura del
+proceso. Este requisito opera como garantía adicional de que la medida responde a un
+interés real y verificable del sector, y no a una decisión unilateral de la Entidad desprovista
+de respaldo en el mercado.
+En mérito de lo expuesto, se concluye de manera taxativa que SÍ ES VIABLE limitar el
+presente proceso de selección a MiPymes. La cuantía del contrato, al ser inferior al umbral
+de CIENTO VEINTICINCO MIL DOLARES ($125.000 USD) fijado por los Acuerdos
+Comerciales Internacionales, no solo permite la limitación, sino que la favorece al liberar al
+proceso de las obligaciones de trato nacional derivadas de dichos acuerdos; a lo anterior se
+suma la comprobada existencia de una pluralidad de MiPymes con la idoneidad técnica
+requerida, circunstancias que en conjunto permiten a la Entidad Estatal direccionar sus
+recursos hacia el fortalecimiento del tejido empresarial nacional y local, de manera legal,
+transparente y conforme a los fines de la contratación estatal.
+                            VIABILIDAD MIPYME
+ Umbral MIPYMES en US$                $125.000
+ Umbral MIPYMES en pesos COL          $ 511.708.497
+ Presupuesto Oficial                  $233.568.743
+ Aplica / No Aplica                   SI APLICA
+
+
+Lo anterior, permite evidenciar que es viable que el presente proceso de selección aplique
+limitado a Mipymes Nacionales, teniendo en cuenta que existen proveedores que están en
+capacidad de ejecutar lo requerido, adicionalmente, el presupuesto del proceso no
+sobrepasa el valor del umbral de Mipymes.
+              MARCO REGULATORIO Y CANALES DE CONTRATACIÓN
+El marco regulatorio que rige esta contratación es dual, cubriendo tanto la exigencia técnico-
+legal del proyecto como el deber de vigilancia administrativa. Por un lado, la Ley 1523 de
+2012, el Decreto 1077 de 2015, la norma NSR-10 y las Guías Metodológicas del SGC definen
+los estándares de ejecución ineludibles para los estudios básicos de gestión del riesgo. Por
+ende, la interventoría se erige como el mecanismo legal obligatorio para auditar, supervisar
+y avalar que los productos entregados por el consultor cumplan milimétricamente con dichas
+exigencias de superior jerarquía territorial.
+
+A nivel de control público, esta contratación obedece al mandato expreso del Artículo 83 de
+la Ley 1474 de 2011 (Estatuto Anticorrupción), el cual obliga a las entidades estatales a
+contratar interventoría externa cuando el seguimiento del contrato principal requiera
+conocimientos altamente especializados (geociencias, hidrología) de los cuales carece la
+planta de personal del municipio.
+
+A este marco se vincula el proyecto aprobado dentro de la plataforma nacional MGA con el
+código BPIN 2022003630014: “REALIZAR LA INTERVENTORÍA ADMINISTRATIVA,
+TÉCNICA, FINANCIERA Y JURÍDICA DEL CONTRATO DE CONSULTORÍA CUYO
+OBJETO ES: REALIZAR LOS ESTUDIOS BÁSICOS DE GESTIÓN DEL RIESGO DE
+DESASTRES POR FENÓMENOS DE MOVIMIENTOS DE REMOCIÓN EN MASA,
+INUNDACIONES Y AVENIDAS TORRENCIALES EN EL MUNICIPIO DE PIJAO,
+DEPARTAMENTO DEL QUINDÍO PARA DAR CUMPLIMIENTO A LA NORMATIVIDAD
+VIGENTE SOBRE LA MATERIA”, sometiendo dicho proyecto a vigilancia y control directo
+de la Contraloría General y exigiendo una trazabilidad administrativa y financiera total.
+
+La intersección de estas normas define un único canal de contratación legalmente viable. El
+Numeral 3 del Artículo 2 de la Ley 1150 de 2007 es taxativo: al tratarse de un servicio de
+consultoría intelectual altamente especializado enfocado en el control y la supervisión
+(ingeniería, geotecnia), es legalmente inviable usar una Licitación Pública, que prioriza el
+precio. La ley obliga a utilizar la modalidad de Concurso de Méritos, diseñada
+específicamente para primar la calidad técnica y la idoneidad del equipo auditor sobre el
+costo económico.
+
+                      ESPECIFICACIONES TECNICAS -ALCANCE
+
+
+VALOR ESTIMADO Y PRESUPUESTO OFICIAL:
+El valor estimado del presupuesto oficial para el presente proceso de selección es de
+DOSCIENTOS TREINTA Y TRES MILLONES QUINIENTOS SESENTA Y OCHO MIL
+SETECIENTOS CUARENTA Y TRES PESOS M/CTE ($233.568.743). La definición de este
+presupuesto es el resultado del estudio de mercado realizado por LA ENTIDAD en el
+segundo semestre del año 2026. Para su determinación, se solicitaron cotizaciones a
+empresas especializadas en el sector, obteniendo tres (3) propuestas económicas válidas a
+precios corrientes por parte de las firmas: JUAN JOSE PIEDRAHITA (por un valor total de
+DOSCIENTOS VEINTE MILLONES CUATROCIENTOS OCHENTA Y CINCO MIL
+DOSCIENTOS SETENTA PESOS M/CTE ($220.485.270)), KATALAB (por un valor total de
+DOSCIENTOS CUARENTA Y SIETE MILLONES DE PESOS M/CTE ($247.000.000)) y
+finalmente CONSTRUSUELOS SA (por un valor total de DOSCIENTOS TREINTA Y TRES
+MILLONES DOSCIENTOS VEINTE MIL NOVECIENTOS SESENTA PESOS M/CTE
+($233.220.960)).
+
+Al aplicar la metodología de promedio aritmético simple sobre estas cotizaciones, el estudio
+de mercado arrojó un valor resultante de DOSCIENTOS TREINTA Y TRES MILLONES
+QUINIENTOS SESENTA Y OCHO MIL SETECIENTOS CUARENTA Y TRES PESOS
+M/CTE ($233.568.743), valor que se establece como el presupuesto oficial para la presente
+contratación e incluye todos los costos directos, indirectos, impuestos (IVA) y demás
+erogaciones necesarias para la correcta ejecución del objeto contractual.
+
+Al estructurar el presupuesto oficial con base en cotizaciones a precios corrientes de la
+presente vigencia (2026), la Entidad garantiza la suficiencia financiera real del proceso
+frente a la estructura actual de costos (salarios del personal especialista auditor, transporte
+y logística de verificación), asegurando que esta interventoría de complejidad técnica no
+sufra desfinanciación. Este valor promedio integra la totalidad de los costos directos e
+indirectos necesarios para la supervisión y control integral del proyecto, tales como:
+
+   •   Honorarios del Director de Interventoría, especialistas de interventoría (geólogos,
+       hidrólogos, especialistas en SIG, geotecnistas) y profesionales de apoyo.
+
+   •   Costos de transporte, viáticos y logística para el acompañamiento, seguimiento y
+       verificación en campo en la geografía de ladera del Municipio de Pijao.
+
+   •   Auditoría, supervisión técnica y validación en campo de las perforaciones
+       mecánicas, manuales y apiques; así como la revisión minuciosa y aval de los
+       resultados de los ensayos de laboratorio de suelos y rocas entregados por el
+       consultor.
+    •   Revisión, validación y emisión de conceptos técnicos sobre las modelaciones
+        hidráulicas, hidrológicas, procesamiento de información cartográfica y estructuración
+        topológica de la Geodatabase (SIG).
+
+    •   Costos de administración, imprevistos y utilidad (AIU), pólizas de responsabilidad
+        civil y garantías.
+
+Modalidad del Precio y Riesgo Económico
+
+La modalidad de contratación es por PRECIO GLOBAL FIJO SIN FÓRMULA DE
+REAJUSTE
+
+Dado que el presupuesto oficial se encuentra estructurado con base en precios de mercado
+de la vigencia 2026, la Entidad no reconocerá ajustes adicionales, indexaciones ni
+restablecimientos por cambios de vigencia fiscal. Los proponentes deben interiorizar dentro
+de su estructura de costos y provisiones las contingencias y variaciones macroeconómicas
+normales (IPC, fluctuaciones de la TRM, incrementos operativos) que puedan presentarse
+durante el plazo de ejecución. El presupuesto oficial actúa como un techo máximo
+inamovible, por lo que el riesgo de variación de precios es asumido integralmente por el
+contratista, quien deberá realizar una rigurosa planeación financiera para garantizar la
+ejecución del 100% de las obligaciones de supervisión, auditoría y control técnico exigidas
+dentro del valor ofertado.
+
+•   NOTA 1: Se reitera que es obligación del interventor durante la ejecución del contrato,
+    asumir de manera íntegra los impuestos, tasas, y contribuciones a que haya lugar, de
+    conformidad con las normas de carácter nacional, departamental y municipal, de
+    conformidad con el valor de la oferta económica presentada.
+
+•   NOTA 2: De acuerdo con las normas departamentales y municipales que estatuyen los
+    impuestos regionales y locales, se causan algunos impuestos a la legalización del
+    contrato, y otros con su ejecución. Motivo por el cual, el interventor deberá sufragar para
+    legalización del contrato aquellos que correspondan según la norma, y los demás serán
+    descontados de las actas parciales y del acta final del contrato, de acuerdo con los
+    porcentajes establecidos en la normatividad correspondiente.
+
+•   NOTA 3: Los contratos de interventoría (al ser una modalidad derivada de la consultoría)
+    no están expresamente excluidos por el artículo 476 del Estatuto Tributario y
+    disposiciones concordantes, por lo cual se encuentran gravados con el impuesto sobre
+    las ventas (IVA), independientemente de su finalidad, debiendo aplicarse el gravamen
+    sobre el valor percibido por el responsable.
+
+•   NOTA 4: Se informa desde ahora que a la fecha el certificado de disponibilidad de
+    recursos que soporta el presente proceso de contratación se encuentra vigente, y que
+    además teniendo en cuenta que los recursos con los cuales se asumirá el compromiso
+    de la presente contratación provienen del Sistema General de Regalías (SGR), los
+    mismos no requieren autorización de vigencias futuras sin importar el plazo de ejecución
+    del contrato.
+La forma como la entidad calculó los precios para establecer el presupuesto y soportar sus
+cálculos de presupuesto en la estimación de aquellos, se publicará en virtud de lo establecido
+en el artículo 2.2.1.1.2.1.1. Estudios y documentos previos, numeral 4 del Decreto 399 de
+2021.
+Tabla 11 Relación cotizaciones para estimar el valor promedio y de donde se estima el valor del presupuesto de
+la entidad,
+
+JUAN JOSÉ PIEDRAHITA:
+
+
+
+
+KATALAB:
+CONSTRUSUELOS:
+NOTA ACLARATORIA METODOLÓGICA SOBRE EL ESTUDIO DE MERCADO
+
+Parágrafo de Estructuración Presupuestal: Se precisa que las cotizaciones allegadas en
+la presente etapa de indagación de mercado, cuyas matrices económicas se exponen
+anteriormente, fueron solicitadas, estructuradas y presentadas bajo la modalidad contractual
+de Precio Global Fijo, en estricta sujeción a los requerimientos, obligaciones y entregables
+definidos en el Anexo 1 (Alcance Técnico) suministrado por la Entidad.
+
+Bajo esta modalidad tipificada en la normativa de contratación pública, el proponente asume
+de manera integral la matriz de riesgos y la totalidad de los costos asociados a la ejecución
+del proyecto, incluyendo, pero sin limitarse, a honorarios de personal especializado, logística,
+viáticos, herramientas tecnológicas, presencia institucional en territorio y costos indirectos a
+Por consiguiente, la variabilidad en la presentación y desagregación interna de los rubros
+dentro de las propuestas económicas obedece exclusivamente a la autonomía administrativa,
+las eficiencias de mercado y la estructura de costos particular de cada oferente.
+
+Para efectos de la consolidación del Presupuesto Oficial, la Entidad valida técnica y
+jurídicamente el VALOR TOTAL GLOBAL ofertado por cada firma, toda vez que este monto
+garantiza el cumplimiento íntegro y transversal del alcance técnico requerido para la
+interventoría, sin que sea exigible, vinculante u obligatoria una desagregación financiera
+homogenizada por actividades unitarias para la validez de las cotizaciones.
+
+La revisión de la matriz de cotizaciones evidencia un comportamiento de mercado
+competitivo y coherente con la alta especialidad del servicio de interventoría a contratar. Se
+observa que dos de las tres ofertas (Construsuelos SA y Katalab) convergen en un rango
+superior estrecho entre los DOSCIENTOS TREINTA Y TRES MILLONES DOSCIENTOS
+VEINTE MIL NOVECIENTOS SESENTA PESOS M/CTE ($233.220.960) y DOSCIENTOS
+CUARENTA Y SIETE MILLONES DE PESOS M/CTE ($247.000.000), demostrando un claro
+consenso del sector frente al músculo técnico y financiero requerido para garantizar un
+equipo auditor de alto nivel. Por su parte, la cotización de JUAN JOSE PIEDRAHITA con
+DOSCIENTOS VEINTE MILLONES CUATROCIENTOS OCHENTA Y CINCO MIL
+DOSCIENTOS SETENTA PESOS M/CTE ($220.485.270), opera como el límite inferior de
+la muestra.
+
+Al integrar la totalidad de las ofertas mediante la metodología del promedio aritmético simple,
+el techo se estabiliza, ubicando el Presupuesto Oficial en DOSCIENTOS TREINTA Y TRES
+MILLONES QUINIENTOS SESENTA Y OCHO MIL SETECIENTOS CUARENTA Y TRES
+PESOS M/CTE ($233.568.743).
+
+Estratégicamente, la aplicación de esta metodología dota al proceso de una "holgura
+financiera" saludable. Al fijar el techo presupuestal ponderando tanto las ofertas de alto perfil
+como la más austera, la Entidad mitiga el riesgo de una declaratoria de desierta por
+desfinanciación y asegura que la futura firma interventora adjudicataria cuente con el margen
+de maniobra necesario para absorber las rigideces operativas propias de la modalidad de
+contratación a precio global fijo.
+
+Este presupuesto garantiza la suficiencia financiera para cubrir los costos de mercado de
+2026, asegurando que la interventoría a la consultoría de alta complejidad técnica no sufra
+desfinanciación. El valor incluye todos los costos directos e indirectos necesarios para
+garantizar el ejercicio integral del seguimiento, control y aval técnico, administrativo,
+financiero y jurídico, tales como:
+
+•     Personal Especializado: Honorarios y/o salarios con sus prestaciones sociales del
+      equipo supervisor del equipo supervisor, que incluye al director de interventoría,
+      geólogos, hidrólogos, especialistas en SIG, Geotecnista y personal de apoyo,
+      requeridos para la revisión detallada y el aval de los productos.
+
+•     Logística de Campo: Costos de transporte, viáticos y operación en la geografía de
+      ladera del Municipio de Pijao, indispensables para la inspección in situ y el
+      seguimiento estricto a las labores de recolección de información primaria por parte
+      del Consultor.
+
+•     Supervisión de Investigación Geotécnica: Recursos logísticos y técnicos para
+      presenciar, auditar y verificar la correcta ejecución de las perforaciones mecánicas
+      y manuales, apiques y exploración del subsuelo, garantizando el cumplimiento de
+      la normativa vigente.
+
+•     Control de Ensayos de Laboratorio: Capacidad para el seguimiento, revisión y
+      validación de los resultados de los análisis de muestras de suelos y rocas
+      presentados por el Consultor para la caracterización física y mecánica.
+
+•     Revisión del Componente Tecnológico: Disposición de los recursos tecnológicos
+      (hardware y software) necesarios por parte de la interventoría para auditar,
+      verificar y validar las modelaciones hidráulicas, hidrológicas y el correcto
+      procesamiento de la información cartográfica y bases de datos (GDB).
+
+
+FORMA DE PAGO
+
+El Departamento del Quindío cancelará el valor del contrato mediante pagos parciales,
+sujetos a la entrega y recibo a satisfacción de los productos entregables definidos en el
+anexo técnico, avalados por la interventoría. El esquema de desembolsos se proyecta de la
+siguiente manera:
+
+    NRO.   % DEL                                                       DESGLOSE DEL
+                                  HITO POR AUDITAR
+    PAGO CONTRATO                                                          PAGO
+
+                                                                    Se realiza pago del 10%
+                        COMPONENTE I: SUPERVISAR
+                                                                    sobre el valor total del
+                        FASE       DE   ALISTAMIENTO,
+1        10%                                                        contrato al radicar ante
+                        PLANEACIÓN Y SOCIALIZACIÓN DE
+                                                                    la entidad contratante el
+                        INICIO Y COMPONENTE II: AUDITAR
+                                                                    informe de actividades
+                        GESTIÓN DE INFORMACIÓN E
+                                                                    ya referenciado, con el
+NRO.   % DEL                                                    DESGLOSE DEL
+                          HITO POR AUDITAR
+PAGO CONTRATO                                                       PAGO
+
+                INSUMOS                       BÁSICOS       concepto técnico de
+                (CARTOGRAFÍA Y MDT)                         viabilidad de los ítems
+                                                            del hito por Auditar 1 y la
+                El INTERVENTOR no autorizará el inicio
+                                                            certificación            de
+                de la ejecución material del proyecto hasta
+                                                            aprobación la idoneidad
+                tanto no haya auditado, verificado y
+                                                            y     calidad   de      los
+                aprobado los siguientes productos productos               entregados
+                entregados por el Consultor, los cuales por el consultor.
+                son indispensables para el trámite del
+                Pago 1:
+
+                  •    Auditar el Plan de Trabajo
+                       Operativo (PTO).
+                  •    Validar el Cronograma detallado de
+                       actividades
+                  •    Aprobar el Plan de exploración de
+                       campo
+                  •    Fiscalizar     el    Módulo     de
+                       socialización,    participación  y
+                       construcción colectiva con la
+                       comunidad.
+
+                (Ver Componentes 1 y 2 del Anexo
+                Técnico)
+                Lo anterior se debe presentar ante la
+                entidad contratante mediante un informe
+                de actividades que identifique las
+                acciones adelantadas para procesar la
+                información y las tomas de decisiones
+                frente al avance presentado por el
+                consultor con los soportes adjuntos de la
+                información tramitada.
+
+                COMPONENTE III (PAGO PARCIAL): Se realiza pago del 10%
+                SUPERVISIÓN Y CONTROL TÉCNICO A sobre el valor total del
+                LOS ESTUDIOS DE AMENAZA POR contrato al radicar ante
+                MOVIMIENTOS            EN         MASA la entidad contratante el
+                (EXPLORACIÓN Y LABORATORIO)              informe de actividades
+                                                         ya referenciado, con el
+2   10%         El Interventor deberá supervisar, hacer
+                                                         concepto técnico de
+                seguimiento, verificar y avalar la
+                                                         viabilidad de los ítems
+                caracterización de la estabilidad de las
+                                                         del hito parcial por
+                laderas del municipio elaborada por el
+                                                         Auditar      3   y     la
+                Consultor, asegurando el rigor y
+                                                         certificación         de
+                cumplimiento técnico de las siguientes
+                                                         aprobación la idoneidad
+                fases:
+                                                         y     calidad  de    los
+NRO.   % DEL                                                  DESGLOSE DEL
+                         HITO POR AUDITAR
+PAGO CONTRATO                                                     PAGO
+
+                Mapa de Inventario de Procesos bajo productos     entregados
+                estándar MENCHU.                    por el consultor.
+                Fase    1:  Diagnóstico      y    factores
+                detonantes.
+                Fase 2: Caracterización geológica y
+                geomorfológica.
+                (Ver Componentes 3 del Anexo Técnico)
+                Lo anterior se debe presentar ante la
+                entidad contratante mediante un informe
+                de actividades que identifique las
+                acciones adelantadas para procesar la
+                información y las tomas de decisiones
+                frente al avance presentado por el
+                consultor con los soportes adjuntos de la
+                información tramitada.
+
+                COMPONENTE III (PAGO PARCIAL):
+                SUPERVISIÓN Y CONTROL TÉCNICO A
+                LOS ESTUDIOS DE AMENAZA POR
+                MOVIMIENTOS       EN      MASA
+                (EXPLORACIÓN Y LABORATORIO)
+                El Interventor deberá supervisar, hacer Se realiza pago del 10%
+                seguimiento, verificar y avalar la sobre el valor total del
+                caracterización de la estabilidad de las contrato al radicar ante
+                laderas del municipio elaborada por el la entidad contratante el
+                Consultor, asegurando el rigor y informe de actividades
+                cumplimiento técnico de las siguientes ya referenciado, con el
+                fases:                                   concepto técnico de
+3   10%                                                  viabilidad de los ítems
+                Fase 3: Exploración geotécnica y ensayos del hito parcial por
+                de laboratorio (cumpliendo suficiencia Auditar        3     y     la
+                exploratoria).                           certificación           de
+                Fase 4: Análisis de estabilidad y aprobación la idoneidad
+                zonificación final de la amenaza.        y     calidad    de    los
+                                                         productos      entregados
+                (Ver Componentes 3 del Anexo Técnico) por el consultor.
+                Lo anterior se debe presentar ante la
+                entidad contratante mediante un informe
+                de actividades que identifique las
+                acciones adelantadas para procesar la
+                información y las tomas de decisiones
+                frente al avance presentado por el
+NRO.   % DEL                                                     DESGLOSE DEL
+                          HITO POR AUDITAR
+PAGO CONTRATO                                                        PAGO
+
+                consultor con los soportes adjuntos de la
+                información tramitada.
+
+                COMPONENTE IV: INTERVENTORÍA A
+                LOS ESTUDIOS DE AMENAZA POR
+                INUNDACIÓN
+                El Interventor deberá supervisar, hacer
+                seguimiento técnico, verificar y avalar la
+                zonificación de la           amenaza por
+                fenómenos               hidrometeorológicos
+                elaborada por el Consultor. Para ello,
+                deberá garantizar que el Consultor realice
+                una correcta diferenciación técnica entre Se realiza pago del 20%
+                inundaciones        rápidas    y     lentas, sobre el valor total del
+                asegurando la calidad y el rigor técnico de contrato al radicar ante
+                los     insumos     generados     para la la entidad contratante el
+                reglamentación de los usos del suelo en el informe de actividades
+                EOT, a través de las siguientes fases:       ya referenciado, con el
+                                                             concepto técnico de
+4   20%
+                  • Fase 1: Hidrología y análisis de viabilidad de los ítems
+                       frecuencias.                          del hito por Auditar 4 y la
+                  • Fase 2: hidráulica y batimetría.         certificación            de
+                  • Fase 3: Modelación hidráulica y aprobación la idoneidad
+                       análisis de escenarios.               y     calidad   de      los
+                Fase 4: Zonificación y análisis de productos               entregados
+                amenaza por inundaciones                     por el consultor.
+                (Ver Componentes 4 del Anexo Técnico).
+                Lo anterior se debe presentar ante la
+                entidad contratante mediante un informe
+                de actividades que identifique las
+                acciones adelantadas para procesar la
+                información y las tomas de decisiones
+                frente al avance presentado por el
+                consultor con los soportes adjuntos de la
+                información tramitada.
+
+                COMPONENTE V: INTERVENTORÍA A Se realiza pago del 10%
+                LOS ESTUDIOS DE AMENAZA POR sobre el valor total del
+                AVENIDAS TORRENCIALES                      contrato al radicar ante
+                                                           la entidad contratante el
+5   10%         El Interventor deberá supervisar, hacer informe de actividades
+                seguimiento técnico, verificar y avalar la ya referenciado, con el
+                zonificación de la        amenaza por concepto técnico de
+                fenómenos hidrometeorológicos realizada viabilidad de los ítems
+                por el Consultor. Será responsabilidad del del hito por Auditar 5 y la
+NRO.   % DEL                                                     DESGLOSE DEL
+                          HITO POR AUDITAR
+PAGO CONTRATO                                                        PAGO
+
+                Interventor controlar que se aplique la certificación                  de
+                correcta diferenciación técnica entre aprobación la idoneidad
+                Inundaciones y Avenidas Torrenciales y               calidad    de    los
+                (flujos de lodo, flujos de detritos y/o flujos productos      entregados
+                hiperconcentrados),       certificando       la por el consultor.
+                idoneidad de los insumos destinados a la
+                reglamentación de usos del suelo en el
+                EOT, mediante el control de las siguientes
+                fases:
+                  •   Fase           1:         análisis
+                      hidrometeorológico, hidrológico
+                      y de frecuencias para avenidas
+                      torrenciales.
+                  •   Fase 2: análisis hidráulico–
+                      torrencial,    geometría      del
+                      cauce       y     levantamientos
+                      batimétricos.
+                  •   Fase 3: modelación hidráulico–
+                      torrencial y análisis de escenarios.
+                  •   Fase 4: zonificación y análisis de
+                      amenaza por avenidas torrenciales
+
+
+                (Ver Componentes 5 del Anexo Técnico).
+                Lo anterior se debe presentar ante la
+                entidad contratante mediante un informe
+                de actividades que identifique las
+                acciones adelantadas para procesar la
+                información y las tomas de decisiones
+                frente al avance presentado por el
+                consultor con los soportes adjuntos de la
+                información tramitada.
+
+                                                           Se realiza pago del 10%
+                COMPONENTE VI: INTERVENTORÍA A
+                                                           sobre el valor total del
+                LA ZONIFICACIÓN INTEGRAL Y
+                                                           contrato al radicar ante
+                GESTIÓN DEL RIESGO EN EL
+                                                           la entidad contratante el
+                ORDENAMIENTO
+                                                           informe de actividades
+6   10%                                                    ya referenciado, con el
+                El Interventor deberá supervisar, hacer
+                                                           concepto técnico de
+                seguimiento técnico, verificar y avalar la
+                                                           viabilidad de los ítems
+                integración espacial de los resultados
+                obtenidos en los componentes de del hito por Auditar 6 y la
+                movimientos en masa, inundación y certificación                    de
+                avenidas torrenciales realizada por el     aprobación   la idoneidad
+                Consultor. Deberá garantizar la calidad y       calidad     de    los
+NRO.   % DEL                                                   DESGLOSE DEL
+                          HITO POR AUDITAR
+PAGO CONTRATO                                                      PAGO
+
+                técnica en la generación de la Zonificación productos  entregados
+                de Amenazas Naturales del Municipio y la por el consultor.
+                correcta delimitación de las Áreas con
+                Condición de Riesgo, asegurando que
+                cumplan con la rigurosidad requerida para
+                servir como lineamientos de incorporación
+                para el Esquema de Ordenamiento
+                Territorial (EOT), mediante el control de
+                los siguientes elementos:
+
+                  • Cartografía: Revisión, validación y
+                    aprobación técnica de toda la
+                    cartografía    producto    de   los
+                    estudios.
+                  • Fase 1: superposición y álgebra de
+                    mapas
+                  • Fase 2: análisis de elementos
+                    expuestos
+                  • Fase 3: delimitación de áreas con
+                    condición de riesgo
+                 • Fase 4: lineamientos para el manejo
+                    del riesgo
+
+
+                 (Ver Componente 6 del Anexo Técnico).
+                Lo anterior se debe presentar ante la
+                entidad contratante mediante un informe
+                de actividades que identifique las
+                acciones adelantadas para procesar la
+                información y las tomas de decisiones
+                frente al avance presentado por el
+                consultor con los soportes adjuntos de la
+                información tramitada.
+
+                COMPONENTE VII: INTERVENTORÍA AL
+                CIERRE, CONSOLIDACIÓN Y GDB
+                FINAL
+                                                            Se realiza pago del 20%
+                El Interventor deberá supervisar, verificar
+                                                            sobre el valor total del
+                y avalar que el Consultor entregue toda la
+7   20%                                                     contrato al radicar ante
+                información debidamente estructurada y
+                                                            la entidad contratante el
+                organizada,         garantizando         su
+                perdurabilidad, trazabilidad y viabilidad informe de actividades
+                para su uso oficial. Para ello, deberá ya                referenciado
+                ejercer control sobre las siguientes fases: (Revisión   de   la GDB
+                                                            verificando la calidad del
+                   • Fase 1: estructuración de la dato y topología), con el
+NRO.   % DEL                                                        DESGLOSE DEL
+                                 HITO POR AUDITAR
+PAGO CONTRATO                                                           PAGO
+
+                              Geodatabase (gdb) y calidad del concepto técnico de
+                              dato                               viabilidad de los ítems
+                          • Fase 2: socialización de resultados del hito por Auditar 7, la
+                          • Fase       3:     transferencia  de certificación           de
+                              conocimiento.                      aprobación la idoneidad
+                       Nota Paz y salvo                          y    calidad    de    los
+                                                                 productos    entregados
+                       (Ver Componente 7 del Anexo Técnico).
+                                                                 por el consultor y recibo
+                       Lo anterior se debe presentar ante la a Satisfacción Final y
+                       entidad contratante mediante un informe firma del Acta de
+                       de actividades que identifique las Liquidación                  del
+                       acciones adelantadas para procesar la Consultor.
+                       información y las tomas de decisiones
+                       frente al avance presentado por el
+                       consultor con los soportes adjuntos de la
+                       información tramitada.
+
+                                                                Se realiza un único pago
+                                                                final por entrega de
+                       CIERRE  Y            LIQUIDACIÓN     DEL
+8          10%                                                  cierre y finalización en
+                       CONTRATO
+                                                                total cumplimiento del
+                                                                presente contrato.
+
+TOTAL 100%             ALINEACIÓN TOTAL DE FASES CON EL CONSULTOR
+
+
+Nota: Todos los pagos están condicionados a la aprobación del equipo de apoyo a
+la supervisión del Gobierno del Quindío y al cumplimiento de los aportes al Sistema de
+Seguridad Social Integral y Parafiscales.
+
+GRAVAMENES, IMPUESTOS, TASAS Y CONTRIBUCIONES: Los gravámenes de orden
+territorial del nivel departamental aplicables al presente proceso serán los siguientes:
+
+
+    Nro.                             DESCRIPCIÓN                         %
+                                                                      GRAVAMEN
+
+    1       ESTAMPILLA Pro-hospital                                        2%
+    2       ESTAMPILLA Pro-desarrollo                                      2%
+
+    3       ESTAMPILLA Pro-bienestar adulto mayor                          3%
+    4       ESTAMPILLA Pro-cultura                                         1%
+
+    5       Tasa Pro-deporte y recreación                                 2.5%
+    6       ESTAMPILLA Pro-Universidad del Quindío                         2%
+                             TOTAL                                            12.5%
+Adicionalmente, se relacionan los impuestos tributarios que se realizan al contrato, los cuales
+son establecidos por el Gobierno Nacional y de acuerdo con las responsabilidades tributarias
+asignadas al RUT de cada oferente
+
+
+
+ CARGAS IMPOSITIVAS            PORCENTAJE UNITARIO                 PORCENTAJE TOTAL
+
+
+                             El Establecido por el Gobierno     El Establecido por el Gobierno
+                              Nacional de acuerdo con las        Nacional de acuerdo con las
+  Retención en la Fuente
+                              responsabilidades tributarias      responsabilidades tributarias
+                                   asignadas al RUT.                  asignadas al RUT.
+
+
+  IVA (Impuesto al Valor     El valor del producto o servicio   El Establecido por el Gobierno
+        Agregado)                debe tener IVA incluido.                  Nacional
+
+
+
+NOTA 1: El contratista se hace responsable del pago de los impuestos directos e indirectos,
+tasas, contribuciones o estampillas y demás gravámenes ocasionados por la celebración,
+ejecución y liquidación del contrato. Cabe resaltar que además de las anteriores le serán
+aplicables las demás que el Departamento del Quindío establezca pertinentes.
+Se incluyeron todos los gastos de administración, salarios, aportes de seguridad social,
+prestaciones sociales del personal, en caso de vinculación laboral u otro tipo de vinculación.
+Se incluyen también gastos de transporte del equipo de trabajo del consultor en caso de ser
+necesario; honorarios del consultor, asesorías, remuneraciones por prestación de servicios y
+demás actividades relacionadas con la ejecución del contrato; computadores, utilización de
+licencias de software; el análisis y estudio técnico y económico efectuado sobre la oferta
+existente en el mercado; el histórico de contrataciones anteriores realizadas por esta entidad
+territorial sobre contratos de igual o similar naturaleza; el análisis de las características y
+especificaciones técnicas y requerimientos para el contrato de consultoría; la totalidad de
+tributos originados por la celebración, ejecución y liquidación del contrato; las deducciones a
+que haya lugar; la remuneración para el consultor y, en general, todos los costos y gastos en
+los que esta deba incurrir para la correcta ejecución del contrato.
+NOTA 1: Los contratos de consultoría al no estar expresamente excluidos por el artículo 476
+del Estatuto Tributario y disposiciones concordantes, se encuentran gravados con el impuesto
+sobre las ventas, independientemente de su finalidad, debiendo aplicarse el gravamen sobre
+el valor percibido por el responsable.
+         INDICADORES DE CAPACIDAD FINANCIERA Y ORGANIZACIONAL
+Los indicadores de capacidad financiera y organizacional buscan establecer unas mínimas
+condiciones que reflejan la salud financiera de los proponentes a través de su liquidez y
+endeudamiento.
+Estas condiciones muestran la aptitud del Proponente para cumplir oportuna y cabalmente
+el objeto del contrato.
+La capacidad financiera y organizacional requerida en un Proceso de Contratación debe ser
+adecuada y proporcional la naturaleza y al valor del contrato. La Entidad Estatal establece
+los requisitos de capacidad financiera con base en su conocimiento del sec tor relativo al
+objeto del presente Proceso de Contratación y de los posibles oferentes.
+La Entidad verificará la capacidad financiera y organizacional del Proponente en el RUP (el
+cual deberá estar en firme), y de acuerdo con los requisitos habilitantes de conformidad con
+lo dispuesto en el Decreto 1082 de 2015, mediante la obtención de los indicadores
+financieros que se establecen a continuación; el resultado determinará el concepto de
+Habilitado o No Habilitado.
+El párrafo anterior aplica para toda clase de proponentes, sean estas personas naturales,
+jurídicas, consorcios, uniones temporales o promesas de sociedad futura.
+Los proponentes que terminan su año contable en una fecha distinta al 31 de diciembre
+deben actualizar la información financiera en la fecha correspondiente; sin perjuicio de la
+obligación de renovar el RUP de acuerdo con lo establecido en el artículo 2.2.1.1.1.5.1 del
+Decreto 1082 de 2015.
+La información financiera inscrita en el RUP deberá corresponder a la contenida en el
+Balance General con corte al 31 de diciembre del año inmediatamente anterior o balance de
+apertura.
+El Departamento del Quindío advierte que la información financiera acreditada se realiza con
+los efectos previstos en el artículo 43 de la Ley 222 de 1995, que al tenor reza:
+“Responsabilidad penal. Sin perjuicio de lo dispuesto en otras normas, serán sancionados
+con prisión de uno a seis años, quienes a sabiendas:
+
+•   Suministren datos a las autoridades o expidan constancias o certificaciones contrarias a
+    la realidad.
+•   Ordenen, toleren, hagan o encubran falsedades en los estados financieros o en sus
+    notas
+NOTA 1: De conformidad con lo previsto en el artículo 126 del Decreto 2649 de 1993, los
+libros de contabilidad deben ser registrados con anterioridad al cierre del ciclo contable sobre
+el cual se toman las cifras para la acreditación de capacidad financiera.
+Las sucursales de sociedad extranjera deben presentar para registro la información contable
+y financiera de su casa matriz. Los estados financieros de las sociedades extranjeras deben
+ser presentados de conformidad con las normas aplicables en el país en el que son emitidos.
+
+Los indicadores financieros tienen la finalidad de establecer las condiciones mínimas que los
+proponentes deben tener para la ejecución del objeto del contrato. Para conocer y exigir una
+capacidad financiera acorde al sector, la entidad tomó una muestra de tres (3) procesos,
+de diferentes regiones del país, adelantados por entidades públicas del orden territorial
+y regional relacionadas con actividades de interventoría similares a las que pretende
+contratar el departamento del Quindío mediante el proceso de selección.
+
+Una vez analizada la información financiera, objeto de la muestra, se determinaron los
+indicadores financieros y de capacidad organizacional promediados así:
+                                                                        COBERTURA    RENTABILIDAD
+                                            ÍNDICE DE      ÍNDICE DE                                RENTABILIDAD
+   PROCESO                  OBJETO                                           DE          DEL
+                                            LIQUIDEZ    ENDEUDAMIENTO                                DEL ACTIVO
+                                                                         INTERESES    PATRIMONIO
+
+                   INTERVENTORÍA TÉCNICA,
+                      ADMINISTRATIVA, Y
+                     FINANCIERA PARA LA
+                      CONSTRUCCIÓN Y
+ CMA-012-2022        REMODELACIÓN DE LA       2.15           0.44          14.21          0.13          0.08
+                     CENTRAL DE ABASTOS
+                   DEL TEQUENDAMA FASE 2
+                     DEL MUNICIPIO DE LA
+                     MESA CUNDINAMARCA
+
+                    INTERVENTORÍA PARA
+                   LOS ESTUDIOS BÁSICOS
+                   DE GESTIÓN DEL RIESGO
+CVC-CM-045-2023      Y ZONIFICACIÓN DE         1.5           0.65           1.5           0.10          0.05
+                        AMENAZAS EN
+                     JURISDICCIÓN DE LA
+                       CORPORACIÓN
+
+                       INTERVENTORÍA
+                        INTEGRAL A LA
+                      ELABORACIÓN DE
+                    ESTUDIOS DE GESTIÓN
+                         DEL RIESGO Y
+CM-SGR-002-2025       ZONIFICACIÓN DE         1.96           0.57          9.58           0.18          0.07
+                   AMENAZAS EN EL MARCO
+                     DE LA REVISIÓN DEL
+                         ESQUEMA DE
+                       ORDENAMIENTO
+                         TERRITORIAL.
+
+           PROMEDIO TOTAL                     1.87           0.55          5.54           0.14          0.07
+
+
+
+
+         NOTA: La anterior tabla corresponde a la matriz de procesos similares analizados en el
+         Estudio del Sector para determinar los indicadores financieros aplicables al presente
+         proceso.
+         NOTA ACLARATORIA - CÁLCULO DEL INDICADOR DE COBERTURA DE INTERESES:
+         Para efectos del cálculo del "Promedio Total" correspondiente al indicador de COBERTURA
+         DE INTERESES, no se tuvo en cuenta el valor de 14.21 arrojado por el proceso de referencia
+         CMA-012-2022. La justificación técnica para la exclusión de este registro radica en que esta
+         representa un valor atípico que eleva desproporcionadamente la media del indicador, lo cual
+         podría resultar restrictivo y limitar la libre concurrencia y pluralidad de oferentes en el
+         presente proceso de selección.
+         Por consiguiente, el promedio total establecido de 5.54 se determinó calculando
+         exclusivamente los valores de los procesos CVC-CM-045-2023 (1.5) y CM-SGR-002-2025
+         (9.58).
+         A continuación, se relacionan los indicadores Capacidad Financiera, establecidos para el
+         presente proceso:
+
+
+
+                             Indicadores de Capacidad Financiera Requeridos
+                     Indicador                                 Índice requerido
+                 Índice de Liquidez                          Mayor o igual >= 1,87
+             Índice de Endeudamiento                         Menor o igual < = 0.55
+          Razón de Cobertura de Intereses                    Mayor o igual a ≥ 5.54
+
+
+(*) Si para el cálculo del indicador, el denominador es cero (0) y el resultado es
+“indeterminado positivo”, el proponente cumple con el indicador; salvo que la utilidad sea
+negativa, caso en el cual no cumple con el indicador de razón de cobertura de intereses.
+Para el caso de las propuestas presentadas por Consorcios o Uniones temporales, cada uno
+de sus integrantes deberá allegar la misma documentación y requisitos mencionados, según
+corresponda.
+                             INDICADORES FINANCIEROS
+
+ÍNDICE DE LIQUIDEZ (L):
+
+Determina la capacidad que tiene un proponente para cumplir con sus obligaciones de corto
+plazo. A mayor índice de liquidez, menor es la probabilidad de que el proponente incumpla
+sus obligaciones de corto plazo.
+
+       Índice de Liquidez = Activo Corriente / Pasivo Corriente
+
+La Liquidez se determinará dividiendo el activo corriente sobre el pasivo corriente y su
+resultado deberá ser igual o superior a 1.87.
+
+                            L= (AC/ PC) >=1.87
+         Dónde:
+               L       =       Liquidez.
+             AC        =       Activo Corriente.
+             PC        =       Pasivo Corriente.
+
+Para el presente proceso de selección, los Proponentes deberán acreditar el siguiente
+indicador con base en la información contenida en el RUP.
+Condición: Si L < 1.87; la propuesta se calificará NO HABILITADO.
+           Si L >= 1.87; la propuesta se calificará HABILITADO.
+El índice de Liquidez para Consorcios o Uniones Temporales será calculado tomando la
+sumatoria de cada una de las partidas correspondientes de los integrantes del Consorcio o
+Unión Temporal según su porcentaje de participación en la figura asociativa.
+La siguiente es la fórmula aplicable para el cálculo del índice de liquidez, cuando el
+Proponente sea oferente plural (unión temporal, consorcio):
+Donde n es el número de integrantes del oferente plural (unión temporal y/o consorcio).
+Dónde:
+       L=      Liquidez.
+       AC = Activo Corriente del integrante o integrantes del consorcio o unión temporal
+            que contribuyan con su capacidad financiera.
+       P C = Pasivo Corriente del integrante o integrantes del consorcio o unión temporal
+             que contribuyan con su capacidad financiera.
+Condición: Si L < 1.87; la propuesta se calificará NO HABILITADO.
+             Si L >= 1.87; la propuesta se calificará HABILITADO.
+
+NIVEL DE ENDEUDAMIENTO (NE):
+
+El NIVEL DE ENDEUDAMIENTO obedece a la proporcionalidad que debe guardarse frente
+al capital de trabajo y a la estructura financiera de la empresa, para garantizar en un segundo
+orden, que el futuro contratista tenga respaldo para buscar recursos con terceros y cumplir
+con el objeto contractual; en tal sentido, se requiere que el proponente y posible contratista,
+debe demostrar que cuenta con la capacidad financiera suficiente para la ejecución del
+contrato, asegurando que en ningún momento de la ejecución del mismo, ni en su inicio ni
+en su ejecución, esta vaya a sufrir algún tipo de suspensión derivada de un inconveniente
+de tipo financiero de parte del contratista. A mayor índice de endeudamiento, mayor es la
+probabilidad del proponente de no poder cumplir con sus pasivos.
+
+El NIVEL DE ENDEUDAMIENTO es el resultado de dividir el Pasivo Total (PT), entre el Activo
+total (AT) y se calculará así:
+                           NE = (PT/AT) < 0.55
+         Dónde:
+                  NE=          Nivel de Endeudamiento
+                  PT=          Pasivo Total
+                  AT=          Activo Total
+
+Condición:     Si N E < 0.55; la propuesta se calificará HABILITADO.
+               Si N E > 0.55; la propuesta se calificará NO HABILITADO.
+El índice de endeudamiento para Consorcios o Uniones Temporales será calculado tomando
+la sumatoria de cada una de las partidas correspondientes de los integrantes del Consorcio
+o Unión Temporal según su porcentaje de participación en la figura asociativa.
+La siguiente es la fórmula aplicable para el cálculo del índice de endeudamiento, cuando el
+proponente sea oferente plural (unión temporal y/o consorcio):
+Donde n es el número de integrantes del oferente plural (unión temporal y/o consorcio).
+       N E = Nivel de Endeudamiento
+       P T = Pasivo Total del integrante o integrantes del consorcio o unión temporal que
+             contribuyan con su capacidad financiera.
+       A T = Activo Total del integrante o integrantes del consorcio o unión temporal que
+             contribuyan con su capacidad financiera.
+Condición:       Si N E < 0.55; la propuesta se calificará HABILITADO.
+                Si N E > 0.55; la propuesta se calificará NO HABILITADO.
+RAZÓN DE COBERTURA DE INTERESES:
+
+Refleja la capacidad del proponente de cumplir con sus obligaciones financieras. A mayor
+cobertura de intereses, menor es la probabilidad de que el proponente incumpla sus
+obligaciones financieras.
+Es el resultado de dividir la Utilidad Operacional (UO), entre los Gastos de Intereses (GI), y
+su resultado será expresado en valores absolutos y se calculará así:
+La siguiente es la fórmula aplicable para el cálculo de la Razón de Cobertura de Intereses,
+cuando el proponente sea persona natural o persona jurídica:
+RCI = UO / GI
+         Dónde:
+         RCI =          Razón de Cobertura de Intereses
+         UO=            Utilidad Operacional
+         GI=             Gastos de Intereses
+
+   Condición:           Si RCI < 5.54 la oferta se calificará NO HABILITADO.
+                        Si RCI > 5.54 la oferta se calificará HABILITADO.
+Los Proponentes que muestren en el ESTADO DE RESULTADOS, GASTOS DE
+INTERESES iguales a cero (0), no podrán calcular el indicador de razón de cobertura de
+intereses. En este caso el Proponente cumple el indicador, salvo que la utilidad operacional
+sea negativa, caso en el cual no cumple con el indicador de razón de cobertura de intereses.
+Si el Proponente es plural debe acreditar este indicador de la misma forma prevista en el
+literal (ii) del párrafo anterior, a menos que uno de sus miembros tenga gastos de intereses
+igual a cero (0) por lo cual no se puede hacer la ponderación del indicador.
+El índice de razón de cobertura de intereses para Consorcios o Uniones Temporales será
+calculado tomando la sumatoria de cada una de las partidas correspondientes de los
+integrantes del Consorcio o Unión Temporal según su porcentaje de participación en la figura
+asociativa.
+La siguiente es la fórmula aplicable para el cálculo de la Razón de Cobertura de Intereses,
+cuando el proponente sea OFERENTE PLURAL - UNIÓN TEMPORAL Y/O, CONSORCIO.
+Donde n es el número de integrantes del oferente plural (unión temporal y/o consorcio)
+
+   Condición:           Si RCI < 5.54 la oferta se calificará NO HABILITADO.
+                        Si RCI > 5.54 la oferta se calificará HABILITADO.
+
+CAPACIDAD ORGANIZACIONAL:
+
+La capacidad Organizacional es la aptitud de un proponente para cumplir oportuna y
+cabalmente el objeto del contrato en función de su organización interna. Dado que la ley no
+permite tener en cuenta certificaciones independientes sobre la organización de los
+proponentes como requisitos habilitantes y que la capacidad de organización de una
+empresa privada para producir resultados para sus clientes y sus accionistas está dada por
+su rentabilidad, el Decreto 1082 de 2015 definió indicadores de rentabilidad para medir la
+capacidad organizacional de un proponente teniendo en cuenta que un actor del sector
+privado está bien organizado cuando es rentable.
+
+La capacidad organizacional como requisito habilitante contenido en el RUP será verificada
+y certificada por las cámaras de comercio, de conformidad con el artículo 2.2.1.1.1.5.3 del
+Decreto 1082 de 2015. De acuerdo con lo anterior la entidad medirá el rendimiento de las
+inversiones y la eficiencia en el uso de activos del interesado.
+Para el presente proceso el Proponente debe cumplir los siguientes indicadores de
+capacidad organizacional, con base en la información contenida en el RUP.
+                         Indicadores de Capacidad Organizacional
+
+                    INDICADOR                              ÍNDICE REQUERIDO
+          Rentabilidad sobre el patrimonio                  mayor o igual ≥ 0.14
+             Rentabilidad sobre activos                     mayor o igual ≥ 0.07
+
+
+RENTABILIDAD SOBRE PATRIMONIO.
+Determina la rentabilidad del patrimonio del proponente, es decir, la capacidad de generación
+de utilidad operacional por cada peso invertido en el patrimonio. A mayor rentabilidad sobre
+el patrimonio, mayor es la rentabilidad de los accionistas y mejor la capacidad organizacional
+del proponente.
+La siguiente es la fórmula aplicable para el cálculo de la Rentabilidad sobre patrimonio,
+cuando el proponente sea persona natural o persona jurídica:
+                          RP= (UO / P)
+Dónde:
+RP= Rentabilidad sobre el Patrimonio      UO= Utilidad Operacional
+P= Patrimonio
+
+
+   Condición: Si RP < 0.14 la propuesta se calificará NO HABILITADO.
+                 Si RP > 0.14 la propuesta se calificará HABILITADO.
+
+
+El índice de Rentabilidad del patrimonio de para Consorcios o Uniones Temporales, será
+calculado tomando la sumatoria de cada una de las partidas correspondientes de los
+integrantes del Consorcio o Unión Temporal según su porcentaje de participación en la figura
+asociativa y el patrimonio.
+La siguiente es la fórmula aplicable para el cálculo de la Rentabilidad sobre patrimonio,
+cuando el proponente sea OFERENTE PLURAL (UNIÓN TEMPORAL Y/O CONSORCIO:
+
+
+
+
+Donde n es el número de integrantes del oferente plural (unión temporal y/o consorcio).
+   Condición: Si RP < 0.14 la propuesta se calificará NO HABILITADO.
+                Si RP > 0.14 la propuesta se calificará HABILITADO.
+
+
+RENTABILIDAD SOBRE ACTIVOS
+
+Determina la rentabilidad de los activos del proponente, es decir, la capacidad de generación
+de utilidad operacional por cada peso invertido en el activo. A mayor rentabilidad sobre
+activos, mayor es la rentabilidad del negocio y mejor la capacidad organizacional del
+proponente. Este indicador debe ser siempre menor o igual que el de rentabilidad sobre
+patrimonio.
+
+La siguiente es la fórmula aplicable para el cálculo de la Rentabilidad sobre activos, cuando
+el proponente sea persona natural o persona jurídica:
+                           RA= (UO / AT)
+        Dónde:
+RA= Rentabilidad Sobre Activos UO= Utilidad Operacional
+        AT= Activo Total
+   Condición: Si RA < 0.07 la propuesta se calificará NO HABILITADO.
+                 Si RA > 0.07 la propuesta se calificará HABILITADO.
+El índice de Rentabilidad de los Activos para Consorcios o Uniones Temporales será
+calculado tomando la sumatoria de cada una de las partidas correspondientes de los
+integrantes del Consorcio o Unión Temporal según su porcentaje de participación en la figura
+asociativa.
+La siguiente es la fórmula aplicable para el cálculo de la Rentabilidad sobre activos, cuando
+el proponente sea OFERENTE PLURAL (UNIÓN TEMPORAL Y/O CONSORCIO):
+
+
+
+
+Donde n es el número de integrantes del oferente plural (unión temporal y/o consorcio).
+
+   Condición: Si RA < 0.07 la propuesta se calificará NO HABILITADO.
+                Si RA > 0.07 la propuesta se calificará HABILITADO.
+
+
+        INFORMACIÓN FINANCIERA PARA PROPONENTES EXTRANJEROS
+
+Los Proponentes extranjeros deben presentar la información financiera que se relaciona a
+continuación, de conformidad con la legislación propia del país de origen, avalados con la
+firma de quien se encuentre en obligación de hacerlo de acuerdo con la normativa vigente
+del país de origen:
+        •   Balance general
+        •   Estado de resultados
+
+Los anteriores documentos también deben ser presentados utilizando el Plan Único de
+Cuentas para Colombia (PUC).
+
+LA VERIFICACIÓN DE LOS INDICADORES DE CAPACIDAD FINANCIERA Y
+ORGANIZACIONAL, SE REALIZARÁ DE CONFORMIDAD CON EL ARTÍCULO
+2.2.1.1.1.5.2. DEL DECRETO 1082 DE 2015, TENIENDO EN CUENTA QUE EL PRESENTE
+PROCESO SE ESTRUCTURA DURANTE EL PERIODO DE TRANSICIÓN DE
+RENOVACIÓN, LA INFORMACIÓN FINANCIERA DEBERÁ CORRESPONDER A LOS
+ESTADOS FINANCIEROS CON CORTE A 31 DE DICIEMBRE DE 2025.
+
+
+PARA EL PRESENTE PROCESO CONTRACTUAL, LA ENTIDAD REALIZARÁ LA
+VERIFICACIÓN DE LA CAPACIDAD FINANCIERA CON LOS INDICADORES
+FINANCIEROS CORRESPONDIENTES AL ÚLTIMO AÑO REPORTADO EN EL RUP, Y
+QUE SE ENCUENTRE VIGENTE Y EN FIRME.
+
+
+
+                             APOYO A LA INDUSTRIA NACIONAL
+
+
+Los Proponentes pueden obtener puntaje de apoyo a la industria nacional por:
+   i)     Servicios Nacionales o con Trato Nacional o por,
+   ii)    la incorporación de componente nacional en servicios extranjeros.
+La Entidad en ningún caso otorgará simultáneamente el puntaje por ambos aspectos.
+Los puntajes para estimular a la industria nacional se relacionan en la siguiente tabla:
+
+                        CONCEPTO                                          PUNTAJE
+   Promoción de Servicios Nacionales o con Trato Nacional                    10
+     Incorporación de componente nacional en servicios
+                                                                               5
+                         extranjeros
+
+PROMOCIÓN DE SERVICIOS NACIONALES O CON TRATO NACIONAL
+
+En los contratos que deban cumplirse en Colombia, el servicio es nacional cuando además
+de ofertarse por una persona natural colombiana o por un residente en Colombia, por una
+persona jurídica constituida de conformidad con la legislación colombiana o por un
+Proponente Plural integrado por estos o por estos y un extranjero con Trato Nacional se
+compromete a vincular el porcentaje mínimo de personal colombiano, que se desarrolla a
+continuación.
+
+En los contratos que no deban cumplirse en Colombia, que sean prestados en el extranjero
+y estén sometidos a la legislación colombiana, un servicio es colombiano si es prestado por
+una persona natural colombiana o por un residente en Colombia, por una pers ona jurídica
+constituida de conformidad con la legislación colombiana o un Proponente Plural integrado
+por estos, sin que sea necesaria la vinculación de un porcentaje mínimo de personal
+colombiano.
+
+En el caso de los Proponentes extranjeros con Trato Nacional que participen en el Proceso
+de Contratación de manera singular o mediante la conformación de un Proponente Plural
+podrán determinar si aplican las reglas previstas en este numeral o si por el contrario deciden
+acogerse a la regla de origen de su país. Para definir la regla aplicable al proceso, el
+Proponente extranjero con Trato Nacional así lo manifestará con el diligenciamiento de la
+opción 2 del “Formato de Promoción de Servicios Nacionales o con Trato Nacional”. En el
+caso que no se escoja la opción 2 “Formato de Promoción de Servicios Nacionales o con
+Trato Nacional”, la Entidad deberá evaluar la oferta de acuerdo con las reglas previstas en
+este numeral.
+
+Debido a la especialidad del contrato, en este Proceso de Contratación para el otorgamiento
+de puntaje no habrá bienes nacionales relevantes y, por tanto, se otorgará el puntaje de
+apoyo a la industria nacional a los Proponentes que se comprometan a vincular durante el
+desarrollo del objeto contractual un porcentaje de empleados o contratistas por prestación
+de servicios colombianos, de al menos el cuarenta por ciento (40 %) del personal requerido
+para el cumplimiento del contrato.
+
+Además de la incorporación de personal colombiano requerido para la ejecución del contrato,
+tratándose de Proponentes Plurales, su composición deberá estar acorde con lo exigido por
+la noción de Servicios Nacionales prevista en el artículo 2.2.1.1.1.3.1 del Decreto 1082 de
+2015, o la norma que lo modifique, sustituya o complemente, de lo que dependerá la franja
+del puntaje aplicable en lo referente al apoyo de la industria nacional.
+Para tales efectos, en la siguiente tabla se indican las posibles composiciones de
+Proponentes Plurales, la regla de origen que les aplica en virtud de dicha conformación, así
+como la franja de puntaje correspondiente:
+
+           Composición del
+ No.                                  Regla de origen aplicable        Puntaje aplicable
+           Proponente Plural
+                                                                     Promoción           de
+       Únicamente      integrantes
+  1.                                 Decreto 1082 de 2015            Servicios Nacionales o
+       colombianos
+                                                                     con Trato Nacional.
+       Colombianos en asocio                                         Promoción           de
+  2.   con extranjeros con Trato Decreto 1082 de 2015                Servicios Nacionales o
+       Nacional                                                      con Trato Nacional.
+                                 La regla de origen del país con
+                                 el que se tenga acuerdo
+       Únicamente integrado por comercial o la del Decreto 1082 Promoción             de
+  3.   extranjeros    con  Trato de 2015. Si el Proponente Servicios Nacionales o
+       Nacional                  Plural no especifica a cuál con Trato Nacional.
+                                 regla se acoge, se aplicará la
+                                 del Decreto 1082 de 2015.
+       Proponente Plural en el                                    Incorporación       de
+                                 No aplica la regla de origen del
+       que al menos uno de los                                    componente nacional
+  4.                             Decreto 1082 de 2015, ni la de
+       integrantes es extranjero                                  en            servicios
+                                 los países de origen.
+       sin Trato Nacional.                                        extranjeros.
+
+Acreditación:
+
+Para que el Proponente nacional obtenga puntaje por Servicios Nacionales debe presentar,
+además del Formato señalado en el pliego de condiciones (Promoción de Servicios
+Nacionales o con Trato Nacional), alguno de los siguientes documentos, según corresponda:
+
+A.     Persona natural colombiana: La cédula de ciudadanía del Proponente.
+B.     Persona natural extranjera residente en Colombia: La visa de residencia que le
+permita la ejecución del objeto contractual de conformidad con la ley.
+C.     Persona jurídica constituida en Colombia: El certificado de existencia y
+representación legal emitido por alguna de las cámaras de comercio del país.
+
+Para que el Proponente extranjero con trato nacional obtenga el puntaje por apoyo a la
+industria nacional por promoción de Servicios Nacionales o con Trato Nacional solo deberá
+presentar el formato señalado en el pliego de condiciones (Promoción de Servicios
+Nacionales o con Trato Nacional).
+
+En caso de no efectuar ningún ofrecimiento, el puntaje por este factor será de cero (0).
+PUNTAJE DE ADICIONAL EN FAVOR DE LOS EMPLEADORES DE PERSONAS CON
+DISCAPACIDAD Y DE LOS EMPRENDIMIENTOS Y EMPRESAS DE PERSONAS CON
+DISCAPACIDAD (2 PUNTOS)
+
+De conformidad a lo establecido en los artículos 2.2.1.2.4.2.6. y 2.2.1.2.4.2.7.4. del Decreto
+1082 de 2015, modificado por el Decreto 0287 del 19 de marzo de 2026, con el fin de
+promover la inclusión laboral de personas con discapacidad, se otorgará un puntaje de dos
+(2) puntos a los proponentes que configuren alguna de las siguientes situaciones:
+
+1. Que, el proponente acredite alguna de las condiciones previstas en el artículo
+2.2.1.2.4.2.6. del Decreto 1082 de 2015, modificado por el Decreto 0287 del 19 de marzo de
+2025.
+
+2. Que, el proponente acredite dentro de su planta de personal la vinculación de personas
+con discapacidad, con sujeción a todas las exigencias y garantías legalmente establecidas,
+mediante contrato laboral con dedicación exclusiva, de acuerdo con la siguiente tabla:
+
+
+
+
+Para la asignación del puntaje, el proponente deberá acreditar el número de personas con
+discapacidad indicado en la tabla anterior, el cual ya incluye el mínimo exigido por la Ley
+2466 de 2025, conforme al tamaño de su planta de personal. La tabla en menc ión también
+incluye a las personas con discapacidad adicionales que deberá acreditar tener contratadas,
+el proponente que desee obtener el puntaje mencionado en este artículo.
+El proponente podrá acreditar alguna de las situaciones mencionadas, y en todo caso el
+puntaje adicional total y único a otorgar por este criterio será del dos por ciento (2%), sin que
+sean acumulables a efecto de la evaluación de la oferta.
+
+La verificación de estas condiciones se realizará con base en los siguientes documentos que
+el proponente deberá aportar junta con su oferta, de manera física o digital:
+
+•        Certificación expedida con una antelación no mayor a treinta (30) días calendario
+respecto a la fecha de presentación de la oferta, suscrita por el representante legal del
+proponente y el revisor fiscal, cuando exista de acuerdo con los requerimientos de ley, o el
+contador, en la que conste el número de personas con discapacidad que conforman su planta
+de personal. La certificación deberá relacionar el nombre completo y el número de
+documento de identidad de cada una de las personas con discapacidad. Como s oporte, se
+anexará copia de los respectivos documentos de identidad, copia de los contratos de trabajo
+o certificación laboral con las funciones, sin que se puedan relacionar contratos de prestación
+de servicios, así como el certificado de aportes a seguridad social de los últimas tres (3)
+meses en el que se demuestren los pagos realizados por el empleador, y el certificado de
+discapacidad expedido conforme a la normativa vigente del Ministerio de Salud y Protección
+Social.
+
+•        También, esta verificación se hará con el certificado que para el efecto expide el
+Ministerio de Trabajo y la entidad estatal contratante verificará la vigencia de dicha
+certificación, de conformidad con la normativa aplicable.
+
+Cuando se trate de un proponente plural (consorcio o unión temporal), se tomará en cuenta
+únicamente la planta de personal del integrante con mayor participación porcentual. La
+aplicación de este puntaje adicional se hará sin perjuicio de los compromisos y limitaciones
+derivadas de los Acuerdos Comerciales internacionales vigentes para Colombia.
+
+PARÁGRAFO 1. La aplicación de los puntales establecidos en el presente numeral no
+excluye la incorporación de criterios sociales adicionales en beneficio de las personas con
+discapacidad en la modalidad de licitación Pública y selección abreviada de menor cuantía,
+de conformidad con lo reglamentado en el parágrafo del artículo 2.2.1.1.2.2.2. del Decreto
+1082 de 2015.
+
+PARÁGRAFO 2. El puntaje adicional previsto en este artículo no excluye la aplicación de
+incentivos contractuales ni de criterios diferenciales en favor de las MiPymes y los
+emprendimientos y empresas de mujeres.
+
+PARÁGRAFO 3. En caso de resultar beneficiario de este puntaje, través del supervisor o
+interventor del contrato, se verificará durante la ejecución contractual que las condiciones de
+inclusión laborales con base en las cuales se otorgó el puntaje adicional se mantengan. Para
+estos efectos, el contratista deberá presentar, con cada solicitud de pago, la documentación
+con la que acredite la permanencia de las condiciones mediante las cuales se obtuvo el
+incentivo o, en caso contrario, informar y sustentar las razones de fuerza mayor o caso
+fortuito que hayan impedido su cumplimiento. La inobservancia de estas medidas y el
+incumplimiento injustificado en la reducción del número de trabajadores con discapacidad
+de la planta de personal acreditado para obtener el puntaje adicional podrá constituir causal
+de incumplimiento contractual y se tramitará conforme a la normatividad vigente.
+
+PARÁGRAFO 4. Las medidas contempladas en este numeral deberán observar las
+garantías constitucionales que reconocen la protección del derecho a la estabilidad laboral
+reforzada de las personas naturales con discapacidad, así coma la igualdad y dignidad en
+las condiciones laborales.
+
+PUNTAJE ADICIONAL ARTÍCULO 2.2.1.2.4.2.15 DEL DECRETO 1082 DE 2015,
+ADICIONADO POR EL DECRETO 1860 DE 2021, EMPRENDIMIENTOS Y EMPRESAS DE
+MUJERES EN EL SISTEMA DE COMPRAS PÚBLICAS.
+
+La Entidad asignará un puntaje de cero puntos veinticinco (0.25) puntos, al Proponente que
+acredite la calidad de emprendimientos y empresas de mujeres con domicilio en el territorio
+nacional, de conformidad con lo previsto en el artículo 2.2.1.2.4.2.14. del Decreto 1082 de
+2015 o la norma que lo modifique, sustituya o complemente.
+
+Para que el Proponente obtenga este puntaje debe diligenciar el “Formato de Acreditación
+de emprendimientos y empresas de mujeres” y aportar la documentación requerida. Si el
+Proponente debió subsanar la entrega de dicho formato y/o los documentos exigidos para
+probar esta condición será válido para el criterio diferencial en cuanto al requisito habilitante
+relacionado con el número de contratos aportados para demostrar la experiencia solicitada.
+
+Sin embargo, no se tendrán en cuenta para la asignación de puntaje, por lo que obtendrá
+cero (0) puntos por este factor de evaluación.
+
+NOTA 1. Tratándose de proponentes plurales, el puntaje adicional (Articulo 2.2.1.2.4.2.15
+del decreto 1082 de 2015, adicionado por el decreto 1860 de 2021), solo se aplicará si por
+lo menos uno de los integrantes acredita que es emprendimiento y empresa de mujeres bajo
+los criterios dispuestos en el artículo 2.2.1.2.4.2.14 del Decreto 1082 de 2015, adicionado
+por el Decreto 1860 de 2021 y que tiene una participación igual o superior al diez por ciento
+(10%) en el consorcio o la unión temporal.
+
+La entidad dará aplicabilidad al contenido del artículo 58 de la Ley 2195 de 2022, reduciendo
+durante la evaluación de las ofertas en la etapa precontractual el dos por ciento (2%) del
+total de los puntos establecidos en el proceso a los proponentes que se les haya impuesto
+una o más multas o cláusulas penales durante el último año, contado a partir de la fecha
+prevista para la presentación de las ofertas, sin importar la cuantía y sin perjuicio de las
+demás consecuencias derivadas del incumplimiento.
+
+Esta reducción también afecta a los consorcios y uniones temporales si alguno de sus
+integrantes se encuentra en la situación anterior.
+La reducción del puntaje no se aplicará en caso de que los actos administrativos que hayan
+impuesto las multas sean objeto de medios de control jurisdiccional a través de las acciones
+previstas en la Ley 1437 de 2011 o las normas que la modifiquen, adicionen o sustituyan.
+
+NOTA: La reducción del puntaje no se aplicará en caso de que los actos administrativos que
+impusieron las multas hayan sido objeto de medios de control jurisdiccional, en los términos
+de la Ley 1437 de 2011 o las normas que la modifiquen, adicionen o sustituyan.
+
+
+6.1.1. EXPERIENCIA ESPECÍFICA (CRITERIOS DIFERENCIALES PARA MIPYME
+       EN EL SISTEMA DE COMPRAS PÚBLICAS)
+
+Para el presente proceso de conformidad con lo preceptuado por el artículo 2.2.1.2.4.2.18
+del Decreto 1082 de 2015, adicionado por el Decreto 1860 de 2021, y los resultados del
+análisis del Estudio del Sector elaborado para el presente proceso; los proponentes que
+ostenten la calidad de Mipyme, la cual se demostrará conforme a lo establecido en el artículo
+2.2.1.2.4.2.4 del Decreto 1082 de 2015, deberán acreditar experiencia específica con
+máximo SEIS (6) CONTRATOS suscritos con entidades públicas y/o privadas, cuyos
+objetos y/o alcance del objeto y/o actividades y/o obligaciones contractuales estén
+relacionados con la interventoría integral y/o la consultoría en estudios de gestión del riesgo
+y/o zonificación de amenazas y/o planes de ordenamiento de cuencas y/o planes de
+ordenamiento territorial (Plan de Ordenamiento Territorial – POT, Plan Básico de
+Ordenamiento Territorial – PBOT y/o Esquema de Ordenamiento Territorial – EOT) y/o
+planes de manejo de Distritos Regionales de Manejo Integrado (DRMI), y que a su vez
+contemplen el análisis de amenazas por movimientos de remoción en masa y/o
+inundaciones y/o avenidas torrenciales; además, la suma de los contratos deberá ser igual
+o superior al cien por ciento (100%) del presupuesto oficial del presente proceso de
+interventoría.
+
+Adicionalmente, los contratos deberán de estar inscritos, clasificados y registrados en al
+menos tres (3) códigos del clasificador de bienes y servicios UNSPSC que se indican a
+continuación, el cual será verificado hasta el tercer nivel, de conformidad con el artículo
+2.2.1.1.1.5.3 del Decreto 1082 de 2015:
+
+ CÓDIGO                                         DESCRIPCIÓN
+ 77111500                              Servicios de seguridad ambiental
+ 77101500                              Evaluación de impacto ambiental
+ 80101500              Servicios de consultoría de negocios y administración corporativa
+ 81151700                                           Geología
+ 81151600                                         Cartografía
+ 81101500                                Ingeniería civil y arquitectura
+ 81151900                                          Geofísica
+
+NOTA 1. Para los efectos pertinentes, los criterios de clasificación empresarial son los
+definidos en el artículo 2.2.1.13.2.2 del Decreto 1074 de 2015, Único Reglamentario del
+Sector Comercio, Industria y Turismo, o la norma que lo modifique, derogue o sustituya.
+
+NOTA 2. Tratándose de proponentes plurales, el presente criterio diferencial solo se aplicará
+si por lo menos uno de los integrantes acredita la calidad de Mipyme y tiene una participación
+igual o superior al diez por ciento (10%) en el consorcio o la unión temporal.
+NOTA 3. Se advierte a los proponentes u oferentes, tal y como lo dispone el parágrafo 3 del
+artículo 2.2.1.2.4.2.18 del Decreto Único Reglamentario 1082 del año 2015, adicionado por
+el Decreto Nacional 1860 de 2021, que lo previsto en este criterio diferencial NO REGIRÁ SI
+EL PRESENTE PROCESO ES LIMITADO A MIPYME conforme a los artículos 2.2.1.2.4.2.2
+y 2.2.1.2.4.2.3 del Decreto 1082 de 2015.
+
+
+
+
+Proyectó y Elaboró: Azly Jessenia Pineda Penhá – Economista Contratista.
+Revisó: Jairo Ortega Muñoz – Jefe de Desarrollo Territorial.
+
+Revisó: Viviam Reyes Salazar / Jefe Evaluación Financiera SJYDC
+
+       Edwin Leandro Acevedor / Profesional contratista SJYDC
+

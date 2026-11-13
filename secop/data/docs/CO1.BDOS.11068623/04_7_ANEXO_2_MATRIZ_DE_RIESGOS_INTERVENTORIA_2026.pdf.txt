@@ -1,0 +1,398 @@
+                              ANEXO 2 MATRIZ
+         RIESGOS PREVISIBLES ASOCIADOS A LA CONTRATACION
+             Planeación precontractual Nro. 6452 del 2025
+
+
+
+En estricto cumplimiento del principio de Planeación consagrado en la Ley 80 de
+1993, y de conformidad con el artículo 4 de la Ley 1150 de 2007, así como los
+artículos 2.2.1.1.1.3.1 y 2.2.1.1.1.6.3 del Decreto 1082 de 2015, el Departamento
+del Quindío presenta el análisis de los riesgos previsibles asociados al presente
+proceso de contratación.
+
+Para efectos de este documento, se entiende por riesgo la probabilidad de
+ocurrencia de eventos aleatorios que puedan afectar el desarrollo, costo o
+cronograma del proyecto. La presente matriz ha sido estructurada siguiendo los
+lineamientos del Documento CONPES 3714 de 2011 ("Política Nacional de
+Contratación Pública") y el "Manual para la Identificación y Cobertura del Riesgo"
+de Colombia Compra Eficiente.
+
+CONTEXTO ESPECÍFICO Y ALCANCE DEL ANÁLISIS
+
+Dada la naturaleza de consultoría especializada del objeto contractual y las
+condiciones particulares del Municipio de Pijao, este análisis trasciende los
+riesgos administrativos convencionales e incorpora la evaluación de riesgos
+Técnicos, Ambientales, Sociales y Jurídicos específicos del territorio. Se han
+considerado como factores determinantes para la asignación del riesgo:
+
+ 1. Las condiciones geográficas y climáticas: La ubicación del municipio en
+    zona de ladera y el régimen de lluvias, factores críticos para la ejecución de
+    trabajos de campo (perforaciones y topografía).
+
+ 2. El entorno social: La necesidad de ingreso a predios privados para la toma
+    de información primaria.
+
+ 3. El mandato judicial: La obligación de cumplimiento estricto del fallo de la
+    Acción Popular No. 63001-233-000-2018-0036-00, lo cual eleva el riesgo
+    jurídico por calidad del producto entregado.
+
+ 4. La viabilidad normativa: El riesgo de que los resultados técnicos generen
+    conflictos con el perímetro urbano vigente.
+
+ASIGNACIÓN DE RIESGOS
+
+Conforme a lo establecido en la normativa vigente, corresponderá al
+CONTRATISTA SELECCIONADO la asunción integral de los riesgos previsibles
+propios de su actividad especializada y del conocimiento del sitio de obra,
+asumiendo los costos de mitigación y contingencia necesarios para garantizar la
+entrega de los productos a satisfacción. La Entidad asume exclusivamente
+aquellos riesgos tipificados expresamente a su cargo en la presente matriz.
+
+La presentación de la oferta implica la aceptación tácita e incondicional de esta
+distribución de riesgos, entendiendo el proponente que ha realizado las visitas
+de campo y el análisis de los documentos previos necesarios para valorar su
+alcance.
+        Matriz de riesgos
+
+
+
+                                                        MATRIZ DE RIESGOS
+  “CONTRATO DE CONSULTORIA CUYO OBJETO ES: REALIZAR LOS ESTUDIOS BÁSICOS DE GESTIÓN DEL RIESGO DE DESASTRES POR FENÓMENOS DE
+MOVIMIENTOS DE REMOCIÓN EN MASA, INUNDACIONES Y AVENIDAS TORRENCIALES EN EL MUNICIPIO DE PIJAO, DEPARTAMENTO DEL QUINDÍO PARA DAR
+                                    CUMPLIMIENTO A LA NORMATIVIDAD VIGENTE SOBRE LA MATERIA”
+
+
+
+
+                                                                                                                                                                                                                                                                             ¿Afecta la ejecución del contrato?
+                                                                                   Consecuencia de la ocurrencia                                                                                                                                                                                                  Responsable por implementar el       Fecha estimada en que se inicia el
+                                                                                                                                                                                                                              Impacto después
+
+
+
+
+                                                                                                                                                                       ¿A quién se le asigna?
+                                                                                                                                                                                                                                                                                                                                                                                                     Monitoreo y revisión
+                                                                                                                                                                                                                               del tratamiento
+
+
+
+                                                           Descripción                                             Probabilidad             Valoración   Categoría
+                                                                                                                                                                                                     Tratamiento/
+    Clase     Fuente    Etapa                                                                                                     Impacto
+N                                   Tipo                                                                                                                                                            Control a ser
+                                                                                                                                                                                                    implementado
+
+
+
+                                                                                            del evento                                                                                                                                                                                                                     tratamiento
+                                                                                                                                                                                                                         Probabilidad                                                                                                                             tratamiento                                           Periodicidad
+                                                                                                                                                                                                                                                                                                                                                                                                  ¿Cómo se
+
+                                                                                                                                                                                                                                        Impacto   Valoración   Categoría
+                                                                                                                                                                                                                                                                                                                                                                                                 realiza el
+                                                                                                                                                                                                                                                                                                                                                                                                 monitoreo?
+
+
+                                                                                                                                                                                                                                                                                                                                                                                              Seguimiento de
+                                                                           Retraso injustificado
+                                                  Demora, negligencia                                                                                                                                                                                                                                                                                                                       correspondencia y
+                                                                            del proyecto, pagos                                                                                                   Establecer flujos de
+                                                         o falta de                                                                                                                                                                                                                                                                                                                              oficios de
+                                                                                indebidos al                                                                                                        trabajo internos
+                                                    oportunidad en la                                                                                                                                                                                                                                                                              Desde el Acta                            entrega/devolución
+                                                                                 consultor,                                                                                                      estrictos con tiempos                                                                                                                                                                                               Semanal
+
+
+                                    Operacional                                                                                                          Riesgo Alto                                                                                           Riesgo Alto                                                Interventor
+                                                   revisión, validación,
+
+
+                                                                                                                                                                       Contratista
+                        Ejecución
+                                                                                                                                                                                                                                                                                                                                                     de Inicio                                 de productos
+
+    General
+                                                                              vencimiento de                                                                                                    de respuesta máximos
+
+              Interno
+                                                       aprobación o
+1                                                                                términos y                           2             4         7                                                      definidos para      2              4         6                          si                                                                                                              mediante bitácora
+                                                      rechazo de los
+                                                                               afectación del                                                                                                       especialistas. El                                                                                                                                                                       o correspondencia
+                                                       productos e
+                                                                           cronograma general.                                                                                                    Interventor asume                                                                                                                                                                               oficial.
+                                                  informes entregados
+                                                                                                                                                                                                  multas por retrasos
+                                                     por el Consultor
+                                                                                                                                                                                                    imputables a su
+                                                  dentro de los plazos
+                                                                                                                                                                                                        revisión.
+                                                      contractuales.
+                                                        MATRIZ DE RIESGOS
+  “CONTRATO DE CONSULTORIA CUYO OBJETO ES: REALIZAR LOS ESTUDIOS BÁSICOS DE GESTIÓN DEL RIESGO DE DESASTRES POR FENÓMENOS DE
+MOVIMIENTOS DE REMOCIÓN EN MASA, INUNDACIONES Y AVENIDAS TORRENCIALES EN EL MUNICIPIO DE PIJAO, DEPARTAMENTO DEL QUINDÍO PARA DAR
+                                    CUMPLIMIENTO A LA NORMATIVIDAD VIGENTE SOBRE LA MATERIA”
+
+
+
+
+                                                                                                                                                                                                                                                                                                  ¿Afecta la ejecución del contrato?
+                                                                                                 Consecuencia de la ocurrencia                                                                                                                                                                                                         Responsable por implementar el         Fecha estimada en que se inicia el
+                                                                                                                                                                                                                                                 Impacto después
+
+
+
+
+                                                                                                                                                                                     ¿A quién se le asigna?
+                                                                                                                                                                                                                                                                                                                                                                                                                           Monitoreo y revisión
+                                                                                                                                                                                                                                                  del tratamiento
+
+
+
+                                                                          Descripción                                            Probabilidad             Valoración   Categoría
+                                                                                                                                                Impacto
+                                                                                                                                                                                                                       Tratamiento/
+    Clase          Fuente      Etapa        Tipo
+N                                                                                                                                                                                                                     Control a ser
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                tratamiento
+                                                                                                                                                                                                                      implementado
+
+
+
+                                                                                                          del evento
+                                                                                                                                                                                                                                            Probabilidad                                                                                                                                 tratamiento                                          Periodicidad
+                                                                                                                                                                                                                                                                                                                                                                                                                        ¿Cómo se
+
+                                                                                                                                                                                                                                                           Impacto   Valoración   Categoría
+                                                                                                                                                                                                                                                                                                                                                                                                                       realiza el
+                                                                                                                                                                                                                                                                                                                                                                                                                       monitoreo?
+
+                                                                  Imposibilidad del
+                                                                      personal de
+
+
+
+
+                                                                                                                                                                                      Contratista (Interventor)
+                                                                   Interventoría de                                                                                                                               El Interventor deberá
+                                                                 acceder a las zonas         Aprobación de                                                                                                         disponer de personal                                                                                                                                                                                Registro
+
+
+
+
+                                             De la Naturaleza
+                                                                    de ladera para         cobros por metros                                                                                                       residente en Pijao o                                                                                                                                                                               fotográfico
+
+
+
+      Específico                                                                                                                                                       Riesgo Alto                                                                                                  Riesgo Bajo                                                  Interventor
+                                                                  verificar in situ la      de perforación no                                                                                                       logística adecuada                                                                                                                                                                             georreferenciado
+
+                     Externo    Ejecución
+                                                                 perforación y toma            ejecutados,                                                                                                           para aprovechar                                                                                                                                    Desde el inicio de                         , actas de visita
+2                                                                                                                                    3           4        7                                                                                     1           3        4                                      Sí                                                                                                                             Semanal
+                                                                   de muestras por        deficiente control de                                                                                                    ventanas climáticas,                                                                                                                                 la fase de campo                           a campo y firma
+                                                                      condiciones          calidad del modelo                                                                                                          garantizando                                                                                                                                                                                 de bitácoras de
+                                                                climáticas, avalando      geológico, hallazgos                                                                                                    supervisión in situ del                                                                                                                                                                             perforación
+                                                                 cantidades de obra              fiscales.                                                                                                             100% de las                                                                                                                                                                                    conjuntas.
+                                                                sin verificación física                                                                                                                           exploraciones críticas.
+                                                                    ("informes de
+                                                                      escritorio").
+                                                                    Omisión de la
+
+
+
+
+                                                                                                                                                                                      Contratista (Interventor)
+                                                                                                                                                                                                                  Exigir al componente
+                                                                 Interventoría en la      Desconocimiento por
+                                                                                                                                                                                                                        social de la
+                                                                supervisión del Plan            parte de la
+                                                                                                                                                                                                                     Interventoría el                                                                                                                                                                              Revisión y cruce
+                                                                de Gestión Social del        Gobernación de
+
+
+      Específico                                                                                                                                                       Riesgo Alto                                                                                                  Riesgo Bajo                                                  Interventor
+                                                                                                                                                                                                                    acompañamiento                                                                                                                                                                                 del cronograma
+
+                     Interno    Ejecución
+                                                                     Consultor, no          bloqueos sociales;
+                                             Social
+                                                                                                                                                                                                                     presencial a las                                                                                                                                   Previo a etapa de                             social vs.
+3                                                                  advirtiendo a la        reprocesos técnicos                       2           4        6                                                                                     1           2        3                                      Sí                                                                                                                            Quincenal
+                                                                                                                                                                                                                       jornadas de                                                                                                                                           campo                                 permisos reales
+                                                                    Entidad sobre              por vacíos de
+                                                                                                                                                                                                                      socialización y                                                                                                                                                                                de ingreso
+                                                                   conflictos con la      información primaria
+                                                                                                                                                                                                                       verificación                                                                                                                                                                                  obtenidos.
+                                                                comunidad o predios           no advertidos
+                                                                                                                                                                                                                     documental de
+                                                                    sin permiso de           oportunamente.
+                                                                                                                                                                                                                   permisos prediales.
+                                                                        ingreso.
+                                                                  (Efecto Espejo
+                                                                     CRQ/SGC)           Rechazo de los
+
+
+
+
+                                                                                                                                       Contratista (Interventor)
+                                                            Aprobación por parte       productos por la
+                                                                                                                                                                   Revisión de validación
+                                                              de la Interventoría    autoridad ambiental,
+                                                                                                                                                                    metodológica (pares                                                                                          Comités técnicos
+                                                               de metodologías,            detrimento
+
+
+    Específico                                                                                                           Riesgo Alto                                                                      Riesgo Bajo              Interventor
+                                                                                                                                                                        académicos o                                                                                               obligatorios
+
+                 Interno   Ejecución   Técnico
+                                                                    cartografía y         patrimonial,
+                                                                                                                                                                   especialistas senior de                                                                    Durante toda la       previos a         Por entrega de
+4                                                               modelos que NO         responsabilidad       3   5   8                                                                        1   3   4                 Sí
+                                                                                                                                                                   interventoría) previa a                                                                      ejecución        aprobaciones de         producto
+                                                                  cumplen con la         técnica y civil
+                                                                                                                                                                       la radicación de                                                                                          pago e informes
+                                                              escala de detalle y         solidaria del
+                                                                                                                                                                      productos ante la                                                                                             parciales.
+                                                                lineamientos del        Interventor por
+                                                                                                                                                                             CRQ.
+                                                                       SGC o la        avalar productos
+                                                              normatividad de la          deficientes.
+                                                                        CRQ.
+                                                            (Efecto Espejo Fallo)
+
+
+
+
+                                                                                                                                       Contratista (Interventor)
+                                                                   Omisión en la                                                                                       Lista de chequeo
+                                                            validación jurídica y     Desacato judicial                                                             obligatoria (Checklist
+                                                                                                                                                                                                                                                                                  Cruce matricial
+                                                              técnica de que los     para la Gobernación                                                            legal) suscrita por el
+                                                                                                                                                                                                                                                                                  entre órdenes
+
+
+    Específico                                                                                                           Riesgo Alto                                                                      Riesgo Bajo              Interventor
+                                                                    entregables         y la Alcaldía,                                                              Asesor Jurídico de la
+
+                 Interno   Ejecución   Jurídico
+                                                                                                                                                                                                                                                                                   del fallo vs.
+                                                                      satisfagan       vinculación del                                                                   Interventoría                                                                        Desde el Acta de
+5                                                                                                            2   5   7                                                                        1   2   3                 Sí                                                           índice de           Mensual
+                                                               integralmente las        Interventor a                                                                validando que cada                                                                            Inicio
+                                                                                                                                                                                                                                                                                   entregables
+                                                              órdenes proferidas           procesos                                                                 ítem del fallo judicial
+                                                                                                                                                                                                                                                                                      técnicos
+                                                                 en el fallo de la     disciplinarios y                                                             fue subsanado por el
+                                                                                                                                                                                                                                                                                    aprobados.
+                                                              Acción Popular No.       sancionatorios.                                                             documento técnico del
+                                                                63001-233-000-                                                                                             Consultor.
+                                                                  2018-0036-00.
+                                                                    Ausencia de
+                                                              acompañamiento,
+
+
+
+
+                                                                                                                                       Contratista (Interventor)
+                                                                                                                                                                                                                             Interventor y Supervisor
+                                                                                                                                                                         Liderazgo del
+                                                                      asesoría y       Falta de soporte
+                                                                                                                                                                    componente jurídico
+
+
+
+
+                                       Jurídico / Técnico
+                                                                     advertencia      legal para la toma                                                                                                                                                                            Informes de
+                                                                                                                                                                   de la Interventoría en
+                                                                   oportuna a la         de decisiones                                                                                                                                                                            acompañamient
+
+
+    Específico                                                                                                           Riesgo Alto                                                                      Riesgo Bajo
+                                                                                                                                                                    las mesas de trabajo
+
+                 Interno   Ejecución
+                                                                       Entidad         administrativas.                                                                                                                                                           Fase de         o jurídico sobre
+                                                                                                                                                                     interinstitucionales.
+6                                                           (Gobernación) sobre       Nulidad de actos y     3   5   8                                                                        1   3   4                 Sí                                      zonificación     la articulación de      Mensual
+                                                                                                                                                                   Emisión de "Conceptos
+
+
+
+                                                                                                                                                                                                                                  (Gobernación)
+                                                                las implicaciones     desarticulación con                                                                                                                                                        preliminar       la determinante
+                                                                                                                                                                    Previos de Viabilidad
+                                                             legales si las Zonas    la Alcaldía Municipal                                                                                                                                                                         de riesgo en el
+                                                                                                                                                                       Jurídica" antes de
+                                                                de Amenaza Alta      para la actualización                                                                                                                                                                              EOT.
+                                                                                                                                                                      consolidar el mapa
+                                                                 comprometen el            del EOT.
+                                                                                                                                                                              final.
+                                                                actual Perímetro
+                                                                Urbano de Pijao.
+                                                                  (Efecto Espejo
+                                                                   Precio Global)
+                                                            Aprobación indebida
+
+
+
+
+                                                                                                                                       Contratista (Interventor)
+                                                              de reconocimiento       Hallazgos fiscales                                                           Capacitación inicial del
+                                                                  económico por          por pagos no                                                                     equipo de
+                                                            mayores cantidades           autorizados,                                                              interventoría sobre la                                                                                        Auditoría interna
+
+
+                           Ejecución   Financiero                                                                        Riesgo Alto                                                                      Riesgo Bajo              Interventor
+    Técnico      Interno
+                                                             de obra (ej. metros         desequilibrio                                                             naturaleza jurídica del                                                                                       a los soportes de
+                                                                                                                                                                                                                                                              Desde el Acta de                        Mensual (previo
+7                                                                  adicionales de      presupuestal del      2   5   7                                             contrato (Global Fijo)     1   1   2                 No                                                        pago y actas de
+                                                                                                                                                                                                                                                                   Inicio                                a pagos)
+                                                                    perforación)      proyecto por mala                                                            y prohibición expresa                                                                                             liquidación
+                                                                 obviando que el      administración del                                                             de avalar adiciones                                                                                         parcial firmadas.
+                                                                     contrato de     contrato, detrimento                                                              por imprevistos
+                                                                 consultoría es a        patrimonial.                                                               geológicos menores.
+                                                             Precio Global Fijo y
+                                                                 con cláusula de
+                                                              suficiencia técnica.
+                                                                                                                                                                   Exigencia contractual
+
+
+
+
+                                                                                                                                       Contratista (Interventor)                                                                   Interventor y Supervisor
+                                                               Inasistencia del
+                                                                                       Falta de defensa                                                             de presencialidad y
+                                                                  Director de                                                                                                                                                                                                       Control de
+                                                                                     técnica institucional                                                           disponibilidad del
+                                                             Interventoría o de                                                                                                                                                                                                    asistencia en
+                                                                                      ante la Autoridad                                                               personal clave.
+
+
+    Específico                         Operacional                                                                       Riesgo Alto                                                                      Riesgo Bajo
+                                                              los Especialistas                                                                                                                                                                                                  actas de comité,
+
+                 Interno   Ejecución
+                                                                                           Ambiental;                                                              Aplicación estricta de
+                                                                clave a mesas                                                                                                                                                                                 Desde el Acta de   cruce de firmas       Por evento /
+8                                                                                      aprobaciones sin      2   4   6                                             multas por inasistencia    1   2   3                 Sí
+                                                            técnicas con la CRQ,                                                                                                                                                                                   Inicio         en planillas de        Mensual
+                                                                                        rigor científico;                                                                a eventos
+                                                               o delegación de                                                                                                                                                                                                        pago de
+                                                                                          retrasos por                                                                programados o
+                                                            aprobaciones críticas                                                                                                                                                                                                 honorarios de
+                                                                                     reprocesos técnicos                                                                cambios no
+                                                               en personal de                                                                                                                                                                                                     especialistas.
+                                                                                      de la supervisión.                                                               autorizados de
+                                                              apoyo no idóneo.
+                                                                                                                                                                         personal.
+
