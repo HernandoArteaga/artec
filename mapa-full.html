@@ -819,6 +819,9 @@ svg.leaflet-image-layer.leaflet-interactive path {
     justify-content: center;
     padding: 16px;
   }
+.access-gate-help{font-size:12px;color:#444;margin:14px 0 8px!important}
+.access-gate-wa{display:block;padding:10px 12px;font-size:14px;font-weight:600;color:#fff!important;background:#1f9d55;border-radius:6px;text-decoration:none!important}
+.access-gate-wa:hover{background:#17834a}
   .access-gate-box {
     background: white;
     border-radius: 10px;
@@ -882,16 +885,17 @@ svg.leaflet-image-layer.leaflet-interactive path {
 <div class="access-gate" id="access-gate">
   <div class="access-gate-box">
     <h2>ARTEC HIDRO</h2>
-    <p>Acceso restringido. Solicita el codigo vigente escribiendo a <a href="mailto:gerencia@artechidrologia.com">gerencia@artechidrologia.com</a> o llamando al +57 305 421 2200.</p>
+    <p>Acceso restringido.</p>
     <input type="text" inputmode="numeric" maxlength="5" id="access-code-input" placeholder="Codigo de 5 digitos" autocomplete="off">
     <button id="access-code-btn">Ingresar</button>
     <div class="access-gate-error" id="access-code-error"></div>
+    <p class="access-gate-help">Solicite la clave por WhatsApp al <b>+57 305 421 2200</b>.</p><a class="access-gate-wa" href="https://wa.me/573054212200?text=Hola%2C%20quisiera%20la%20clave%20de%20acceso%20al%20mapa%20de%20proyectos%20de%20ARTEC%20HIDRO." target="_blank" rel="noopener">Pedir la clave por WhatsApp</a>
   </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
-// Código de acceso: hora militar de Bogotá (HHMM) seguida de 1. Se aceptan el minuto actual y los dos anteriores.
+// Código de acceso: hora militar de Bogotá (HHMM) seguida de 1 o de 2. Se aceptan el minuto actual y los dos anteriores.
 function codigoBogota(offsetMin) {
   const d = new Date(Date.now() - offsetMin * 60000);
   const p = {};
@@ -908,7 +912,7 @@ async function tryUnlock() {
     errorEl.textContent = 'Ingresa un codigo.';
     return;
   }
-  if ([0, 1, 2].some(m => codigoBogota(m) === code)) {
+  if ([0, 1, 2].some(m => [codigoBogota(m), codigoBogota(m).slice(0, 4) + '2'].includes(code))) {
     document.getElementById('access-gate').style.display = 'none';
     document.getElementById('map').style.display = 'block';
     initApp();
